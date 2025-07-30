@@ -1,0 +1,45 @@
+Código,Cód. Pai,nome,JFTRU
+1198,,PROCEDIMENTOS ADMINISTRATIVOS ,X
+12248,1198,Pedido de Cooperação Judiciária,X
+2,,PROCESSO CÍVEL E DO TRABALHO ,X
+214,2,Outros Procedimentos,X
+237,214,Atos e expedientes,X
+241,237,Petição Cível,X
+215,214,Incidentes,X
+14991,215,Classificação de Crédito Público,X
+224,215,Exceções,X
+1230,224,Exceção de Impedimento,X
+1231,224,Exceção de Suspeição,X
+12080,215,Incidente de Impedimento Cível,X
+12081,215,Incidente de Suspeição Cível,X
+457,215,Pedido de Uniformização de Interpretação de Lei Cível,X
+1106,2,Processo de Conhecimento,X
+1107,1106,Procedimento de Conhecimento,X
+26,1107,Procedimentos Especiais,X
+27,26,Procedimentos Especiais de Jurisdição Contenciosa,X
+46,27,Restauração de Autos Cível,X
+62,26,"Procedimentos Regidos por Outros Códigos, Leis Esparsas e Regimentos",X
+120,62,Mandado de Segurança Cível,X
+197,2,Recursos,X
+200,197,Agravos,X
+204,200,Agravo de Instrumento em Recurso Extraordinário,X
+206,200,Agravo Regimental Cível,X
+207,197,Embargos,X
+1689,207,Embargos de Declaração Cível,X
+12133,2,Tutela Provisória de Urgência e Tutela Provisória de Evidência,X
+12135,12133,Tutela Antecipada Antecedente,X
+12134,12133,Tutela Cautelar Antecedente,X
+268,,PROCESSO CRIMINAL ,X
+1727,268,Petição Criminal,X
+284,268,Processo Especial,X
+292,284,Processo Especial de Leis Esparsas,X
+14701,292,Habeas Data Criminal,X
+285,284,Processo Especial do Código de Processo Penal,X
+291,285,Restauração de Autos Criminal,X
+316,268,Questões e Processos Incidentes,X
+331,316,Incidentes,X
+14678,331,Acordo de Não Persecução Penal,X
+433,331,Incidente de Uniformização de Jurisprudência,X
+11791,331,Pedido de Uniformização de Interpretação de Lei Criminal,X
+412,268,Recursos,X
+1729,412,Agravo Interno Criminal,X

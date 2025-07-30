@@ -1,0 +1,136 @@
+Código,Cód. Pai,nome,STF
+385,,EXECUÇÃO PENAL E DE MEDIDAS ALTERNATIVAS ,X
+12729,385,Execução de Medidas Alternativas no Juízo Comum,X
+12727,385,Execução de Pena de Multa,X
+12728,385,Transferência Entre Estabelecimentos Penais,X
+1198,,PROCEDIMENTOS ADMINISTRATIVOS ,X
+256,1198,Representação por Excesso de Prazo,X
+547,,PROCEDIMENTOS DE INFÂNCIA E JUVENTUDE ,X
+1385,547,Seção Cível,X
+1386,1385,Processo de Conhecimento,X
+12230,1386,Guarda c/c destituição do poder familiar,X
+1459,547,Seção Infracional,X
+12071,1459,Procedimentos Cautelares,X
+12424,12071,Medidas de Proteção à Pessoa Idosa - Infracional,X
+12423,12071,Medidas Protetivas de Urgência (Lei Maria da Penha) - Infracional,X
+11099,,PROCEDIMENTOS PRÉ-PROCESSUAIS DE RESOLUÇÃO CONSENSUAL DE CONFLITOS ,X
+12136,11099,Pedido de Mediação Pré-Processual,X
+2,,PROCESSO CÍVEL E DO TRABALHO ,X
+214,2,Outros Procedimentos,X
+215,214,Incidentes,X
+12087,215,Incidente de Assunção de Competência,X
+12119,215,Incidente de Desconsideração de Personalidade Jurídica,X
+12085,215,Incidente de Resolução de Demandas Repetitivas,X
+1106,2,Processo de Conhecimento,X
+1107,1106,Procedimento de Conhecimento,X
+26,1107,Procedimentos Especiais,X
+27,26,Procedimentos Especiais de Jurisdição Contenciosa,X
+12541,27,Divórcio Litigioso,X
+12375,27,Reclamação,X
+50,26,Procedimentos Especiais de Jurisdição Voluntária,X
+12234,50,Curatela,X
+12227,50,Interpelação,X
+12226,50,Notificação,X
+12228,50,Protesto,X
+12229,50,Protesto formado a bordo,X
+12369,50,Tomada de Decisão Apoiada,X
+12233,50,Tutela Cível,X
+62,26,"Procedimentos Regidos por Outros Códigos, Leis Esparsas e Regimentos",X
+65,62,Ação Civil Pública,X
+66,62,Ação Popular,X
+12370,62,Tomada de Decisão Apoiada,X
+197,2,Recursos,X
+207,197,Embargos,X
+1689,207,Embargos de Declaração Cível,X
+212,197,Recurso Extraordinário,X
+12133,2,Tutela Provisória de Urgência e Tutela Provisória de Evidência,X
+12135,12133,Tutela Antecipada Antecedente,X
+12134,12133,Tutela Cautelar Antecedente,X
+268,,PROCESSO CRIMINAL ,X
+308,268,Medidas Cautelares,X
+10967,308,Medidas de Proteção à Pessoa Idosa - Criminal,X
+1268,308,Medidas Protetivas de Urgência (Lei Maria da Penha) - Criminal,X
+310,308,Pedido de Quebra de Sigilo de Dados e/ou Telefônico,X
+281,268,Procedimento Comum,X
+282,281,Ação Penal de Competência do Júri,X
+277,268,Procedimentos Investigatórios,X
+12121,277,Comunicado de Mandado de Prisão,X
+284,268,Processo Especial,X
+292,284,Processo Especial de Leis Esparsas,X
+12122,292,Reclamação Criminal,X
+316,268,Questões e Processos Incidentes,X
+1717,316,Alienação de Bens do Acusado,X
+14123,316,Destinação de Bens Apreendidos,X
+331,316,Incidentes,X
+14678,331,Acordo de Não Persecução Penal,X
+326,316,Restituição de Coisas Apreendidas,X
+11028,,PROCESSO MILITAR ,X
+15321,11028,Revisão Judicial - RDII,X
+5,,SUPERIOR TRIBUNAL DE JUSTIÇA ,X
+1046,5,Agravo em Recurso de Mandado de Segurança,X
+1045,5,Agravo em Recurso Extraordinário,X
+1310,,SUPREMO TRIBUNAL FEDERAL ,X
+1312,1310,Ação Originária,X
+1311,1310,Ação Cautelar,X
+1315,1310,Ação Cível Originária,X
+1313,1310,Ação Declaratória de Constitucionalidade,X
+1314,1310,Ação Direta de Inconstitucionalidade,X
+12775,1310,Ação Direta de Inconstitucionalidade por Omissão,X
+1317,1310,Ação Penal,X
+1318,1310,Ação Rescisória,X
+12780,1310,Admissão de Assistente,X
+1320,1310,Agravo de Instrumento,X
+1319,1310,Agravo Interno,X
+1321,1310,Agravo Regimental,X
+1322,1310,Arguição de Descumprimento de Preceito Fundamental,X
+12776,1310,Arguição de Impedimento,X
+1323,1310,Arguição de Suspeição,X
+1324,1310,Carta Rogatória,X
+1325,1310,Comunicação,X
+1326,1310,Conflito de Competência,X
+12786,1310,Cumprimento de Sentença,X
+12785,1310,Embargos à Execução,X
+1327,1310,Embargos de Declaração,X
+1328,1310,Embargos Divergentes,X
+1329,1310,Embargos Infringentes,X
+12777,1310,Exceção de Incompetência,X
+12778,1310,Exceção de Litispendência,X
+12788,1310,Execução contra a Fazenda Pública,X
+12789,1310,Execução de Pena,X
+12790,1310,Extensão,X
+1330,1310,Extradição,X
+1331,1310,Habeas Corpus,X
+1332,1310,Habeas Data,X
+12781,1310,Impugnação ao Valor da Causa,X
+12791,1310,Incidente de Assunção de Competência,X
+12782,1310,Incidente de Falsidade,X
+1333,1310,Inquerito,X
+1334,1310,Intervenção Federal,X
+1335,1310,Mandado de Injunção,X
+1336,1310,Mandado de Segurança,X
+1337,1310,Medida Cautelar,X
+1338,1310,Petição,X
+1339,1310,Prisão Preventiva para Extradição,X
+1340,1310,Processo Administrativo,X
+12779,1310,Proposta de Súmula Vinculante,X
+1341,1310,Questão de Ordem,X
+1342,1310,Reclamação,X
+1343,1310,Recurso Criminal,X
+1344,1310,Recurso em Habeas Corpus,X
+1345,1310,Recurso em Habeas Data,X
+1346,1310,Recurso em Mandado de Injunção,X
+1347,1310,Recurso em Mandado de Segurança,X
+1348,1310,Recurso Extraordinário,X
+11880,1310,Recurso Extraordinário com Agravo,X
+1349,1310,Revisão Criminal,X
+1350,1310,Sentença Estrangeira,X
+1351,1310,Sentença Estrangeira Contestada,X
+12784,1310,Suspeição de Perito,X
+1352,1310,Suspensão de Liminar,X
+1353,1310,Suspensão de Segurança,X
+1354,1310,Suspensão de Tutela Provisória,X
+12117,1310,Suspensão do Incidente de Resolução de Demandas Repetitivas,X
+12249,1310,Suspensão em IRDR,X
+12190,1310,Suspensão Nacional do Incidente de Resolução de Demandas Repetitivas,X
+12191,1310,Tutela Provisória Antecedente,X
+12192,1310,Tutela Provisória Incidental,X

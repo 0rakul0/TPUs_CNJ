@@ -1,0 +1,787 @@
+cdigo,cd_pai,nome,CJF,CNJ,FTR,JE1G,JE2G,JEFP,JEJE,JETR,JF1G,JF2G,JFJE,JFTNU,JFTRU,JME,JME1,JMU,JMU1,JT1G,JT2G,JTTST,STF,STJ,TEU
+1,,Magistrado ,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+3,1,Decisão,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+7,3,Conversão,,,,X,X,X,X,,X,X,X,,,X,X,X,X,X,X,X,X,X,
+11,3,Declaração,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+14,,Serventuário ,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+15,14,Contador,,,X,X,X,X,X,X,X,X,X,X,X,X,X,,,X,X,X,X,X,X
+16,15,Cálculo,,,,X,X,X,X,X,X,X,X,,,X,X,,,X,X,X,X,X,
+18,14,Distribuidor,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+22,18,Baixa Definitiva,X,X,X,X,X,X,X,X,X,X,X,,X,X,X,X,X,X,X,X,X,X,X
+25,3,Suspensão ou Sobrestamento,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+26,18,Distribuição,X,X,X,X,X,X,X,X,X,X,X,,X,X,X,X,X,X,X,X,X,X,X
+36,18,Redistribuição,,X,X,X,X,X,X,X,X,X,X,,X,X,X,X,X,X,X,X,X,X,X
+48,14,Escrivão/Diretor de Secretaria/Secretário Jurídico,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+51,48,Conclusão,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+56,3,Requisição de informações,,,X,X,X,X,X,X,X,X,X,,X,,,,,X,X,X,X,X,X
+60,48,Expedição de documento,X,X,X,X,X,X,X,X,X,X,X,,X,X,X,X,X,X,X,X,X,X,X
+63,3,Ordenação de entrega de autos,,,,X,X,X,X,X,X,,X,,,,,,,X,X,X,,X,
+67,48,Juntada,X,X,X,X,X,X,X,X,X,X,X,,X,X,X,X,X,X,X,X,X,X,X
+83,3,Cancelamento da distribuição,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,,X,X
+85,67,Petição,X,X,X,X,X,X,X,X,X,X,X,,X,X,X,X,X,X,X,X,X,X,X
+92,48,Publicação,X,,X,X,X,X,X,X,X,X,X,,X,X,X,X,X,X,X,X,X,X,X
+104,14,Oficial de Justiça,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+105,104,Devolução,X,X,X,X,X,X,X,X,X,X,X,,X,X,X,X,X,X,X,X,X,X,X
+106,105,Mandado,X,X,X,X,X,X,X,X,X,X,X,,X,X,X,X,X,X,X,X,X,X,X
+108,3,Decretação de Prisão Criminal,,,,X,X,,,,X,X,,,,X,X,X,X,,,,X,X,
+112,105,Ofício,X,X,X,X,X,X,X,X,X,X,X,,X,X,X,X,X,X,X,X,X,X,X
+113,3,Decretação de Prisão Civil,,,,X,X,X,X,,X,X,X,,,X,X,,,X,X,X,,X,
+115,104,Recebimento,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+117,3,Decretação de Internação,,,,X,X,,,,,,,,,,,,,,,,,X,
+118,48,Protocolo de Petição,X,,X,X,X,X,X,X,X,X,X,,X,X,X,X,X,X,X,X,X,X,X
+122,3,Desacolhimento de Prisão,,,X,X,X,,X,X,X,X,X,,,X,X,X,X,,,,X,X,
+123,48,Remessa,X,X,X,X,X,X,X,X,X,X,X,,X,X,X,X,X,X,X,X,X,X,X
+128,157,Prisão,,,,X,X,,,,X,X,X,,,X,X,X,X,X,X,X,,X,
+132,48,Recebimento,X,X,X,X,X,X,X,X,X,X,X,,X,X,X,X,X,X,X,X,X,X,X
+133,3,Acolhimento de exceção,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+135,48,Apensamento,X,X,X,X,X,X,X,X,X,X,X,,X,X,X,X,X,X,X,X,X,X,X
+137,48,Desapensamento,X,X,X,X,X,X,X,X,X,X,X,,X,X,X,X,X,X,X,X,X,X,X
+138,3,Rejeição,,X,X,X,X,X,X,X,X,X,X,,X,X,X,X,X,X,X,X,X,X,X
+146,3,Não-Homologação de prisão em flagrante,,,,X,X,X,X,,X,X,X,,,X,X,X,X,,,,,X,
+151,3,Concessão de efeito suspensivo,,,X,X,X,X,X,X,X,X,X,,,X,X,X,X,,,X,X,X,
+157,3,Revogação,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+160,3,Recebimento,,X,X,X,X,X,X,X,X,X,X,,X,X,X,X,X,X,X,X,X,X,X
+163,3,Não-Recebimento,X,,X,X,X,X,X,X,X,X,X,,X,X,X,X,X,X,X,X,X,X,X
+172,3,Deliberação da partilha,,,,X,,,,,,,,,,,,,,,,,,,
+175,378,Prisão em flagrante,,,,X,X,X,X,,X,X,X,,,X,X,X,X,,,,,X,
+190,3,Reforma de decisão anterior,,X,,X,X,X,X,X,,,,,,X,X,X,,X,,,X,,
+193,1,Julgamento,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+196,385,Extinção da execução ou do cumprimento da sentença,,,,X,X,X,X,,X,X,X,,,X,X,,,X,X,X,,X,
+198,385,Acolhimento de Embargos de Declaração,,,X,X,X,X,X,X,X,X,X,,X,X,X,X,,X,X,X,X,X,X
+200,385,Não-Acolhimento de Embargos de Declaração,,,X,X,X,X,X,X,X,X,X,,X,X,X,X,,X,X,X,X,X,X
+202,385,Decretação de falência,,,,X,,,,,,,,,,,,,,,,,,,
+206,3,Admissão,,,X,X,X,,,X,X,X,,X,X,X,,X,,,X,X,X,X,
+207,3,Não-Admissão,,,X,X,X,,,X,X,X,,X,X,X,,X,,,X,X,X,X,
+208,385,Não-Decretação de Falência,,,,X,,,,,,,,,,,,,,,,,,,
+210,385,Concessão,,X,X,X,X,,,X,X,X,,,,X,X,X,X,X,X,X,X,X,
+212,385,Denegação,,,X,X,X,,,X,X,X,,,,X,X,X,X,X,X,X,X,X,
+214,385,Concessão em Parte,,,X,X,X,,,X,X,X,,,,X,X,X,X,X,X,X,X,X,
+218,193,Sem Resolução de Mérito,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+219,385,Procedência,,X,,X,X,X,X,,X,X,X,,,X,X,X,X,X,X,X,X,X,
+220,385,Improcedência,,X,,X,X,X,X,,X,X,X,,,X,X,X,X,X,X,X,X,X,
+221,385,Procedência em Parte,,X,,X,X,X,X,,X,X,X,,,X,X,X,X,X,X,X,X,X,
+228,218,Arquivamento,,,,,,,,,,,,,,,,,,X,,,,,
+230,218,Recurso prejudicado,,X,X,,X,,,X,,X,,,X,X,,X,,,X,X,X,X,X
+235,218,Não Conhecimento de recurso,,X,X,X,X,,,X,X,X,,,X,X,X,X,,X,X,X,X,X,X
+236,218,Negação de Seguimento,,X,X,,X,,,X,,X,,,X,X,X,X,,,X,X,X,X,X
+237,385,Provimento,,X,X,,X,,,X,,X,,,X,X,,X,,,X,X,X,X,X
+238,385,Provimento em Parte,,X,X,,X,,,X,,X,,,X,X,,X,,,X,X,X,X,X
+239,385,Não-Provimento,,X,X,,X,,,X,,X,,,X,X,,X,,,X,X,X,X,X
+240,385,Conhecimento em Parte e Provimento ou Concessão,,X,X,,X,,,X,,X,,,X,X,,X,,,X,X,X,X,X
+241,385,Conhecimento em Parte e Provimento em Parte ou Concessão em Parte,,X,X,,X,,,X,,X,,,X,X,,X,,,X,X,X,X,X
+242,385,Conhecimento em Parte e Não-Provimento ou Denegação,,X,X,,X,,,X,,X,,,X,X,,X,,,X,X,X,X,X
+244,218,Conversão de Agravo de Instrumento em Agravo Retido,,,,,X,,,,,X,,,,X,,,,,,,,,
+245,861,Provisório,X,X,X,X,X,X,X,X,X,X,X,X,X,X,,X,,X,X,X,,,X
+246,861,Definitivo,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+263,25,Réu revel citado por edital ,,,,X,X,,,,X,X,X,,,,,X,X,,,,,X,
+264,25,Suspensão Condicional do Processo,,,,X,X,X,X,,X,X,X,,,X,X,,X,,,,,X,
+265,25,Recurso Extraordinário com repercussão geral,,,X,X,X,,X,X,X,X,X,,X,X,,X,,X,X,X,X,X,X
+266,7,Julgamento em Diligência,,,,X,,X,X,,X,,X,,,,,,,X,X,X,X,,
+268,25,Morte ou perda da capacidade,,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,,X,X
+269,11,Impedimento ou Suspeição,,X,X,X,X,X,X,X,X,X,X,,X,X,X,X,X,X,X,X,X,X,X
+270,25,Convenção das Partes,,,X,X,X,X,X,X,X,X,X,,,,,,,X,X,X,,X,
+271,25,"Exceção de Incompetência, suspeição ou Impedimento",,,X,X,X,X,X,X,X,X,X,X,X,,,,,X,X,X,,X,X
+272,25,"A depender do julgamento de outra causa, de outro juízo ou declaração incidente",,X,X,X,X,X,X,X,X,X,X,,X,X,X,X,X,X,X,X,X,X,X
+275,25,Força maior,,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,,X,X
+276,25,Execução frustrada,,,,X,X,X,X,,X,X,X,,,X,X,,,X,X,X,,,
+277,25,Convenção das Partes para Satisfação Voluntária da Obrigação em Execução ou Cumprimento de Sentença,,,,X,X,X,X,X,X,X,X,,,,,,,X,X,X,,X,
+278,25,Recebimento de Embargos à Execução,,,,X,X,X,X,X,X,X,,,,,,,,,,,,X,
+279,25,Incidente de Insanidade Mental,,,,X,X,X,X,X,X,X,X,,,,,,,,,,,X,
+311,48,Leilão ou Praça,,,,X,X,X,X,,X,X,X,,,X,X,X,X,X,,,,X,
+313,48,Sessão do Tribunal do Júri,,,,X,,,,,X,,,,,,,,,,,,,,
+332,817,Tutela Provisória,,,,X,X,X,X,,X,X,,,,X,X,X,X,X,X,X,X,X,
+334,968,Gratuidade da Justiça,,,X,X,X,X,X,X,X,X,X,,X,X,X,X,X,X,X,X,X,X,X
+335,133,de pré-executividade,,,,X,X,X,X,,X,X,X,,,X,X,,,X,X,X,,X,
+339,817,Liminar,,X,X,X,X,X,X,X,X,X,X,,,X,X,X,X,X,X,X,X,X,
+347,157,Tutela Provisória,,,,X,X,,,,X,X,,,,X,X,X,X,X,X,X,X,X,
+348,157,Liminar,,X,X,X,X,X,X,X,X,X,X,,,X,X,X,X,X,X,X,X,X,
+349,157,Gratuidade de Justiça,,,X,X,X,X,X,X,X,X,X,,X,X,X,X,X,,,,X,X,X
+352,108,Temporária,,,,X,X,,,,X,X,,,,X,X,X,X,,,,,X,
+353,108,Preventiva,,,,X,X,,,,X,X,,,,X,X,X,X,,,,X,X,
+354,113,Alimentos,,,,X,X,,,,,,,,,,,,,,,,,X,
+355,113,Depositário infiel,,,,X,X,X,X,,X,X,X,,,X,X,,,X,X,X,,X,
+357,122,Temporária,,,,X,X,,,,X,X,,,,X,X,X,X,,,,,X,
+358,122,Preventiva,,,,X,X,,,,X,X,,,,X,X,X,X,,,,,X,
+371,133,Incompetência,,,X,X,X,,,,X,X,X,,X,X,X,X,X,X,X,X,X,X,X
+373,138,Exceção de Impedimento ou Suspeição,,X,X,X,X,X,X,X,X,X,X,,X,X,X,X,X,,X,X,X,X,X
+374,138,Exceção de incompetência,,,X,X,X,,,,X,X,X,,X,X,X,X,X,X,X,X,X,X,X
+377,378,Acordo em execução ou em cumprimento de sentença,,,,,,,,,,,,,,X,X,,,X,X,X,X,,
+378,3,Homologação,,X,X,X,X,X,X,X,X,X,X,,,X,X,X,X,X,X,X,X,X,
+381,151,Recurso,,,X,X,X,X,X,X,X,X,X,,,X,X,X,X,,,X,X,X,
+383,151,Impugnação ao cumprimento de sentença,,,,X,X,X,X,,X,X,X,,,X,X,,,,,,,X,
+385,193,Com Resolução do Mérito,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+388,160,Aditamento da denúncia,,,,X,X,,,,X,X,X,,,X,X,X,X,,,,X,X,
+389,160,Aditamento da queixa,,,,X,X,X,X,,X,X,X,,,X,X,,,,,,X,X,
+391,160,Denúncia,,,,X,X,X,X,,X,X,X,,,X,X,X,X,,,,X,X,
+393,160,Queixa,,,,X,X,X,X,,X,X,X,,,X,X,,,,,,X,X,
+394,1060,Com efeito suspensivo,,,X,X,X,X,X,X,X,X,X,,X,X,X,X,X,,X,X,X,X,X
+399,138,Aditamento da denúncia,,,,X,X,,,,X,X,X,,,X,X,X,X,,,,X,X,
+400,138,Aditamento da queixa,,,,X,X,X,X,,X,X,X,,,X,X,,X,,,,X,X,
+402,138,Denúncia,,,,X,X,X,X,,X,X,X,,,X,X,X,X,,,,X,X,
+404,138,Queixa,,,,X,X,X,X,,X,X,X,,,X,X,X,X,,,,X,X,
+417,48,Inclusão em pauta,,X,X,,X,,,X,,X,,,X,X,,X,,,X,X,X,X,X
+429,206,Recurso extraordinário,,,X,X,X,,,X,X,X,,,,X,,X,,,,X,X,X,
+430,206,Recurso especial,,,,,X,,,,,X,,,,X,,,,,,,,X,
+431,206,Recurso de revista,,,,,,,,,,X,,,,,,,,,X,,,,
+432,207,Recurso Extraordinário,,,X,X,X,,,X,X,X,,,,X,,X,,,,X,X,X,
+433,207,Recurso Especial,,,,,X,,,,,X,,,,X,,,,,,,,,
+434,207,Recurso de Revista,,,,,,,,,,X,,,,,,,,,X,,,,
+442,210,Segurança,,,X,X,X,,,X,X,X,,,,X,X,X,,X,X,X,X,X,
+443,210,Habeas corpus,,,X,X,X,,,X,X,X,,,,X,X,X,X,X,X,X,X,X,
+444,210,Habeas data,,,,X,X,,,,X,X,,,,X,X,X,,X,X,X,X,X,
+445,210,Mandado de injunção,,,,,,,,,,,,,,,,,,,,,X,,
+446,212,Segurança,,,X,X,X,,,X,X,X,,,,X,X,X,X,X,X,X,X,X,
+447,212,Habeas corpus,,,X,X,X,,,X,X,X,,,,X,X,X,X,X,X,X,X,X,
+448,212,Habeas data,,,,X,X,,,,X,X,,,,X,X,X,,X,X,X,X,X,
+449,212,Mandado de injunção,,,,,,,,,,,,,,,,,,,,,X,,
+450,214,Segurança,,,X,X,X,,,X,X,X,,,,X,X,X,X,X,X,X,X,X,
+451,214,Habeas corpus,,,X,X,X,,,X,X,X,,,,X,X,X,X,X,X,X,X,X,
+452,214,Habeas data,,,,X,X,,,,X,X,,,,X,X,X,,X,X,X,X,X,
+453,214,Mandado de injunção,,,,,,,,,,,,,,,,,,,,,X,,
+454,456,Indeferimento da petição inicial,,X,X,X,X,X,X,X,X,X,X,,,X,X,X,X,X,X,X,X,X,
+455,385,Renúncia ao direito pelo autor,,,X,X,X,X,X,X,X,X,X,,X,X,X,,,X,X,X,X,X,X
+456,218,Extinção,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+457,456,Paralisação por negligência das partes,,,X,X,X,X,X,X,X,X,X,,X,X,X,X,,X,X,X,X,X,X
+458,456,Abandono da causa,,,X,X,X,X,X,X,X,X,X,,,X,X,,,X,X,X,X,X,
+459,456,Ausência de pressupostos processuais,,X,X,X,X,X,X,X,X,X,X,,,X,X,X,X,X,X,X,X,X,
+460,456,"Perempção, litispendência ou coisa julgada",,X,X,X,X,X,X,X,X,X,X,,X,X,X,X,X,X,X,X,X,X,X
+461,456,Ausência das condições da ação,,X,X,X,X,X,X,X,X,X,X,,,X,X,X,X,X,X,X,X,X,
+462,456,Convenção de arbitragem,,,X,X,X,X,X,X,X,X,X,,X,,,,,X,X,X,X,X,X
+463,456,Desistência,,X,,X,X,X,X,,X,X,X,,,X,X,X,,X,X,X,X,X,
+464,456,Ação intransmissível,,,X,X,X,X,X,X,X,X,X,,X,,,,,X,X,X,X,X,X
+465,456,Confusão entre autor e réu,,,,X,X,,,,X,X,,,,,,,,X,X,X,X,X,
+466,385,Homologação de Transação,,X,X,X,X,X,X,X,X,X,X,,,X,X,,,X,X,X,X,,
+471,385,Pronúncia de Decadência ou Prescrição,,,X,X,X,X,X,X,X,X,X,,X,X,X,X,X,X,X,X,X,X,X
+472,228,"Sumaríssimo (art. 852-B, § 1º/CLT)",,,,,,,,,,,,,,,,,,X,,,,,
+473,228,Ausência do Reclamante,,,,,,,,,,,,,,,,,,X,,,,,
+478,16,Cálculo de Liquidação,,,,X,X,X,X,,X,X,X,,,X,X,,,X,X,X,,X,
+479,16,Custas,,,,X,X,X,X,X,,,,,,X,X,,,X,X,X,X,X,
+480,16,Atualização de conta,,,,X,X,X,X,,X,X,X,,,X,X,,,X,X,X,,X,
+481,16,Tributos,,,,X,X,,,,,,,,,,,,,X,X,X,,X,
+488,18,Cancelamento de Distribuição,,X,,X,X,,,,X,X,,,,X,X,X,X,X,X,X,,X,
+493,48,Entrega em carga/vista,X,X,X,X,X,X,X,X,X,X,X,,X,X,X,X,X,X,X,X,X,X,X
+581,67,Documento,X,X,X,X,X,X,X,X,X,X,X,,X,X,X,X,X,X,X,X,X,X,X
+785,968,Tutela Provisória,,,,X,X,,,,X,X,,,,X,X,X,X,X,X,X,X,X,
+787,817,Gratuidade da Justiça,,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+788,138,Exceção de pré-executividade,,,,X,X,,,,X,X,,,,X,X,,,X,X,X,,X,
+792,968,Liminar,,X,X,X,X,X,X,X,X,X,X,,,X,X,X,,X,X,X,X,X,
+804,163,Recurso,X,,X,X,X,X,X,X,X,X,X,,X,X,X,X,X,X,X,X,X,X,X
+817,3,Concessão,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+818,817,Liberdade provisória,,,,X,X,X,X,,X,X,X,,,X,X,X,X,,,,,X,
+819,817,Livramento Condicional,,,,X,X,,,,X,X,X,,,X,X,X,X,,,,,X,
+821,7,Pena / Medida,,,,X,X,X,X,,X,X,X,,,X,X,X,X,,,,,X,
+823,117,Provisória,,,,X,X,,,,,,,,,,,,,,,,,X,
+824,117,Definitiva,,,,X,X,,,,,,,,,,,,,,,,,X,
+848,48,Trânsito em julgado,X,X,X,X,X,X,X,X,X,X,X,,X,X,X,X,X,X,X,X,X,X,X
+849,48,Reativação,X,X,X,X,X,X,X,X,X,X,X,,X,X,X,X,X,X,X,X,X,,X
+853,218,Conversão de Agravo de Instrumento em Recurso Especial ou Extraordinário,,,,,,,,,,,,,,,,,,,,,X,X,
+861,48,Arquivamento,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+865,14,Arquivista,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+866,865,Guarda Intermediária,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,,X,X
+867,865,Guarda Permanente,X,X,X,X,X,X,X,X,X,X,X,,X,X,X,X,X,X,X,X,X,X,X
+869,865,Entrega definitiva dos autos,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,,,X,X,X,,X,X
+870,865,Autos Eliminados,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,,X,X
+871,385,Acolhimento em parte de Embargos de Declaração,X,,X,X,X,X,X,X,X,X,X,,X,X,X,X,,X,X,X,X,X,X
+873,48,Deliberação em Sessão,X,X,X,,X,,,X,,X,,X,X,X,X,X,X,,X,X,X,X,X
+884,385,Transação Penal,,,,,,X,X,,,,X,,,X,X,,,,,,,X,
+888,3,Concessão em parte,,X,X,X,X,X,X,X,X,X,X,,X,X,X,X,X,X,X,X,X,X,X
+889,888,Tutela Provisória,,,,X,X,,,,X,X,,,,X,X,X,X,X,X,X,X,X,
+892,888,Liminar,,,X,X,X,X,X,X,X,X,X,,,X,X,X,X,X,X,X,X,X,
+893,48,Desarquivamento,,X,X,X,X,X,X,X,X,X,X,,X,X,X,X,X,X,X,X,X,X,X
+897,48,Retirada de pauta,X,X,X,,X,,,X,,X,,,X,X,,X,,,X,X,X,X,X
+898,25,Por decisão judicial,,X,X,X,X,X,X,X,X,X,X,,X,X,X,X,X,X,X,X,X,X,X
+900,385,Declaração de competência em conflito,X,,,X,,X,X,,X,X,X,,,,X,,X,X,,X,,,
+901,385,Negação de seguimento,,,,,X,,,,,X,,,,X,,X,,,X,X,X,X,
+905,113,"de estrangeiro para deportação, expulsão ou extradição",,,,,,,,,X,,,,,,,,,,,,,,
+928,48,Republicação,X,,X,X,X,X,X,X,X,X,X,,X,X,X,X,X,X,X,X,X,X,X
+940,133,Impedimento ou Suspeição,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+941,11,Incompetência,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+944,378,Desistência de Recurso,,X,X,X,X,X,X,X,X,X,X,,,X,X,X,X,X,X,X,X,X,
+945,157,Decisão anterior,,X,X,X,X,X,X,X,X,X,X,,X,X,X,X,X,X,X,X,X,X,X
+947,25,Por pendência de AIREsp,,,,,X,,,,,X,,,,X,,,,,,,X,X,
+960,25,Conflito de Competência,,,X,X,X,X,X,X,X,X,X,,,,,,,X,X,X,,X,
+961,3,Suscitação de Conflito de Competência,,,X,X,X,X,X,X,X,X,X,,,X,X,X,X,X,X,X,X,X,
+968,3,Não-Concessão,,X,X,X,X,X,X,X,X,X,X,,X,X,X,X,X,X,X,X,X,X,X
+970,48,Audiência,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+971,25,Exceção da Verdade,,,,X,X,,,,X,X,,,,,,,,,,,,,
+972,385,Provimento (art. 557 do CPC),,,X,,X,,,,,X,,X,X,X,,,,,X,X,X,X,
+973,385,Extinção da Punibilidade ou da Pena,,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,,,,X,X,
+977,865,Recebimento,X,X,X,X,X,X,X,X,X,X,X,,X,X,X,X,X,X,X,X,X,X,X
+978,865,Remessa,X,X,X,X,X,X,X,X,X,X,X,,X,X,X,X,X,X,X,X,X,X,X
+979,15,Recebimento,,,X,X,X,X,X,X,X,X,X,X,X,X,X,,,X,X,X,,X,X
+980,15,Remessa,,,X,X,X,X,X,X,X,X,X,X,X,X,X,,,X,X,X,,X,X
+981,18,Recebimento,X,X,X,X,X,X,X,X,X,X,X,,X,X,X,X,X,X,X,X,X,X,X
+982,18,Remessa,X,X,X,X,X,X,X,X,X,X,X,,X,X,X,X,X,X,X,X,X,X,X
+985,115,Mandado,X,,X,X,X,X,X,X,X,X,X,,X,X,X,X,X,X,X,X,X,X,X
+987,115,Ofício,X,,X,X,X,X,X,X,X,X,X,,X,X,X,X,X,X,X,X,X,X,X
+988,817,Permissão de saída,,,,X,X,,,,X,X,,,,X,X,,X,,,,,X,
+990,817,Direito de visita,,,,X,X,,,,X,X,,,,X,X,X,X,,,,,X,
+1002,817,Progressão de regime,,,,X,X,,,,X,X,,,,X,X,,X,,,,,X,
+1003,11,Remição,,,,X,,,,,X,,,,,X,X,,,,,,,,
+1004,157,Livramento Condicional,,,,X,X,,,,X,X,,,,X,X,X,X,,,,,X,
+1008,3,Autorização,,,,X,X,,,,X,X,,,,X,X,X,X,,,,,X,
+1009,1008,Trabalho Externo,,,,X,X,,,,X,X,,,,X,X,,X,,,,,X,
+1010,1008,Saída Temporária,,,,X,X,,,,X,X,,,,X,X,,X,,,,,X,
+1011,1008,Inclusão em Regime Disciplinar Diferenciado,,,,X,X,,,,X,X,,,,X,X,,,,,,,X,
+1013,3,Determinação,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+1014,1013,Regressão de Regime,,,,X,X,,,,X,X,,,,X,X,,X,,,,,X,
+1015,1013,Suspensão do Processo,,,,X,X,,,,X,X,,,,,,,,,,,X,X,
+1016,157,Suspensão Condicional da Pena,,,,X,X,,,,X,X,,,,X,X,X,X,,,,,X,
+1017,817,Suspensão Condicional da Pena,,,,X,X,,,,X,X,,,,X,X,X,X,,,,,X,
+1018,1008,Transferência para outro Estabelecimento Penal,,,,X,X,,,,X,X,,,,X,X,,X,,,,,,
+1019,1008,Transferência da Execução da Pena,,,,X,X,,,,X,X,,,,X,X,X,X,,,,,X,
+1042,973,Morte do agente,,,,X,X,X,X,,X,X,X,,,X,X,X,X,,,,,X,
+1043,973,"Anistia, graça ou indulto",,,,X,X,,,,X,X,,,,X,X,X,X,,,,,X,
+1044,973,Retroatividade de lei,,,,X,X,X,X,,X,X,X,,,X,X,X,X,,,,,X,
+1045,973,"Prescrição, decadência ou perempção",,,,X,X,X,X,,X,X,X,,,X,X,X,X,,,,,X,
+1046,973,Renúncia do queixoso ou perdão aceito ,,,,X,X,X,X,,X,X,X,,,,,,,,,,,X,
+1047,973,Retratação do agente,,,,X,X,X,X,,X,X,X,,,X,X,X,X,,,,,X,
+1048,973,Perdão judicial,,,,X,X,X,X,,X,X,X,,,X,X,X,X,,,,,X,
+1049,973,Pagamento integral do débito,,,,X,X,,,,X,X,,,,,,,,,,,,X,
+1050,973,Cumprimento da Pena,,,,X,X,,,,X,X,,,,X,X,X,X,,,,,X,
+1051,48,Decurso de Prazo,,X,X,X,X,X,X,X,X,X,X,,X,X,X,X,X,X,X,X,X,X,X
+1052,48,Bens Apreendidos,,,,X,X,X,X,,X,X,X,,,X,X,X,X,,,,X,X,
+1053,1052,Destinação,,,,X,X,X,X,,X,X,X,,,X,X,X,X,,,,,X,
+1054,1052,Destinação Parcial,,,,X,X,X,X,,X,X,X,,,X,X,X,X,,,,,X,
+1055,1052,Cadastramento,,,,X,X,X,X,,X,X,X,,,X,X,X,X,,,,X,X,
+1059,1060,Sem efeito suspensivo,,,X,X,X,X,X,X,X,X,X,,X,X,X,X,X,X,X,X,X,X,X
+1060,160,Recurso,,X,X,X,X,X,X,X,X,X,X,,X,X,X,X,X,X,X,X,X,X,
+1061,48,Disponibilização no Diário da Justiça Eletrônico,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+1062,48,Redisponibilização no Diário da Justiça Eletrônico,,X,,,,,,,,,,,,X,X,X,X,,,,X,,
+1063,1013,Determinação de arquivamento de procedimentos investigatórios,,X,,X,X,X,X,,X,X,X,,,X,X,X,X,,,,X,X,
+10953,218,Pronúncia,,,,X,,,,,X,,,,,,,,,,,,,,
+10961,218,Impronúncia,,,,X,,,,,X,,,,,,,,,,,,,,
+10962,1013,Regressão de Medida Sócio-Educativa,,,,X,,,,,,,,,,,,,,,,,,,
+10963,817,Progressão de Medida Sócio-Educativa,,,,X,,,,,,,,,,,,,,,,,,,
+10964,385,Extinção por Cumprimento de Medida Sócio-Educativa,,,,X,,,,,,,,,,,,,,,,,,,
+10965,210,Remissão a Adolescente Infrator,,,,X,,,,,,,,,,,,,,,,,,,
+11002,157,Revogação da Suspensão do Processo,,X,,,,X,X,,X,X,X,,,X,X,,,,,,,,
+11003,48,Início do Cumprimento da Transação Penal,,,,,,X,X,,,,,,,,X,,,,,,,,
+11008,48,Desmembramento de Feitos,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+11009,1,Despacho,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+11010,11009,Mero expediente,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+11012,11025,Conflito de Competência,,,X,X,X,X,X,X,X,X,X,,,X,X,X,X,X,X,X,,X,
+11013,11025,Convenção das Partes,,,X,X,X,X,X,X,X,X,X,,,X,X,,,X,X,X,,X,
+11014,11025,Convenção das Partes para Cumprimento Voluntário da obrigação,,,,X,X,X,X,X,X,X,X,,,X,X,,,X,X,X,,X,
+11015,11025,"Exceção de Incompetência, suspeição ou Impedimento",,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,,X,X
+11016,11025,Exceção da Verdade,,,,X,X,,,,X,X,,,,X,X,,,,,,,,
+11017,11025,Incidente de Insanidade Mental,,,,X,X,X,X,X,X,X,X,,,X,X,X,X,,,,,X,
+11018,11025,Recebimento de Embargos à Execução,,,,X,X,X,X,X,X,X,,,,X,X,,,,,,,X,
+11019,11009,Ordenação de entrega de autos,,,,X,X,X,X,X,X,,X,,,X,X,X,X,X,X,X,,X,
+11020,11009,Requisição de Informações,,X,X,X,X,X,X,X,X,X,X,,X,X,X,X,X,X,X,X,X,X,X
+11021,11009,Conversão,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+11022,11021,Julgamento em Diligência,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+11023,11009,Concessão,,,X,X,X,X,X,X,X,X,X,,X,X,X,X,X,X,X,X,X,X,X
+11024,11023,Assistência Judiciária Gratuita,,,X,X,X,X,X,X,X,X,X,,X,X,X,X,X,X,X,X,X,X,X
+11025,11009,Suspensão ou Sobrestamento,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+11373,218,Anulação de sentença/acórdão,,,X,X,X,X,X,X,X,X,X,,,X,X,X,X,X,X,X,X,X,
+11374,456,Devedor não encontrado,,,,,,X,X,,,,X,,,,,,,,,,,,
+11375,456,Inexistência de bens penhoráveis,,,,,,X,X,,,,X,,,,,,,,,,,,
+11376,456,Ausência do autor à audiência,,,,,,X,X,,,,X,,,,,,,,,,,,
+11377,456,Inadmissibilidade do procedimento sumaríssimo,,,,,,X,X,,,,X,,,,,,,,,,,,
+11378,456,Incompetência territorial,,,,,,X,X,,,,X,,,,,,,,,,,,
+11379,456,Incompetência em razão da pessoa,,,,,,X,X,,,,X,,,,,,,,,,,,
+11380,456,Autor falecido e sem habilitação de sucessores,,,,,,X,X,,,,X,,,,,,,,,,,,
+11381,456,Ausência de citação de sucessores do réu falecido,,,,,,X,X,,,,X,,,,,,,,,,,,
+11382,1013,Bloqueio/penhora on line,,,X,X,X,X,X,X,X,X,X,X,X,,,,,X,X,X,X,X,X
+11383,48,Ato ordinatório,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+11384,48,Liquidação iniciada,,,,X,,X,X,,X,X,,,,,X,,,X,X,X,,,
+11385,48,Execução/Cumprimento de Sentença Iniciada (o),,,,X,X,X,X,,X,X,X,,,X,X,,,X,X,X,,,
+11393,117,Sanção,,,,X,X,,,,,,,,,,,,,,,,,,
+11395,817,Remissão ao Adolescente como Forma de Suspensão do Processo,,,,X,,,,,,,,,,,,,,,,,,,
+11396,218,Concessão de remissão a adolescente com exclusão do processo,,,,X,,,,,,,,,,,,,,,,,,,
+11401,385,Procedência do pedido e procedência do pedido contraposto,,,,X,,X,X,,,,,,,,,,,,,,,,
+11402,385,Procedência do pedido e procedência em parte do pedido contraposto,,,,X,,X,X,,,,,,,,,,,,,,,,
+11403,385,Procedência do pedido e improcedência do pedido contraposto,,,,X,,X,X,,,,,,,,,,,,,,,,
+11404,385,Procedência em parte do pedido e procedência do pedido contraposto,,,,X,,X,X,,,,,,,,,,,,,,,,
+11405,385,Procedência em parte do pedido e procedência em parte do pedido contraposto,,,,X,X,,,,,,,,,,,,,,,,,,
+11406,385,Procedência em parte do pedido e improcedência do pedido contraposto,,,,X,,X,X,,,,,,,,,,,,,,,,
+11407,385,Improcedência do pedido e procedência do pedido contraposto,,,,X,,X,X,,,,,,,,,,,,,,,,
+11408,385,Improcedência do pedido e procedência em parte do pedido contraposto,,,,X,,X,X,,,,,,,,,,,,,,,,
+11409,385,Improcedência do pedido e improcedência do pedido contraposto,,,,X,,X,X,,,,,,,,,,,,,,,,
+11411,973,Cumprimento da suspensão condicional do processo,,,,X,X,X,X,,X,X,X,,,,X,,X,,,,,,
+11415,817,Comutação da pena,,,,X,X,,,,X,X,,,,X,X,X,X,,,,X,X,
+11423,817,Medida protetiva,,,,X,X,,,,,,,,,X,X,,,,,,X,X,
+11424,888,Medida protetiva,,,,X,X,,,,,,,,,X,X,,,,,,X,X,
+11425,968,Medida protetiva,,,,X,X,,,,,,,,,X,X,,,,,,X,X,
+11426,157,Medida protetiva,,,,X,X,,,,,,,,,X,X,,X,,,,X,X,
+11554,817,Indulto,,,X,X,X,,X,X,X,X,X,,,X,X,X,X,,,,,,
+11792,3,Livramento Condicional,,,,X,X,,,,X,X,,,,X,X,X,X,,,,,,
+11795,385,Procedência do Pedido - Reconhecimento pelo réu,,X,X,X,X,X,X,X,X,X,X,X,X,,,,,X,X,X,,,
+11796,385,Declaração de competência em conflito,,,X,,X,,,X,,,,X,X,X,,X,,,X,,X,X,
+11801,973,Reparação do dano,,,,,,,,,,,,,,X,X,X,X,,,,,,
+11876,385,Absolvição Sumária do art. 397-CPP,,,X,X,X,,X,X,X,X,X,,,,X,,X,,,,,X,
+11877,385,Absolvição sumária - crimes dolosos contra a vida,,,,X,X,,,,X,X,,,,,,,,,,,,X,
+11878,973,Prescrição,,,X,X,X,,X,X,X,X,X,,,X,X,X,X,,,,,X,
+11879,973,Decadência ou perempção,,,X,X,X,,X,X,X,X,X,,,X,X,X,X,,,,,X,
+11975,25,Recurso Especial repetitivo,,,X,X,X,,X,X,X,X,X,,,X,,X,,X,X,X,,X,
+11983,48,Retificação de movimento,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,,,,X,X,X
+12028,973,Cumprimento de transação penal,,,X,X,X,,X,X,X,X,X,X,X,,X,,X,,,,,X,
+12032,210,Exequatur,,,,,,,,,,,,,,,,,,,,,,X,
+12033,385,Sentença Estrangeira,,,,,,,,,,,,,,,,,,,,,,X,
+12034,385,Exequatur,,,,,,,,,,,,,,,,,,,,,,X,
+12035,160,Representação por ato infracional,,,,X,X,,,,,,,,,,,,,,,,,,
+12036,138,Representação por ato infracional,,,,X,X,,,,,,,,,,,,,,,,,,
+12037,1013,Quebra de sigilo fiscal,,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+12038,1013,Quebra de sigilo bancário,,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,,,,X,X,
+12039,1013,Quebra de sigilo telemático,,,,X,X,X,X,X,X,X,X,,,X,X,X,X,,,,X,X,
+12040,1013,Indisponibilidade de bens,,,,X,X,,,,X,X,,,,,,,X,X,X,X,X,X,
+12041,210,Recuperação judicial,,,,X,X,,,,,,,,,,,,,,,,,,
+12065,48,Cumprimento de Suspensão ou Sobrestamento,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+12066,48,Cumprimento de Levantamento da Suspensão ,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+12067,3,Levantamento da Suspensão ou Dessobrestamento,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+12068,11009,Levantamento da Suspensão ou Dessobrestamento,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+12092,3,Afetação ao rito dos recursos repetitivos ,,,,,X,,,,,X,,,,X,,,,,,X,,X,
+12093,3,Desafetação ao rito dos recursos repetitivos ,,,,,X,,,,,X,,,,X,,,,,,X,,,
+12094,206,Incidente de Resolução de demandas repetitivas (art. 981 e 982),,,,,X,,,,,X,,,,X,,X,,,X,X,,,
+12095,207,Incidente de resolução de demandas repetitivas,,,,,X,,,,,X,,,,X,,X,,,X,X,,,
+12096,206,Incidente de assunção de competência,,,,,X,,,,,X,,,,X,,,,,X,X,,,
+12097,207,Incidente de assunção de competência ,,,,,X,,,,,X,,,,X,,,,,X,X,,,
+12098,25,Incidente de Resolução de Demandas Repetitivas ,,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,,,X
+12099,25,Por decisão do Presidente do STJ - SIRDR,,,,X,X,,,,X,X,,,,X,X,,,X,X,X,,,
+12100,25,Por decisão do Presidente do STF - SIRDR,,,X,X,X,X,X,X,X,X,X,X,X,X,X,,,X,X,X,,,X
+12101,48,Inclusão do processo para julgamento eletrônico,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+12102,48,"Adiamento do julgamento (CPC, art. 935)",X,X,X,,X,,,X,,X,,X,X,X,,X,,,X,X,X,X,X
+12103,48,Pauta,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+12104,12103,Inclusão em pauta,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+12105,12103,Inclusão em Pauta de Sessão Virtual,X,X,X,,X,,,X,,X,,X,X,X,,X,,,X,X,X,X,X
+12106,12103,Adiamento do Julgamento para a Primeira Sessão Seguinte,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+12107,12105,Para análise de repercussão geral,,,,,,,,,,,,,,,,,,,,,X,,
+12108,12104,Para análise de repercussão geral,,,,,,,,,,,,,,,,,,,,,X,,
+12109,12105,Para análise da admissão do recurso repetitivo ,,,,,,,,,,,,,,,,,,,,X,X,X,
+12110,12104,Para análise da admissão do recurso repetitivo ,,,,,,,,,,,,,,,,,,,,X,X,X,
+12111,12104,Para análise da admissão do IRDR,,,,,X,,,,,X,,,,X,,,,,X,X,X,X,
+12112,12105,Para análise da admissão do IRDR,,,,,X,,,,,X,,,,X,,,,,X,X,X,X,
+12113,12105,Para análise da admissão do IAC,,,,,X,,,,,X,,,,X,,,,,X,,,,
+12114,12104,Para análise da admissão do IAC,,,,,X,,,,,X,,,,X,,,,,X,X,,,
+12115,12104,Para Julgamento,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+12116,12105,Para Julgamento,,,,,X,,,,,X,,,,X,,,,,,X,X,X,
+12140,7,Prisão em Flagrante em Prisão Preventiva,,,,X,X,,X,,X,X,X,,,X,X,X,X,,,,X,X,
+12141,3,Relaxamento do Flagrante,,,,X,X,,X,,X,X,X,,,X,X,X,X,,,,X,X,
+12142,48,Mudança de Parte,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,,,X,X,X,X,X,
+12143,48,Mudança de Assunto Processual,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+12144,3,Unificação e Soma de Penas,,,,X,X,,X,,X,X,X,,,X,X,X,X,,,,X,X,
+12145,157,Detração/Remição,,,,X,X,,X,,X,X,X,,,X,X,X,X,,,,X,X,
+12146,968,Liberdade Provisória,,,X,X,X,,X,X,X,X,X,,,X,X,X,X,,,,X,X,
+12147,122,Domiciliar,,,X,X,X,,X,X,X,X,X,,,X,X,X,X,,,,X,X,
+12148,817,Prisão Domiciliar,,,,X,X,,X,X,X,X,X,,,X,X,X,X,,,,X,X,
+12149,817,Detração/Remição da Pena,,,X,X,X,,X,X,X,X,X,,,X,X,X,X,,,,X,X,
+12150,11,Impedimento,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+12151,11,Suspeição,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+12164,3,Outras Decisões,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+12165,48,Requisição de Pagamento,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+12166,12165,Precatório,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+12167,12166,Enviada ao Tribunal,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+12168,12166,Preparada para Envio,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+12169,12166,Paga,X,,,X,X,X,X,X,X,X,X,,,X,X,,,X,X,X,,,
+12170,12166,Cancelada,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+12171,12166,Retificado,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+12172,12166,Suspensão,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+12173,12165,Pequeno Valor,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+12174,12173,Enviada ao Tribunal,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+12175,12173,Preparada para Envio,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+12176,12173,Paga,,X,X,X,X,X,X,X,X,X,X,,,X,X,X,X,X,X,X,X,X,X
+12177,12173,Cancelada,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+12178,12173,Retificada,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+12179,12173,Suspensão,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+12180,11395,Prestação de Serviços à Comunidade,,,,X,,,,,,,,,,,,,,,,,,,
+12181,11395,Reparação do Dano,,,,X,,,,,,,,,,,,,,,,,,,
+12182,11395,Liberdade Assistida,,,,X,,,,,,,,,,,,,,,,,,,
+12183,11395,Justiça Restaurativa,,,,X,,,,,,,,,,,,,,,,,,,
+12184,218,Suspensão Condicional do Processo,,,X,X,X,,X,X,X,X,X,,,,,,,,,,,X,
+12185,3,Decisão Interlocutória de Mérito,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+12186,48,Cancelamento de Distribuição,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,,,,X,X,
+12187,385,Homologação de Decisão de Juiz Leigo,,,X,X,X,,X,X,X,X,X,,,,,,,,,,,X,
+12188,1008,Recambiamento de Preso,,,,X,X,,,,X,X,,,,X,X,X,X,,,,,,
+12189,48,Entrega de Documento,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+12198,48,Deliberado em Sessão,X,X,X,,X,,X,X,,X,,X,X,X,X,X,X,X,X,X,X,X,X
+12199,12198,Julgado,X,X,X,,X,,,X,,X,,X,X,X,X,X,X,X,X,X,X,X,X
+12200,12199,Mérito,X,X,X,,X,,,X,,X,,X,X,X,,X,,,X,X,,,X
+12201,12199,Liminar,X,X,X,,X,,,X,,X,,X,X,X,,X,,,X,X,,,X
+12202,12199,Questão de Ordem,X,X,X,,X,,,X,,X,,X,X,X,X,X,X,X,X,X,X,X,X
+12203,12198,Adiado,X,X,X,,X,,,X,,X,,X,X,X,,X,,,X,X,X,X,X
+12204,12198,Pedido de Vista,X,X,X,,X,,,X,,X,,X,X,X,,X,,,X,X,X,X,X
+12205,12198,Retirado,,X,,,,,,,,,,,,,,,,,X,X,,,
+12206,3,Ratificação,,X,,,,,,,,,,,,,,,,,,,,,
+12207,12206,Liminar,,X,,,,,,,,,,,,,,,,,,,,,
+12208,3,Não-Ratificação,,X,,,,,,,,,,,,,,,,,,,,,
+12210,3,Ratificação em Parte,,X,,,,,,,,,,,,,,,,,,,,,
+12212,12199,Prorrogação de PAD,,X,,,,,,,,,,,,,,,,,,,,,
+12213,12206,Decisão Monocrática,,X,,,,,,,,,,,,,,,,,,,,,
+12214,48,Processo Encaminhado,,X,,,,,,,,,,,,,,,,,,,,,
+12215,48,Processo devolvido à Secretaria,,X,,,,,,,,,,,,,,,,,,,,,
+12252,385,Sentença confirmada,,,,,X,,,,,X,,,,X,,X,,,,,,X,
+12253,385,Sentença confirmada em parte,,,,,X,,,,,X,,,,X,,X,,,,,,X,
+12254,385,Sentença desconstituída,,,X,,X,,,,X,X,X,X,X,X,,X,,,,,,X,
+12255,1013,Redistribuição por prevenção,X,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+12256,456,Continência,,X,,X,X,,X,,X,X,X,,,X,X,,,X,X,X,X,X,
+12257,385,Definição de tese jurídica em incidentes repetitivos,,,,,X,,,,,X,,,,X,,X,,,X,X,X,X,
+12258,385,Emissão de juízo de retratação pelo Órgão Julgador,,,X,,X,,,X,,X,X,X,X,X,,X,,,X,X,,X,
+12259,25,"Prescrição intercorrente (art. 921, § 4º, CPC)",,,,X,X,,,,X,X,,,,,,,,X,X,X,,X,
+12260,48,Autos restaurados,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+12261,160,Emenda a inicial,,,,X,X,X,X,,X,X,X,,,X,X,,,,,,X,X,
+12263,48,Intimação,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+12264,12263,Eletrônica,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+12265,12264,Expedida/certificada,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+12266,12264,Confirmada,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+12267,12263,Em audiência,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+12268,12263,Em Secretaria,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+12269,48,Desentranhamento,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+12270,12269,Documento,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+12271,12269,Petição,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+12272,12198,Declinada a competência,,,X,,X,,X,X,,X,,X,X,X,,X,,,X,X,X,X,
+12273,12198,Convertido em diligência,X,,X,,X,,,X,,X,,X,X,X,,X,,,X,X,X,X,
+12274,12198,Sobrestado,X,X,X,,X,,,X,,X,,X,X,X,,X,,,X,X,X,X,
+12275,12198,Retificado,X,,X,,X,,,X,,X,,X,X,X,,X,,,X,X,X,X,
+12276,48,Cumprimento da pena,,,,X,X,,X,,X,X,X,,,X,X,X,X,,,,X,X,
+12277,12276,Início,,,,X,X,,X,,X,X,X,,,X,X,X,X,,,,X,X,
+12278,12276,Fim,,,,X,X,,X,,X,X,X,,,X,X,X,X,,,,X,X,
+12280,12276,Interrupção,,,,X,,,X,,X,X,X,,,X,X,X,X,,,,X,X,
+12281,48,Comunicação eletrônica,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+12282,12281,Expedida/Certificada,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+12283,12281,Confirmada,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+12284,48,Citação,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+12285,12284,Em Secretaria/Comparecimento Espontâneo,,,,X,X,X,X,,X,X,X,,,X,X,X,X,X,X,X,X,X,
+12286,12284,Eletrônica,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+12287,12286,Expedida/Certificada,,X,,X,X,X,X,,X,X,X,,,X,X,X,X,X,X,X,X,X,
+12288,12286,Confirmada,,,,X,X,X,X,,X,X,X,,,X,X,X,X,X,X,X,X,X,
+12289,48,Cancelamento,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+12290,12289,Documento Expedido,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+12291,12289,Movimentação processual,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+12292,48,Ato cumprido pela parte ou interessado,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+12293,12292,Ato cumprido pela parte ou interessado (sem atributo),X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,,,,X,X,
+12294,12292,Comparecimento do Réu/Apenado,X,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,,,,X,X,
+12295,12292,Depósito de Bens/Dinheiro,,,X,X,X,X,X,X,X,X,X,X,X,X,X,,X,X,X,X,X,X,
+12296,18,Registro Processual,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,,,,X,X,
+12297,18,Atribuição de competência,,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,,,,X,X,
+12298,456,Cancelamento de Dívida Ativa,,,,X,,X,X,,X,,X,,,,,,,,,,,,
+12299,3,Prorrogação de cumprimento de pena/medida de segurança,,,,X,,,X,,X,,X,,,,X,,X,,,,,,
+12300,3,Nomeação,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+12301,12300,Advogado Voluntário,,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+12302,12300,Curador,X,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+12303,12300,Defensor Dativo,,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,,,,X,X,
+12304,12300,Intérprete/Tradutor,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+12305,12300,Outros auxiliares de justiça,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+12306,12300,Perito,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+12307,3,Decretação de revelia,,,X,X,X,X,X,X,X,X,X,,,X,X,X,X,,,,X,X,
+12308,817,Substituição/Sucessão da Parte,,,X,X,X,X,X,X,X,X,X,X,X,X,X,,,X,X,X,X,X,
+12309,12103,Retirada,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+12310,11009,Pauta,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+12311,12310,Pedido de inclusão,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+12312,12310,Retirar pedido de inclusão,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+12313,12310,Pedido de Inclusão em Pauta de Sessão Virtual,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+12314,12310,Pedido de Retirada de Pauta de Sessão Virtual,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+12315,48,Devolvidos os autos,,X,,,,,,,,,,,,,,,,,,,,,
+12316,48,Notificação Inicial,,X,,,,,,,,,,,,,,,,,,,,,
+12317,48,Notificação inicial com liminar,,X,,,,,,,,,,,,,,,,,,,,,
+12318,3,Reconhecimento de prevenção,,X,,,,,,,,,,,,,,,,X,X,X,,X,
+12319,218,Não conhecimento do pedido,,X,X,,,,,,,X,,X,X,,,,,,,,,X,
+12320,3,Denegação de prevenção,,X,,X,X,X,X,X,,,,,,X,X,,,,,,X,X,
+12321,385,Parecer,,X,,,,,,,,,,,,,,,,,,,,,
+12322,12321,Favorável,,X,,,,,,,,,,,,,,,,,,,,,
+12323,12321,Favorável em parte,,X,,,,,,,,,,,,,,,,,,,,,
+12324,12321,Desfavorável,,X,,,,,,,,,,,,,,,,,,,,,
+12325,456,Perda do objeto,,X,,X,X,X,X,X,,,,,,X,X,X,X,,,,X,X,
+12326,385,Consulta,,X,,X,X,X,X,X,,,,,,X,X,,,,,,X,X,
+12327,12326,Respondida,,X,,X,X,X,X,X,,,,,,X,X,,,,,,X,X,
+12328,12326,Respondida em parte,,X,,X,X,X,X,X,,,,,,X,X,,,,,,X,X,
+12329,385,Pedido conhecido em parte e procedente,,X,,X,X,X,X,X,,,,,,X,X,,,,,,X,X,
+12330,385,Pedido conhecido em parte e procedente em parte,,X,,X,X,X,X,X,,,,,,X,X,,,,,,X,X,
+12331,385,Pedido conhecido em parte e improcedente,,X,,X,X,X,X,X,,,,,,X,X,,,,,,X,X,
+12332,3,Prorrogado prazo de conclusão,,X,,X,X,X,X,X,,,,,,X,X,,,,,,X,X,
+12359,3,Liminar Prejudicada,,X,,X,X,X,X,X,,,,,,X,X,,,,,,X,X,
+12387,3,Decisão de Saneamento e Organização,X,X,,X,X,X,X,,X,X,X,,,X,X,X,X,X,X,X,X,X,
+12421,1013,Juízo provisório para medidas urgentes,,,,,X,,,,,X,,,,,,,,,,,X,X,
+12422,1013,Devolução da carta rogatória ao juízo rogante,,,,,,,,,,,,,,,,,,,,,,X,
+12425,3,Unificação de Medidas Socioeducativas,,,,X,X,,,,,,,,,,,,,,,,X,X,
+12427,207,Agravo em recurso especial ,,,,,,,,,,,,,,,,,,,,,,X,
+12428,206,Reclamação,,,,,X,,,,,X,,,,X,,X,,,X,X,X,X,
+12429,206,Embargos de Divergência,,,,,,,,,,,,,,,,,,,,,X,X,
+12430,1013,Arquivamento,,X,,X,X,X,X,X,,X,,,,X,X,X,,,,X,X,X,
+12431,206,Embargos ,,,,X,X,,,,X,X,,,,,,X,,,,,,X,
+12432,3,Afetação,,,,,,,,,,,,,,,,,,,,X,,X,
+12433,385,Conjunto Agravo e Recurso Especial,,,,,,,,,,,,,,,,,,,,,,X,
+12434,12433,Conhecimento para dar provimento ao Recurso Especial ,,,,,,,,,,,,,,,,,,,,,,X,
+12435,12433,Conhecimento para negar provimento ao recurso especial,,,,,,,,,,,,,,,,,,,,,,X,
+12436,12433,Conhecimento para não conhecer do Recurso Especial,,,,,,,,,,,,,,,,,,,,,,X,
+12437,12433,Conhecimento para determinar sua autuação como Recurso Especial,,,,,,,,,,,,,,,,,,,,,,X,
+12438,12433,conhecimento para dar parcial provimento ao recurso especial,,,,,,,,,,,,,,,,,,,,,,X,
+12439,12433,conhecimento para conhecer em parte o recurso especial e dar provimento ,,,,,,,,,,,,,,,,,,,,,,X,
+12440,12433,conhecimento para conhecer em parte o recurso especial e negar provimento,,,,,,,,,,,,,,,,,,,,,,X,
+12441,12433,Conhecimento para conhecer o recurso especial,,,,,,,,,,,,,,,,,,,,,,X,
+12442,12433,conhecimento para conhecer em parte o recurso especial ,,,,,,,,,,,,,,,,,,,,,,X,
+12443,12433,conhecimento em parte para dar provimento ao recurso especial,,,,,,,,,,,,,,,,,,,,,,X,
+12444,3,deferimento,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+12445,206,Recurso Ordinário,,,,,,,,,,,,,,,,X,,,,,X,X,
+12446,206,Afetação tornada sem efeito,,,,,,,,,,,,,,,,,,,,,X,X,
+12448,1013,Demonstração de existência de repercussão geral e manifestação sobre a questão constitucional,,,,,,,,,,,,,,,,,,,,,X,X,
+12449,11010,expedição de alvará de levantamento,,X,,X,X,,X,X,X,X,,,,,,,,,,,X,X,
+12450,385,impugnação à execução,,,,X,X,X,X,X,,,,,,X,X,,,,,,X,X,
+12451,12450,Procedência,,,,X,X,X,X,X,,,,,,X,X,,,,,,X,X,
+12452,12450,procedência parcial,,,,X,X,X,X,X,,,,,,X,X,,,,,,X,X,
+12453,12450,improcedência,,,,X,X,X,X,X,,,,,,X,X,,,,,,X,X,
+12454,206,Pedido de Uniformização de Interpretação de Lei,,,X,,,,,,,,,X,X,,,,,,,,,X,
+12455,3,Indeferimento,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+12456,207,Recurso Ordinário,,,,,,,,,,,,,,,,X,,,,,,X,
+12457,1013,Expedição de precatório/rpv,,X,,X,X,X,X,,X,X,X,,,X,X,,,X,X,X,X,X,
+12458,218,Não conhecimento do habeas corpus,,,,X,X,,,,X,X,,,,X,X,,,X,X,X,X,X,
+12459,218,Prejudicado,,X,,X,X,X,X,X,,,,,,X,X,,,,,,X,X,
+12467,378,Desistência de pedido,,,,,,,,,,,,,,,,,,,,,X,X,
+12472,1013,Devolução dos autos à origem ,,,,X,X,X,X,X,,,,,,X,X,X,X,,,,X,X,
+12473,7,agravo em recurso especial ,,,,,,,,,,,,,,,,,,,,,,X,
+12474,1013,Distribuição,,,,X,X,X,X,X,,,,,,X,X,X,X,,,,,X,
+12475,210,Habeas Corpus de ofício,,X,,X,X,,,,X,X,,,,X,X,X,X,X,X,X,X,X,
+12476,378,Medida Protetiva da Lei Maria da Penha Determinada por Autoridade Policial,,,,X,X,,,,,,,,,,,,,,,,X,X,
+12477,3,Não-Homologação,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+12478,12477,Medida protetiva determinada por autoridade policia,,,,X,X,,X,X,,,,,,,,,,,,,,,
+12479,157,Medida Protetiva da Lei Maria da Penha Determinada por Autoridade Policial,,,,X,X,X,,,,,,,,X,X,,,,,,,,
+12522,14,Auxiliar da Justiça,,,X,X,X,X,X,X,X,X,X,X,X,,,,,X,X,X,X,X,X
+12523,12522,Conciliador,,,X,X,X,X,X,X,X,X,X,X,X,,,,,X,X,X,X,X,X
+12524,12522,Juiz Leigo,,,X,X,X,X,X,X,X,X,X,X,X,,,,,,,,,,X
+12525,12522,Mediador,,,X,X,X,X,X,X,X,X,X,X,X,,,,,X,X,X,,X,
+12526,12525,Conciliação,,,,X,X,X,X,X,,,,,,,,,,,,,,,
+12527,12525,Mediação,,,X,X,X,X,X,X,X,X,X,X,X,,,,,X,X,X,,X,
+12528,12523,Conciliação,,,X,X,X,X,X,X,X,X,X,X,X,,,,,X,X,X,X,X,X
+12529,12524,Decisão,,,,X,X,X,X,X,,,,,,,,,,,,,,,X
+12531,12528,Frutífera,,,X,X,X,X,X,X,X,X,X,X,X,,,,,X,X,X,X,X,
+12532,12528,Infrutífera,,,X,X,X,X,X,X,X,X,X,X,X,,,,,X,X,X,X,X,
+12533,12530,Frutífera,,,,X,X,X,X,X,,,,,,,,,,,,,,,X
+12534,12530,Infrutífera,,,,X,X,X,X,X,,,,,,,,,,,,,,,X
+12535,12526,Frutífera,,,X,X,X,X,X,X,X,X,X,,,,,,,,,,,X,
+12536,12526,Infrutífera,,,X,X,X,X,X,X,X,X,X,,,,,,,,,,,X,
+12539,12527,Infrutífera,,,X,X,X,X,X,X,X,X,X,,,,,,,X,X,X,,X,
+12540,12527,Frutífera,,,X,X,X,X,X,X,X,X,X,,,,,,,X,X,X,,X,
+12548,11009,Expedição de alvará de levantamento,,X,X,X,X,,X,X,X,X,X,,,,,,,X,X,X,X,X,
+12606,48,Remessa negociação consumidor.gov.br,,,X,X,X,,X,X,X,X,X,,,,,,,,,,,,
+12607,48,Recebimento negociação consumidor.gov.br,,,X,X,X,,X,X,X,X,X,,,,,,,,,,,,
+12608,12528,Parcial,,,X,X,X,X,X,X,X,X,X,X,X,,,,,X,X,X,X,X,X
+12609,12530,Parcial,,,,X,X,X,X,X,,,,,,,,,,,,,,,X
+12610,12526,Parcial,,,X,X,X,X,X,X,X,X,X,,,,,,,,,,,X,
+12611,12527,Parcial,,,X,X,X,X,X,X,X,X,X,,,,,,,X,X,X,,X,
+12614,48,Remessa para o CEJUSC ou Centros de Conciliação/Mediação,,,X,X,X,X,X,X,X,X,X,X,X,,,,,X,X,X,X,X,X
+12615,385,Composição Civil,,,X,X,X,,X,X,X,X,X,,,,,,,,,,X,X,
+12616,973,Composição Civil dos Danos,,,X,X,X,,X,X,X,X,,,,,,,,,,,X,X,
+12617,456,Renúncia,,,,X,X,X,X,X,,,,,,,,,,X,X,X,X,X,X
+12618,48,Remessa CEJUSC,,,X,X,X,X,X,X,X,X,X,X,X,,,,,X,X,X,X,X,
+12619,48,Recebimento do CEJUSC ou Centros de Conciliação/Mediação,,,X,X,X,X,X,X,X,X,X,X,X,,,,,,,,X,X,
+12621,48,Recebimento no CEJUSC ou Centros de Conciliação/Mediação,,,X,X,X,X,X,X,X,X,X,X,X,,,,,X,X,X,X,X,
+12622,48,Remessa para Câmara de Conciliação/Mediação,,,X,X,X,X,X,X,X,X,X,X,X,,,,,,,,X,X,X
+12623,48,Recebimento de Câmara de Conciliação/Mediação,,,X,X,X,X,X,X,X,X,X,X,X,,,,,,,,X,X,X
+12624,970,Audiência do art. 334 CPC,,,X,X,X,X,X,X,X,X,X,X,X,X,X,,,,,,X,X,
+12647,3,Mantida a Distribuição do Processo,,,,X,X,,X,X,,,,,,X,X,,,,,,X,X,
+12649,385,Homologação do Pedido,,,,X,X,,X,X,,,,,,X,X,,,,,,X,X,
+12650,385,Não Homologado o Pedido,,,,X,X,,X,X,,,,,,X,X,,,,,,X,X,
+12733,378,Homologação do Acordo de Não Persecução Penal,,X,X,X,X,,X,X,X,X,X,,,X,X,X,X,,,,X,X,
+12734,157,Revogação do Acordo de Não Persecução Penal,,,X,X,X,,X,X,X,X,X,,,X,X,X,X,,,,X,X,
+12735,973,Cumprimento de ANPP,,,X,X,X,,X,X,X,X,X,,,X,X,X,X,,,,,X,
+12736,3,Unificação de Processos de Execução,,,X,X,X,,X,X,X,X,X,,,X,X,X,X,,,,X,X,
+12737,157,Revogação da Suspensão Condicional do Processo,,,X,X,X,,X,X,X,X,X,,,X,X,X,X,,,,X,X,
+12738,385,Homologação de Transação Penal,,,,X,X,,X,X,X,X,X,,,X,X,X,X,,,,X,X,
+12739,970,Admonitória,,,,X,X,,X,,X,X,X,,,X,X,X,X,,,,X,X,
+12740,970,de Conciliação,,,X,X,X,X,X,X,X,X,X,,,X,X,,,X,X,X,X,X,
+12741,970,de Acolhimento,,,,X,X,,,,,,,,,,,,,,,,X,X,
+12742,970,de Custódia,,,,X,X,,X,,X,X,X,,,,X,X,X,,,,X,X,
+12743,970,de Interrogatório,,,X,X,X,,X,X,X,X,X,,,X,X,X,X,,,,X,X,
+12744,970,de Justificação,,,X,X,X,,X,X,X,X,X,,,X,X,,X,X,X,X,X,X,
+12745,970,do art. 16 da Lei 11.340,,,,X,X,,,,,,,,,,,,,,,,X,X,
+12746,970,em Execução,,,,X,X,,X,,X,X,X,,,X,X,,X,X,X,X,X,X,
+12747,970,Inicial,,,,,,,,,,,,,,,,,,X,X,X,,,
+12749,970,de Instrução,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+12750,970,de Instrução e Julgamento,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+12751,970,de Julgamento,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+12752,970,de Mediação,,,X,X,X,X,X,X,X,X,X,,,X,X,,,X,X,X,X,X,
+12753,970,Preliminar,,,,X,X,X,X,,X,X,X,,,X,X,,,X,X,X,X,X,
+12759,48,Realização de Procedimento Restaurativo,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,,X,
+12765,3,Envio para Juízo de Retratação ,,,X,,X,,,X,,X,,X,X,X,,X,,,X,X,,X,
+12766,12765,Por Divergência de Entendimento com o STF,,,X,,X,,,X,,X,,X,X,X,,X,,,X,X,,X,
+12767,12765,Por Divergência de Entendimento com STJ,,,X,,X,,,X,,X,,X,X,X,,,,,X,,,,
+12768,3,Manutenção de Acórdão,,,X,,X,,,X,,X,,X,X,X,,X,,,X,X,,X,
+12769,3,Desclassificação de Delito,,,,X,X,,,,X,X,,,,X,X,X,X,,,,X,X,
+14091,48,Devolvidos os autos após Pedido de Vista,X,X,X,,X,,,X,,X,,X,X,X,,X,,,X,X,X,X,
+14092,1,Voto,X,X,X,,X,,,X,,X,,X,X,X,,X,,,,,X,X,X
+14093,14092,Voto do Relator,X,X,X,,X,,,X,,X,,X,X,X,,X,,,,,X,X,
+14094,14092,Voto Divergente Vencedor,X,X,X,,X,,,X,,X,,X,X,X,,X,,,,,X,X,X
+14095,14092,Outros Votos,X,X,X,,X,,,X,,X,,X,X,X,,X,,,,,X,X,
+14096,970,Audiência Pública,,,,,,,,,,,,,,,,,,X,X,X,,,
+14099,385,Homologação de Acordo em Execução ou em Cumprimento de Sentença,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+14231,3,Impugnação ao Cumprimento de Sentença,,,,X,X,X,X,,X,X,X,,,X,X,,,,,,X,X,
+14232,14231,Acolhimento,,,,X,X,X,X,,X,X,X,,,X,X,,,,,,X,X,
+14233,14231,Não-Acolhimento,,,,X,X,X,X,,X,X,X,,,X,X,,,,,,X,X,
+14234,14231,Acolhimento em Parte,,,,X,X,X,X,,X,X,X,,,X,X,,,,,,X,X,
+14235,14231,Rejeição,,,,X,X,X,X,,X,X,X,,,X,X,,,,,,X,X,
+14680,214,Exequatur,,,,,,,,,,,,,,,,,,,,,,X,
+14681,3,Descumprimento de Medida Protetiva da Lei Maria Penha,,,,X,X,,,,,,,,,X,X,X,X,,,,X,X,
+14682,817,Medida Cautelar Diversa da Prisão,,,X,X,X,,X,X,X,X,X,,,X,X,X,X,,,,X,X,
+14683,157,Medida Cautelar Diversa da Prisão,,,X,X,X,,X,X,X,X,X,,,X,X,X,X,,,,X,X,
+14702,3,Incidente ou Cautelar - Procedimento Resolvido,,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,,,,,X,X
+14732,48,Conversão de Autos Físicos em Eletrônicos,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+14733,3,Prorrogação de Medida Protetiva,,,,X,X,,,,,,,,,X,X,X,X,,,,X,,
+14736,48,Inclusão no Juízo 100% Digital,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+14737,48,Exclusão do Juízo 100% Digital,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+14738,48,Retificação de Classe Processual,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+14739,48,Evolução da Classe Processual,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+14776,3,Homologação em Parte,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+14848,456,Ausência de Requerimento Administrativo Prévio,,,X,X,X,X,X,X,X,X,X,X,X,X,X,,,,,,X,X,
+14901,48,Perícia,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+14903,14901,Determinada/Designada,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+14904,14901,Agendada,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+14905,14901,Realizada,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+14906,14901,Cancelada,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+14907,14901,Reagendada,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+14908,14901,Não Realizada,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+14961,12281,Erro ou Recusa na Comunicação,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+14968,25,Por Incidente de Assunção de Competência - IAC,,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+14969,25,Por Grupo de Representativos,,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+14970,25,Por Controvérsia,,,X,X,X,X,X,X,X,X,X,X,X,X,X,,,X,X,X,,X,X
+14971,25,Por Ação de Controle Concentrado de Constitucionalidade,,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+14972,25,Por Decisão do Presidente do TST - SIRDR,,,,,,,,,,,,,,,,,,X,X,X,,,
+14973,25,Por Recurso de Revista Repetitivo,,,,,,,,,,,,,,,,,,X,X,X,,,
+14974,48,Levantamento da Causa Suspensiva ou de Sobrestamento,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+14975,14974,Suspensão/Sobrestamento por Recurso Extraordinário com Repercussão Geral,,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+14976,14974,Suspensão/Sobrestamento por Recurso Especial Repetitivo,,,X,X,X,X,X,X,X,X,X,X,X,,X,,,X,X,X,X,X,
+14977,14974,Suspensão/Sobrestamento Determinada por Decisão do Presidente do STF - SIRDR,,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+14978,14974,Suspensão/Sobrestamento Determinada por Decisão do Presidente do STJ - SIRDR,,,,X,X,X,X,X,X,X,X,X,X,X,X,,,X,X,X,,X,X
+14979,14974,Suspensão/Sobrestamento Determinada por Incidente de Assunção de Competência - IAC,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+14980,14974,Suspensão/Sobrestamento Determinada por Grupo de Representativos,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+14981,14974,Suspensão/Sobrestamento Determinada por Controvérsia,,,X,X,X,X,X,X,X,X,X,X,X,X,X,,,X,X,X,,X,X
+14982,14974,Suspensão/Sobrestamento Determinada por Ação de Controle Concentrado de Constitucionalidade - STF,,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+14983,14974,Suspensão/Sobrestamento Determinada por Decisão do Presidente do TST - SIRDR,,,,,,,,,,,,,,,,,,X,X,X,,,
+14984,14974,Suspensão/Sobrestamento Determinada por Recurso de Revista Repetitivo,,,,,,,,,,,,,,,,,,X,X,X,,,
+14985,14974,Suspensão/Sobrestamento por Incidente de Resolução de Demandas Repetitivas,,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+14997,861,Arquivamento Provisório - Aguardando Captura de Réu Condenado,,,,X,X,,X,,X,X,X,,,X,X,X,X,,,,X,X,
+14998,861,Arquivamento Provisório - Adolescente Aguardando Apreensão,,,,X,,,,,,,,,,,,,,,,,,,
+14999,48,Iniciada Tramitação Direta entre MP e Autoridade Policial,,,,X,X,,X,,X,X,X,,,X,X,X,X,,,,X,X,
+15000,48,Finalizada Tramitação Direta entre MP e Autoridade Policial,,,,X,X,,X,,X,X,X,,,X,X,X,X,,,,X,X,
+15009,11025,Por Impedimento ou Suspeição,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+15021,12198,Destaque para Julgamento Presencial,X,X,X,,X,,,X,,X,,X,X,X,,X,,,X,X,X,X,X
+15025,157,Revogação da Transação Penal,,,X,X,X,,X,X,X,X,X,X,X,X,X,X,X,,,,X,X,X
+15032,108,Manutenção da Prisão Preventiva,,,,X,X,,,,X,X,,,,X,X,X,X,,,,X,X,
+15045,970,Audiência de Apresentação de Adolescente,,,,X,,,,,,,,,,,,,,,,,,,
+15049,970,Audiência Concentrada Protetiva,,,,X,,,,,,,,,,,,,,,,,,,
+15050,970,Audiência Concentrada Infracional,,,,X,,,,,,,,,,,,,,,,,,,
+15057,206,Admissão de Recurso de Embargos à SDI/TST,,,,,,,,,,,,,,,,,,,,X,,,
+15058,206,Admissão de Recurso de Embargos à SDC/TST,,,,,,,,,,,,,,,,,,,,X,,,
+15059,207,Não Admissão de Recurso de Embargos à SDI/TST,,,,,,,,,,,,,,,,,,,,X,,,
+15060,207,Não Admissão de Recurso de Embargos à SDC/TST,,,,,,,,,,,,,,,,,,,,X,,,
+15061,3,Impugnação aos Cálculos de Liquidação,,,,,,,,,,,,,,,,,,X,,,,,
+15062,15061,Acolhimento,,,,,,,,,,,,,,,,,,X,,,,,
+15063,15061,Acolhimento em Parte,,,,,,,,,,,,,,,,,,X,,,,,
+15064,15061,Não Acolhimento,,,,,,,,,,,,,,,,,,X,,,,,
+15065,15061,Não Admissão,,,,,,,,,,,,,,,,,,X,,,,,
+15067,25,REsp Sobrestado por Possível Prejudicialidade de RE,,,,,,,,,,,,,,,,,,,,,,X,
+15078,817,Substituição de Medida Socioeducativa,,,,X,,,,,,,,,,,,,,,,,,,
+15079,817,Suspensão de Medida Socioeducativa,,,,X,,,,,,,,,,,,,,,,,,,
+15080,1013,Reavaliação de Medida Socioeducativa,,,,X,,,,,,,,,,,,,,,,,,,
+15081,1013,Busca e Apreensão de Adolescente,,,,X,,,,,,,,,,,,,,,,,,,
+15082,3,Revogação de Internação de Adolescente,,,,X,,,,,,,,,,,,,,,,,,,
+15083,15232,Manutenção de Internação Provisória,,,,X,,,,,,,,,,,,,,,,,,,
+15084,3,Desinternação de Adolescente,,,,X,,,,,,,,,,,,,,,,,,,
+15085,1013,Emenda à Inicial,,,,X,X,X,X,,X,X,X,,,X,X,X,X,X,X,X,X,X,
+15086,3,Deferimento em Parte,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+15101,12289,Conclusão,,,,,,,,,,,,,,,,,,X,X,X,,,
+15102,48,Sessão Restaurativa,,,,X,,,X,,X,X,X,,,,,,,,,,,,
+15103,888,Gratuidade da Justiça,,,X,X,X,X,X,X,X,X,X,,X,,,,,,,,X,X,
+15162,3,Acolhimento de Embargos de Declaração,,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+15163,3,Acolhimento em Parte de Embargos de Declaração,,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+15164,3,Não Acolhimento de Embargos de Declaração,,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+15165,385,Resolução Aprovada,X,X,,,,,,,,,,,,,,,,,,,,,
+15166,385,Resolução Desaprovada,X,X,,,,,,,,,,,,,,,,,,,,,
+15168,12289,"De Liquidação, Cumprimento de Sentença ou Execução por Nulidade da Fase de Conhecimento ",,,,X,X,X,X,,X,X,X,,,X,X,,,X,,,,,
+15183,207,Pedido de Uniformização de Interpretação de Lei,,,X,,,,,,,,,X,X,,,,,,,,,X,
+15185,1,Cooperação Judiciária,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+15186,48,Cooperação Judiciária,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+15188,970,Audiência de Depoimento Especial,,,,X,X,,X,,X,X,X,,,X,X,X,X,,,,X,X,
+15200,1013,Manutenção da Medida Socioeducativa,,,,X,,,,,,,,,,,,,,,,,,,
+15201,378,Homologação do Plano Individual de Atendimento (PIA),,,,X,,,,,,,,,,,,,,,,,,,
+15202,1013,Determinação de Alteração ou Complementação do Plano Individual de Atendimento (PIA),,,,X,,,,,,,,,,,,,,,,,,,
+15203,3,Manutenção de Sentença/Decisão Anterior - Infância e Juventude,,,,X,,,,,,,,,,,,,,,,,,,
+15204,25,Não Localização do Adolescente,,,,X,,,,,,,,,,,,,,,,,,,
+15205,3,Manutenção de Acolhimento Institucional/em Família Acolhedora,,,,X,,,,,,,,,,,,,,,,,,,
+15206,3,Desacolhimento Institucional/de Família Acolhedora,,,,X,,,,,,,,,,,,,,,,,,,
+15207,1008,Aproximação de Pretendente à Adoção,,,,X,,,,,,,,,,,,,,,,,,,
+15208,157,Aproximação de Pretendente à Adoção,,,,X,,,,,,,,,,,,,,,,,,,
+15209,1008,Busca Ativa para Adoção,,,,X,,,,,,,,,,,,,,,,,,,
+15210,157,Busca Ativa para Adoção,,,,X,,,,,,,,,,,,,,,,,,,
+15211,385,Procedência do Pedido com Aplicação de Medida Socioeducativa,,,,X,,,,,,,,,,,,,,,,,,,
+15212,385,Procedência do Pedido sem Aplicação de Medida Socioeducativa,,,,X,,,,,,,,,,,,,,,,,,,
+15213,385,Procedência em Parte do Pedido com Aplicação de Medida Socioeducativa,,,,X,,,,,,,,,,,,,,,,,,,
+15214,385,Procedência em Parte do Pedido sem Aplicação de Medida Socioeducativa,,,,X,,,,,,,,,,,,,,,,,,,
+15216,11009,Determinação de Citação,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+15223,3,Prejudicado o Pedido,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+15225,11009,Indicação de Recurso como Representativo de Controvérsia,,,,,,,,,,,,,,,,,,,X,X,,X,
+15226,11009,Rejeição de Recurso Como Representativo de Controvérsia,,,,,,,,,,,,,,,,,,,,X,,X,
+15227,11009,Reconsideração de Recurso como Representativo de Controvérsia,,,,,,,,,,,,,,,,,,,,X,,X,
+15229,3,Indeferimento de Internação,,,,X,X,,,,,,,,,,,,,,,,,,
+15230,15229,Provisória,,,,X,X,,,,,,,,,,,,,,,,,,
+15231,15229,Sanção,,,,X,X,,,,,,,,,,,,,,,,,,
+15232,3,Manutenção da Internação,,,,X,X,,,,,,,,,,,,,,,,,,
+15233,15232,Sanção,,,,X,,,,,,,,,,,,,,,,,,,
+15234,12425,Sem Reinício de Prazo,,,,X,X,,,,,,,,,,,,,,,,,,
+15235,12425,Com Reinício de Prazo,,,,X,X,,,,,,,,,,,,,,,,,,
+15238,11025,Homologação de Acordo ou Transação,,,X,X,X,X,X,X,X,X,X,,,X,X,X,X,X,X,X,X,X,X
+15244,3,Homologação de Acordo Parcial em Execução ou em Cumprimento de Sentença,,X,,X,X,X,X,,X,X,X,,,X,X,,,X,X,X,X,X,
+15245,456,Unificação de Medida Socioeducativa,,,,X,,,,,,,,,,,,,,,,,,,
+15246,12286,Não Confirmada,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+15247,25,Por Expedição de Precatório,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+15248,25,Por Expedição de RPV,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+15249,456,Morte do Adolescente/Socioeducando,,,,X,X,,,,,,,,,,,,,,,,,,
+15250,456,Aplicação de Pena Privativa de Liberdade ao Adolescente/Socioeducando,,,,X,X,,,,,,,,,,,,,,,,,,
+15251,15250,Condição de Doença Grave do Adolescente/Socioeducando,,,,X,X,,,,,,,,,,,,,,,,,,
+15252,385,Extinção do processo de execução de medida socioeducativa em razão da perda do caráter pedagógico,,,,X,,,,,,,,,,,,,,,,,,,
+15253,218,Concessão de Remissão a Adolescente com Extinção do Processo,,,,X,,,,,,,,,,,,,,,,,,,
+15254,15253,Justiça Restaurativa,,,,X,,,,,,,,,,,,,,,,,,,
+15255,15253,Sem Medida Socioeducativa,,,,X,,,,,,,,,,,,,,,,,,,
+15256,15253,Liberdade Assistida,,,,X,,,,,,,,,,,,,,,,,,,
+15257,15253,Prestação de Serviços à Comunidade,,,,X,,,,,,,,,,,,,,,,,,,
+15258,15253,Reparação de Dano,,,,X,,,,,,,,,,,,,,,,,,,
+15259,15253,Advertência,,,,X,,,,,,,,,,,,,,,,,,,
+15260,218,Homologada a Remissão,,,,X,,,,,,,,,,,,,,,,,,,
+15261,15260,Justiça Restaurativa,,,,X,,,,,,,,,,,,,,,,,,,
+15262,15260,Sem Medida Socioeducativa,,,,X,,,,,,,,,,,,,,,,,,,
+15263,15260,Liberdade Assistida,,,,X,,,,,,,,,,,,,,,,,,,
+15264,15260,Prestação de Serviços à Comunidade,,,,X,,,,,,,,,,,,,,,,,,,
+15265,15260,Reparação do Dano,,,,X,,,,,,,,,,,,,,,,,,,
+15266,15260,Advertência,,,,X,,,,,,,,,,,,,,,,,,,
+15322,973,Extinção da Pena - Cumprimento de Sursis,,,,X,X,,,,X,X,,,,X,X,X,X,,,,X,X,
+15366,3,Acolhimento em Parte de Exceção de Pré-Executividade,,,,X,X,X,X,,X,X,X,,,X,X,,,X,X,X,,X,
+15408,218,Não Conhecimento de Embargos de Declaração,,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+15409,3,Não Conhecimento de Embargos de Declaração,,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+15413,25,Ação Coletiva,,,X,X,X,X,X,X,X,X,X,X,X,X,X,,,X,X,X,,,X
+15414,14974,Ação Coletiva,,,X,X,X,X,X,X,X,X,X,X,X,X,X,,,X,X,X,,,X
+15415,25,Incidente de Resolução de Demandas Repetitivas do TST,,,,,,,,,,,,,,,,,,X,X,X,,,
+15416,14974,Suspensão/Sobrestamento por Incidente de Resolução de Demandas Repetitivas do TST,,,,,,,,,,,,,,,,,,X,X,X,,,
+15417,48,Migração de Sistema Eletrônico,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+15418,12765,Por Divergência de Entendimento com TST,,,,,,,,,,,,,,,,,,,X,X,,,
+15419,12765,Por Divergência de Entendimento com TNU,,,X,,,,,,,,,X,X,,,,,,,,,,
+15420,12198,Acolhimento de Proposta de Afetação,,,,,,,,,,,,,,,,,,,,X,,X,
+15421,12198,Rejeição de Proposta de Afetação,,,,,,,,,,,,,,,,,,,,X,,X,
+15422,12198,Suspensão para Submissão de Proposta de Afetação,,,,,,,,,,,,,,,,,,,,X,,,
+15424,12477,Não Homologação de ANPP,,,,X,X,,,,X,X,,,,X,X,X,X,,,,X,X,
+15425,25,Aguardando Apresentação ou Captura de Desertor,,,,X,X,,,,,,,,,X,X,X,X,,,,,,
+15426,108,Captura ou Apresentação de Desertor,,,,X,X,,,,,,,,,X,X,X,X,,,,,,
+15427,970,Audiência de Admoestação,,,,,,,,,,,,,,,X,,X,,,,,,
+15486,817,Medida Protetiva da Lei Maria da Penha,,,,X,X,,,,,,,,,X,X,X,X,,,,X,X,
+15487,888,Medida Protetiva da Lei Maria da Penha,,,,X,X,,,,,,,,,X,X,X,X,,,,X,X,
+15488,968,Medida Protetiva da Lei Maria da Penha,,,,X,X,,,,,,,,,X,X,X,X,,,,X,X,
+15489,157,Medida Protetiva da Lei Maria da Penha,,,,X,X,,,,,,,,,X,X,X,X,,,,X,X,
+15490,3,Prorrogação de Medida Protetiva da Lei Maria da Penha,,,,X,X,,,,,,,,,X,X,X,X,,,,X,X,
+15491,817,Medida Protetiva da Lei Henry Borel,,,,X,X,,,,,,,,,,,,,,,,X,X,
+15492,888,Medida Protetiva da Lei Henry Borel,,,,X,X,,,,,,,,,,,,,,,,X,X,
+15493,968,Medida Protetiva da Lei Henry Borel,,,,X,X,,,,,,,,,,,,,,,,X,X,
+15494,157,Medida Protetiva da Lei Henry Borel,,,,X,X,,,,,,,,,,,,,,,,X,X,
+15495,3,Prorrogação de Medida Protetiva da Lei Henry Borel,,,,X,X,,,,,,,,,,,,,,,,X,X,
+15496,817,Medida de Proteção do Estatuto do Idoso,,,,X,X,,,,,,,,,,,,,,,,X,X,
+15497,888,Medida de Proteção do Estatuto do Idoso,,,,X,X,,,,,,,,,,,,,,,,X,X,
+15498,968,Medida de Proteção do Estatuto do Idoso,,,,X,X,,,,,,,,,,,,,,,,X,X,
+15499,157,Medida de Proteção do Estatuto do Idoso,,,,X,X,,,,,,,,,,,,,,,,X,X,
+15500,3,Prorrogação de Medida de Proteção do Estatuto do Idoso,,,,X,X,,,,,,,,,,,,,,,,X,X,
+15501,817,Medida de Proteção do Estatuto da Criança e do Adolescente,,,,X,X,,,,,,,,,,,,,,,,X,X,
+15502,888,Medida de Proteção do Estatuto da Criança e do Adolescente,,,,X,X,,,,,,,,,,,,,,,,X,X,
+15503,968,Medida de Proteção do Estatuto da Criança e do Adolescente,,,,X,X,,,,,,,,,,,,,,,,X,X,
+15504,157,Medida de Proteção do Estatuto da Criança e do Adolescente,,,,X,X,,,,,,,,,,,,,,,,X,X,
+15505,3,Prorrogação de Medida de Proteção do Estatuto da Criança e do Adolescente,,,,X,X,,,,,,,,,,,,,,,,X,X,
+15506,817,Medida de Proteção da Lei 13.431/2017,,,,X,X,,,,X,X,,,,X,X,X,X,,,,X,X,
+15507,888,Medida de Proteção da Lei 13.431/2017,,,,X,X,,,,X,X,,,,X,X,X,X,,,,X,X,
+15508,968,Medida de Proteção da Lei 13.431/2017,,,,X,X,,,,X,X,,,,X,X,X,X,,,,X,X,
+15509,157,Medida de Proteção da Lei 13.431/2017,,,,X,X,,,,X,X,,,,X,X,X,X,,,,X,X,
+15510,3,Prorrogação de Medida de Proteção da Lei 13.431/2017,,,,X,X,,,,X,X,,,,X,X,X,X,,,,X,X,

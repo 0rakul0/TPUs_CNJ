@@ -1,0 +1,33 @@
+Código,Cód. Pai,nome,CNJ
+1198,,PROCEDIMENTOS ADMINISTRATIVOS ,X
+11894,1198,Comissão,X
+11887,1198,Acompanhamento de Cumprimento de Decisão,X
+11953,1198,Arguição de Suspeição e de Impedimento,X
+11888,1198,Ato Normativo,X
+1680,1198,Consulta Administrativa,X
+1307,1198,Correição Ordinária,X
+1304,1198,Inspeção,X
+11889,1198,Nota Técnica,X
+11890,1198,Parecer de Mérito sobre Anteprojeto de Lei,X
+12248,1198,Pedido de Cooperação Judiciária,X
+1199,1198,Pedido de Providências,X
+11891,1198,Procedimento de Controle Administrativo,X
+1264,1198,Processo Administrativo Disciplinar em face de Magistrado,X
+1262,1198,Processo Administrativo Disciplinar em face de Servidor,X
+1301,1198,Reclamação Disciplinar,X
+11893,1198,Reclamação para Garantia das Decisões,X
+256,1198,Representação por Excesso de Prazo,X
+11892,1198,Revisão Disciplinar,X
+1308,1198,Sindicância,X
+2,,PROCESSO CÍVEL E DO TRABALHO ,X
+214,2,Outros Procedimentos,X
+237,214,Atos e expedientes,X
+238,237,Avocatória,X
+1106,2,Processo de Conhecimento,X
+1107,1106,Procedimento de Conhecimento,X
+26,1107,Procedimentos Especiais,X
+27,26,Procedimentos Especiais de Jurisdição Contenciosa,X
+46,27,Restauração de Autos Cível,X
+12133,2,Tutela Provisória de Urgência e Tutela Provisória de Evidência,X
+12135,12133,Tutela Antecipada Antecedente,X
+12134,12133,Tutela Cautelar Antecedente,X

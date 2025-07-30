@@ -1,0 +1,129 @@
+Código,Cód. Pai,nome,JEJE
+385,,EXECUÇÃO PENAL E DE MEDIDAS ALTERNATIVAS ,X
+386,385,Execução da Pena,X
+14696,385,Execução de Medidas Alternativas nos Juizados Especiais,X
+12727,385,Execução de Pena de Multa,X
+12728,385,Transferência Entre Estabelecimentos Penais,X
+1198,,PROCEDIMENTOS ADMINISTRATIVOS ,X
+12248,1198,Pedido de Cooperação Judiciária,X
+11099,,PROCEDIMENTOS PRÉ-PROCESSUAIS DE RESOLUÇÃO CONSENSUAL DE CONFLITOS ,X
+12136,11099,Pedido de Mediação Pré-Processual,X
+11875,11099,Reclamação Pré-processual,X
+2,,PROCESSO CÍVEL E DO TRABALHO ,X
+214,2,Outros Procedimentos,X
+237,214,Atos e expedientes,X
+1701,237,Nomeação de Advogado,X
+241,237,Petição Cível,X
+257,214,Cartas,X
+258,257,Carta de Ordem Cível,X
+261,257,Carta Precatória Cível,X
+215,214,Incidentes,X
+218,215,Assistência Judiciária,X
+14991,215,Classificação de Crédito Público,X
+224,215,Exceções,X
+1230,224,Exceção de Impedimento,X
+1232,224,Exceção de Incompetência,X
+1231,224,Exceção de Suspeição,X
+12119,215,Incidente de Desconsideração de Personalidade Jurídica,X
+12080,215,Incidente de Impedimento Cível,X
+12081,215,Incidente de Suspeição Cível,X
+175,2,Processo Cautelar,X
+190,175,Justificação,X
+1106,2,Processo de Conhecimento,X
+1107,1106,Procedimento de Conhecimento,X
+436,1107,Procedimento do Juizado Especial Cível,X
+26,1107,Procedimentos Especiais,X
+27,26,Procedimentos Especiais de Jurisdição Contenciosa,X
+37,27,Embargos de Terceiro Cível,X
+1709,27,Interdito Proibitório,X
+1707,27,Reintegração / Manutenção de Posse,X
+46,27,Restauração de Autos Cível,X
+50,26,Procedimentos Especiais de Jurisdição Voluntária,X
+12374,50,Homologação da Transação Extrajudicial,X
+12369,50,Tomada de Decisão Apoiada,X
+62,26,"Procedimentos Regidos por Outros Códigos, Leis Esparsas e Regimentos",X
+74,62,Alvará Judicial - Lei 6858/80,X
+92,62,Despejo,X
+112,62,Homologação de Transação Extrajudicial,X
+15217,62,Procedimento de Repactuação de Dívidas (Superendividamento),X
+12370,62,Tomada de Decisão Apoiada,X
+155,1106,Procedimento de Cumprimento de Sentença/Decisão,X
+156,155,Cumprimento de sentença,X
+157,155,Cumprimento Provisório de Sentença,X
+158,2,Processo de Execução,X
+169,158,Embargos,X
+173,169,Embargos de Retenção por Benfeitorias,X
+159,158,Execução de Título Extrajudicial,X
+12154,159,Execução de Título Extrajudicial,X
+1111,158,Execução de Título Judicial,X
+197,2,Recursos,X
+207,197,Embargos,X
+1689,207,Embargos de Declaração Cível,X
+12133,2,Tutela Provisória de Urgência e Tutela Provisória de Evidência,X
+12135,12133,Tutela Antecipada Antecedente,X
+12134,12133,Tutela Cautelar Antecedente,X
+268,,PROCESSO CRIMINAL ,X
+334,268,Cartas,X
+335,334,Carta de Ordem Criminal,X
+355,334,Carta Precatória Criminal,X
+308,268,Medidas Cautelares,X
+11955,308,Cautelar Inominada Criminal,X
+10967,308,Medidas de Proteção à Pessoa Idosa - Criminal,X
+309,308,Pedido de Busca e Apreensão Criminal,X
+312,308,Pedido de Prisão,X
+313,312,Pedido de Prisão Preventiva,X
+310,308,Pedido de Quebra de Sigilo de Dados e/ou Telefônico,X
+303,268,Medidas Garantidoras,X
+307,303,Habeas Corpus Criminal,X
+304,303,Liberdade,X
+305,304,Liberdade Provisória com ou sem fiança,X
+306,304,Relaxamento de Prisão,X
+269,268,Medidas Preparatórias,X
+274,269,Interpelações,X
+275,274,Notificação para Explicações,X
+270,269,Notícia-Crime,X
+1727,268,Petição Criminal,X
+281,268,Procedimento Comum,X
+10944,281,Ação Penal - Procedimento Sumaríssimo,X
+277,268,Procedimentos Investigatórios,X
+280,277,Auto de Prisão em Flagrante,X
+12121,277,Comunicado de Mandado de Prisão,X
+279,277,Inquérito Policial,X
+1733,277,Procedimento Investigatório Criminal (PIC-MP) ,X
+271,277,Representação Criminal,X
+273,271,Pedido de Arquivamento em Representação Criminal,X
+272,271,Representação Criminal/Notícia de Crime,X
+278,277,Termo Circunstanciado,X
+284,268,Processo Especial,X
+292,284,Processo Especial de Leis Esparsas,X
+293,292,Crimes Ambientais,X
+294,292,Crimes Contra a Propriedade Industrial,X
+295,292,Crimes Contra a Propriedade Intelectual,X
+297,292,Crimes de Imprensa,X
+14701,292,Habeas Data Criminal,X
+299,292,Procedimento do Juizado Especial Criminal - Sumariíssimo,X
+300,292,Procedimento Especial da Lei Antitóxicos,X
+302,292,Procedimento Especial dos Crimes de Abuso de Autoridade,X
+285,284,Processo Especial do Código de Processo Penal,X
+289,285,Crimes Contra a Propriedade Imaterial,X
+288,285,"Crimes de Calúnia, Injúria e Difamação de Competência do Juiz Singular",X
+287,285,Crimes de Responsabilidade dos Funcionários Públicos,X
+291,285,Restauração de Autos Criminal,X
+316,268,Questões e Processos Incidentes,X
+14123,316,Destinação de Bens Apreendidos,X
+327,316,Embargos de Terceiro Criminal,X
+317,316,Exceções,X
+324,317,Exceção da Verdade,X
+322,317,Exceção de Coisa Julgada,X
+321,317,Exceção de Ilegitimidade de Parte,X
+323,317,Exceção de Impedimento,X
+319,317,Exceção de Incompetência de Juízo,X
+320,317,Exceção de Litispendência,X
+318,317,Exceção de Suspeição,X
+331,316,Incidentes,X
+14678,331,Acordo de Não Persecução Penal,X
+11787,331,Assistência Judiciária,X
+1719,331,Avaliação para atestar dependência de drogas,X
+326,316,Restituição de Coisas Apreendidas,X
+412,268,Recursos,X
+420,412,Embargos de Declaração Criminal,X

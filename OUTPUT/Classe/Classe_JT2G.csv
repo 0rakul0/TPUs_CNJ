@@ -1,0 +1,127 @@
+Código,Cód. Pai,nome,JT2G
+1198,,PROCEDIMENTOS ADMINISTRATIVOS ,X
+1680,1198,Consulta Administrativa,X
+1303,1198,Correição Extraordinária,X
+1307,1198,Correição Ordinária,X
+88,1198,Correição Parcial ou Reclamação Correicional,X
+12248,1198,Pedido de Cooperação Judiciária,X
+1199,1198,Pedido de Providências,X
+1265,1198,Precatório,X
+1298,1198,Processo Administrativo,X
+1264,1198,Processo Administrativo Disciplinar em face de Magistrado,X
+1262,1198,Processo Administrativo Disciplinar em face de Servidor,X
+1301,1198,Reclamação Disciplinar,X
+1299,1198,Recurso Administrativo,X
+256,1198,Representação por Excesso de Prazo,X
+1266,1198,Requisição de Pequeno Valor,X
+1308,1198,Sindicância,X
+11099,,PROCEDIMENTOS PRÉ-PROCESSUAIS DE RESOLUÇÃO CONSENSUAL DE CONFLITOS ,X
+12136,11099,Pedido de Mediação Pré-Processual,X
+11875,11099,Reclamação Pré-processual,X
+2,,PROCESSO CÍVEL E DO TRABALHO ,X
+214,2,Outros Procedimentos,X
+237,214,Atos e expedientes,X
+241,237,Petição Cível,X
+257,214,Cartas,X
+258,257,Carta de Ordem Cível,X
+261,257,Carta Precatória Cível,X
+264,257,Carta Rogatória Cível,X
+215,214,Incidentes,X
+221,215,Conflito de competência cível,X
+224,215,Exceções,X
+1230,224,Exceção de Impedimento,X
+1232,224,Exceção de Incompetência,X
+1231,224,Exceção de Suspeição,X
+231,215,Impugnação ao Valor da Causa Cível,X
+216,215,Incidente De Arguição de Inconstitucionalidade Cível,X
+12087,215,Incidente de Assunção de Competência,X
+12119,215,Incidente de Desconsideração de Personalidade Jurídica,X
+232,215,Incidente de Falsidade,X
+12080,215,Incidente de Impedimento Cível,X
+12085,215,Incidente de Resolução de Demandas Repetitivas,X
+12081,215,Incidente de Suspeição Cível,X
+233,215,Incidente de Uniformização de Jurisprudência,X
+236,215,Oposição,X
+12075,215,Procedimento Conciliatório,X
+1070,214,Incidentes Trabalhistas,X
+1145,1070,Conflito de Competência,X
+12391,1070,Incidente de Uniformização de Jurisprudência,X
+1072,1070,Pedido de Revisão do Valor da Causa,X
+175,2,Processo Cautelar,X
+178,175,Arresto ,X
+180,175,Atentado,X
+181,175,Busca e Apreensão,X
+182,175,Caução,X
+183,175,Cautelar Inominada,X
+1723,175,Contraprotesto Judicial,X
+186,175,Exibição,X
+1726,175,Interpelação,X
+190,175,Justificação,X
+1725,175,Notificação,X
+193,175,Produção Antecipada da Prova,X
+191,175,Protesto,X
+196,175,Seqüestro,X
+1106,2,Processo de Conhecimento,X
+1107,1106,Procedimento de Conhecimento,X
+26,1107,Procedimentos Especiais,X
+27,26,Procedimentos Especiais de Jurisdição Contenciosa,X
+47,27,Ação Rescisória,X
+37,27,Embargos de Terceiro Cível,X
+12375,27,Reclamação,X
+46,27,Restauração de Autos Cível,X
+50,26,Procedimentos Especiais de Jurisdição Voluntária,X
+12227,50,Interpelação,X
+12226,50,Notificação,X
+12228,50,Protesto,X
+62,26,"Procedimentos Regidos por Outros Códigos, Leis Esparsas e Regimentos",X
+65,62,Ação Civil Pública,X
+1269,62,Habeas Corpus Cível,X
+110,62,Habeas Data Cível,X
+120,62,Mandado de Segurança Cível,X
+119,62,Mandado de Segurança Coletivo,X
+15159,62,Regime Centralizado de Execuções,X
+11555,62,Suspensão de Liminar e de Sentença,X
+144,62,Suspensão de Liminar ou Antecipação de Tutela,X
+11556,62,Suspensão de Segurança Cível,X
+1067,1107,Procedimentos Trabalhistas,X
+976,1067,Ação Anulatória de Cláusulas Convencionais,X
+985,1067,Ação Trabalhista - Rito Ordinário,X
+987,1067,Dissídio Coletivo,X
+988,1067,Dissídio Coletivo de Greve,X
+1202,1067,Reclamação,X
+155,1106,Procedimento de Cumprimento de Sentença/Decisão,X
+156,155,Cumprimento de sentença,X
+15160,155,Cumprimento de Sentença de Ações Coletivas,X
+157,155,Cumprimento Provisório de Sentença,X
+15161,155,Cumprimento Provisório de Sentença de Ações Coletivas,X
+158,2,Processo de Execução,X
+1111,158,Execução de Título Judicial,X
+1068,158,Processo de Execução Trabalhista,X
+994,1068,Execução Provisória em Autos Suplementares,X
+15187,1068,Plano Especial de Pagamento Trabalhista,X
+197,2,Recursos,X
+200,197,Agravos,X
+204,200,Agravo de Instrumento em Recurso Extraordinário,X
+207,197,Embargos,X
+1689,207,Embargos de Declaração Cível,X
+1071,197,Recursos Trabalhistas,X
+1209,1071,Agravos,X
+1000,1209,Agravo,X
+1001,1209,Agravo de Instrumento em Agravo de Petição,X
+14775,1209,Agravo de Instrumento em Mandado de Segurança,X
+1002,1209,Agravo de Instrumento em Recurso de Revista,X
+1003,1209,Agravo de Instrumento em Recurso Ordinário,X
+1004,1209,Agravo de Petição,X
+1005,1209,Agravo Regimental Trabalhista,X
+1267,1071,Recurso de Multa,X
+11886,1071,Recurso Ordinário - Rito Sumaríssimo,X
+1009,1071,Recurso Ordinário Trabalhista,X
+11027,1071,Remessa Necessária / Recurso Ordinário,X
+1685,1071,Remessa Necessária Trabalhista,X
+12133,2,Tutela Provisória de Urgência e Tutela Provisória de Evidência,X
+12135,12133,Tutela Antecipada Antecedente,X
+12134,12133,Tutela Cautelar Antecedente,X
+268,,PROCESSO CRIMINAL ,X
+284,268,Processo Especial,X
+285,284,Processo Especial do Código de Processo Penal,X
+12394,285,Revisão Criminal,X

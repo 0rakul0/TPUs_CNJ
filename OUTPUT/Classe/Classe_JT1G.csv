@@ -1,0 +1,101 @@
+Código,Cód. Pai,nome,JT1G
+1198,,PROCEDIMENTOS ADMINISTRATIVOS ,X
+12248,1198,Pedido de Cooperação Judiciária,X
+11099,,PROCEDIMENTOS PRÉ-PROCESSUAIS DE RESOLUÇÃO CONSENSUAL DE CONFLITOS ,X
+12136,11099,Pedido de Mediação Pré-Processual,X
+11875,11099,Reclamação Pré-processual,X
+2,,PROCESSO CÍVEL E DO TRABALHO ,X
+214,2,Outros Procedimentos,X
+237,214,Atos e expedientes,X
+241,237,Petição Cível,X
+257,214,Cartas,X
+258,257,Carta de Ordem Cível,X
+261,257,Carta Precatória Cível,X
+264,257,Carta Rogatória Cível,X
+215,214,Incidentes,X
+224,215,Exceções,X
+1230,224,Exceção de Impedimento,X
+1232,224,Exceção de Incompetência,X
+1231,224,Exceção de Suspeição,X
+231,215,Impugnação ao Valor da Causa Cível,X
+12119,215,Incidente de Desconsideração de Personalidade Jurídica,X
+232,215,Incidente de Falsidade,X
+236,215,Oposição,X
+12075,215,Procedimento Conciliatório,X
+175,2,Processo Cautelar,X
+178,175,Arresto ,X
+180,175,Atentado,X
+181,175,Busca e Apreensão,X
+182,175,Caução,X
+183,175,Cautelar Inominada,X
+1723,175,Contraprotesto Judicial,X
+186,175,Exibição,X
+1726,175,Interpelação,X
+190,175,Justificação,X
+1725,175,Notificação,X
+193,175,Produção Antecipada da Prova,X
+191,175,Protesto,X
+196,175,Seqüestro,X
+1106,2,Processo de Conhecimento,X
+1107,1106,Procedimento de Conhecimento,X
+26,1107,Procedimentos Especiais,X
+27,26,Procedimentos Especiais de Jurisdição Contenciosa,X
+45,27,Ação de Exigir Contas,X
+32,27,Consignação em Pagamento,X
+37,27,Embargos de Terceiro Cível,X
+1709,27,Interdito Proibitório,X
+40,27,Monitória,X
+44,27,Prestação de Contas - Oferecidas,X
+1707,27,Reintegração / Manutenção de Posse,X
+46,27,Restauração de Autos Cível,X
+50,26,Procedimentos Especiais de Jurisdição Voluntária,X
+1295,50,Alvará Judicial,X
+12374,50,Homologação da Transação Extrajudicial,X
+12227,50,Interpelação,X
+12226,50,Notificação,X
+12228,50,Protesto,X
+62,26,"Procedimentos Regidos por Outros Códigos, Leis Esparsas e Regimentos",X
+63,62,Ação Civil Coletiva,X
+65,62,Ação Civil Pública,X
+74,62,Alvará Judicial - Lei 6858/80,X
+1269,62,Habeas Corpus Cível,X
+110,62,Habeas Data Cível,X
+112,62,Homologação de Transação Extrajudicial,X
+120,62,Mandado de Segurança Cível,X
+119,62,Mandado de Segurança Coletivo,X
+1067,1107,Procedimentos Trabalhistas,X
+980,1067,Ação de Cumprimento,X
+985,1067,Ação Trabalhista - Rito Ordinário,X
+1126,1067,Ação Trabalhista - Rito Sumário (Alçada),X
+1125,1067,Ação Trabalhista - Rito Sumaríssimo,X
+986,1067,Inquérito para Apuração de Falta Grave,X
+155,1106,Procedimento de Cumprimento de Sentença/Decisão,X
+156,155,Cumprimento de sentença,X
+15160,155,Cumprimento de Sentença de Ações Coletivas,X
+157,155,Cumprimento Provisório de Sentença,X
+15161,155,Cumprimento Provisório de Sentença de Ações Coletivas,X
+158,2,Processo de Execução,X
+169,158,Embargos,X
+170,169,Embargos à Adjudicação,X
+171,169,Embargos à Arrematação,X
+172,169,Embargos à Execução,X
+1111,158,Execução de Título Judicial,X
+1116,158,Execução Fiscal,X
+1068,158,Processo de Execução Trabalhista,X
+993,1068,Execução de Certidão de Crédito Judicial,X
+991,1068,Execução de Termo de Ajuste de Conduta,X
+992,1068,Execução de Termo de Conciliação de CCP,X
+990,1068,Execução de Título Extrajudicial,X
+994,1068,Execução Provisória em Autos Suplementares,X
+197,2,Recursos,X
+207,197,Embargos,X
+1689,207,Embargos de Declaração Cível,X
+210,207,Embargos Infringentes na Execução Fiscal,X
+1071,197,Recursos Trabalhistas,X
+1209,1071,Agravos,X
+1001,1209,Agravo de Instrumento em Agravo de Petição,X
+1003,1209,Agravo de Instrumento em Recurso Ordinário,X
+12760,1071,Recurso de Julgamento Parcial ,X
+12133,2,Tutela Provisória de Urgência e Tutela Provisória de Evidência,X
+12135,12133,Tutela Antecipada Antecedente,X
+12134,12133,Tutela Cautelar Antecedente,X

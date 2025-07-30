@@ -1,0 +1,297 @@
+Código,Cód. Pai,nome,JF1G
+385,,EXECUÇÃO PENAL E DE MEDIDAS ALTERNATIVAS ,X
+386,385,Execução da Pena,X
+11399,385,Execução de Medida de Segurança,X
+12729,385,Execução de Medidas Alternativas no Juízo Comum,X
+12727,385,Execução de Pena de Multa,X
+1714,385,Execução Provisória,X
+406,385,Incidentes,X
+409,406,Anistia,X
+411,406,Comutação de Pena,X
+407,406,Conversão de Pena,X
+408,406,Excesso ou Desvio,X
+410,406,Indulto,X
+12128,406,Livramento Condicional,X
+12129,406,Outros Incidentes de Execução Iniciados de Ofício,X
+12125,406,Progressão de Regime,X
+12126,406,Regressão de Regime,X
+12127,406,Remição,X
+11957,406,Remição de Pena,X
+12089,406,Renovação de Permanência em Estabelecimento Penal Federal,X
+12123,406,Roteiro de Pena,X
+1283,406,Superveniência de doença mental,X
+1288,406,Transferência entre estabelecimentos penais,X
+1284,406,Unificação de penas,X
+12728,385,Transferência Entre Estabelecimentos Penais,X
+1198,,PROCEDIMENTOS ADMINISTRATIVOS ,X
+12248,1198,Pedido de Cooperação Judiciária,X
+1199,1198,Pedido de Providências,X
+1298,1198,Processo Administrativo,X
+1262,1198,Processo Administrativo Disciplinar em face de Servidor,X
+1301,1198,Reclamação Disciplinar,X
+1308,1198,Sindicância,X
+547,,PROCEDIMENTOS DE INFÂNCIA E JUVENTUDE ,X
+1385,547,Seção Cível,X
+1386,1385,Processo de Conhecimento,X
+12070,1386,Pedido de Medida de Proteção,X
+1459,547,Seção Infracional,X
+12074,1459,Pedido De Desinternação/Reavaliação/Substituição/Suspensão da Medida,X
+12071,1459,Procedimentos Cautelares,X
+12072,12071,Busca e Apreensão Infracional,X
+12073,12071,Internação Provisória,X
+11099,,PROCEDIMENTOS PRÉ-PROCESSUAIS DE RESOLUÇÃO CONSENSUAL DE CONFLITOS ,X
+12136,11099,Pedido de Mediação Pré-Processual,X
+11875,11099,Reclamação Pré-processual,X
+2,,PROCESSO CÍVEL E DO TRABALHO ,X
+214,2,Outros Procedimentos,X
+15167,214,Acordo de Não Persecução Cível,X
+237,214,Atos e expedientes,X
+12139,237,Contestação em Foro Diverso,X
+1701,237,Nomeação de Advogado,X
+241,237,Petição Cível,X
+257,214,Cartas,X
+12082,257,Carta Arbitral,X
+258,257,Carta de Ordem Cível,X
+261,257,Carta Precatória Cível,X
+264,257,Carta Rogatória Cível,X
+215,214,Incidentes,X
+218,215,Assistência Judiciária,X
+14991,215,Classificação de Crédito Público,X
+12153,215,Embargos Parciais à Ação Monitória,X
+224,215,Exceções,X
+1230,224,Exceção de Impedimento,X
+1232,224,Exceção de Incompetência,X
+1231,224,Exceção de Suspeição,X
+228,215,Exibição de Documento ou Coisa Cível,X
+230,215,Impugnação ao Pedido de Assistência Litisconsorcial ou Simples,X
+231,215,Impugnação ao Valor da Causa Cível,X
+1702,215,Impugnação de Assistência Judiciária,X
+12119,215,Incidente de Desconsideração de Personalidade Jurídica,X
+232,215,Incidente de Falsidade,X
+12080,215,Incidente de Impedimento Cível,X
+12081,215,Incidente de Suspeição Cível,X
+236,215,Oposição,X
+12075,215,Procedimento Conciliatório,X
+175,2,Processo Cautelar,X
+176,175,Alimentos - Provisionais,X
+177,175,Apreensão de Títulos,X
+178,175,Arresto ,X
+179,175,Arrolamento de Bens,X
+180,175,Atentado,X
+181,175,Busca e Apreensão,X
+182,175,Caução,X
+83,175,Cautelar Fiscal,X
+183,175,Cautelar Inominada,X
+1723,175,Contraprotesto Judicial,X
+186,175,Exibição,X
+188,175,Homologação do Penhor Legal,X
+1726,175,Interpelação,X
+190,175,Justificação,X
+1725,175,Notificação,X
+1289,175,Outras medidas provisionais,X
+192,175,Posse em Nome do Nascituro,X
+193,175,Produção Antecipada da Prova,X
+191,175,Protesto,X
+196,175,Seqüestro,X
+12083,175,Tutela Antecipada Antecedente,X
+12084,175,Tutela Cautelar Antecedente,X
+1106,2,Processo de Conhecimento,X
+1107,1106,Procedimento de Conhecimento,X
+7,1107,Procedimento Comum Cível,X
+22,1107,Procedimento Sumário,X
+26,1107,Procedimentos Especiais,X
+27,26,Procedimentos Especiais de Jurisdição Contenciosa,X
+45,27,Ação de Exigir Contas,X
+28,27,Anulação e Substituição de Títulos ao Portador,X
+29,27,Apreensão e Depósito de Coisa Vendida com Reserva de Domínio,X
+32,27,Consignação em Pagamento,X
+34,27,Demarcação / Divisão,X
+35,27,Depósito,X
+12086,27,Dissolução Parcial de Sociedade,X
+37,27,Embargos de Terceiro Cível,X
+38,27,Habilitação,X
+12761,27,Homologação do Penhor Legal,X
+1709,27,Interdito Proibitório,X
+40,27,Monitória,X
+41,27,Nunciação de Obra Nova,X
+44,27,Prestação de Contas - Oferecidas,X
+12376,27,Regulação de Avaria Grossa,X
+1707,27,Reintegração / Manutenção de Posse,X
+46,27,Restauração de Autos Cível,X
+49,27,Usucapião,X
+50,26,Procedimentos Especiais de Jurisdição Voluntária,X
+52,50,Alienação Judicial de Bens,X
+1295,50,Alvará Judicial,X
+55,50,Declaração de Ausência,X
+56,50,Especialização de Hipoteca Legal,X
+12374,50,Homologação da Transação Extrajudicial,X
+12227,50,Interpelação,X
+12226,50,Notificação,X
+59,50,Organização e Fiscalização de Fundação,X
+1294,50,Outros procedimentos de jurisdição voluntária,X
+12228,50,Protesto,X
+12229,50,Protesto formado a bordo,X
+62,26,"Procedimentos Regidos por Outros Códigos, Leis Esparsas e Regimentos",X
+63,62,Ação Civil Coletiva,X
+64,62,Ação Civil de Improbidade Administrativa,X
+65,62,Ação Civil Pública,X
+66,62,Ação Popular,X
+69,62,Alimentos - Lei Especial Nº 5.478/68,X
+76,62,Apreensão de Embarcações,X
+77,62,Arribadas Forçadas,X
+80,62,Avarias,X
+81,62,Busca e Apreensão em Alienação Fiduciária,X
+82,62,Cancelamento de Naturalização,X
+84,62,Cobrança de Cédula de Crédito Industrial,X
+85,62,Compromisso Arbitral,X
+86,62,Consignatória de Aluguéis,X
+89,62,Depósito da Lei 8. 866/94,X
+90,62,Desapropriação,X
+91,62,Desapropriação Imóvel Rural por Interesse Social,X
+92,62,Despejo,X
+93,62,Despejo por Falta de Pagamento,X
+94,62,Despejo por Falta de Pagamento Cumulado Com Cobrança,X
+96,62,Discriminatória,X
+97,62,Dissolução e Liquidação de Sociedade,X
+100,62,Dúvida,X
+107,62,Expropriação da Lei 8.257/91,X
+1269,62,Habeas Corpus Cível,X
+110,62,Habeas Data Cível,X
+112,62,Homologação de Transação Extrajudicial,X
+113,62,Imissão na Posse,X
+1124,62,Justificação de Dinheiro a Risco,X
+120,62,Mandado de Segurança Cível,X
+119,62,Mandado de Segurança Coletivo,X
+121,62,Naturalização,X
+122,62,Opção de Nacionalidade,X
+124,62,Pedido de Resposta ou Retificação da Lei de Imprensa,X
+15217,62,Procedimento de Repactuação de Dívidas (Superendividamento),X
+127,62,Protesto Formado a Bordo,X
+79,62,Regulação de Avaria Grossa,X
+136,62,Remição do Imóvel Hipotecado,X
+137,62,Renovatória de Locação,X
+1683,62,Retificação de Registro de Imóvel,X
+140,62,Revisional de Aluguel,X
+155,1106,Procedimento de Cumprimento de Sentença/Decisão,X
+156,155,Cumprimento de sentença,X
+15430,155,Cumprimento de Sentença - Reclamação Pré-processual,X
+12078,155,Cumprimento de Sentença contra a Fazenda Pública,X
+15160,155,Cumprimento de Sentença de Ações Coletivas,X
+10980,155,Cumprimento Provisório de Decisão,X
+157,155,Cumprimento Provisório de Sentença,X
+15161,155,Cumprimento Provisório de Sentença de Ações Coletivas,X
+10981,155,Impugnação ao Cumprimento de Decisão,X
+229,155,Impugnação ao Cumprimento de Sentença,X
+150,1106,Procedimento de Liquidação,X
+152,150,Liquidação de Sentença pelo Procedimento Comum,X
+151,150,Liquidação por Arbitramento,X
+154,150,Liquidação Provisória de Sentença pelo Procedimento Comum,X
+153,150,Liquidação Provisória por Arbitramento,X
+158,2,Processo de Execução,X
+169,158,Embargos,X
+170,169,Embargos à Adjudicação,X
+171,169,Embargos à Arrematação,X
+172,169,Embargos à Execução,X
+1118,169,Embargos à Execução Fiscal,X
+173,169,Embargos de Retenção por Benfeitorias,X
+159,158,Execução de Título Extrajudicial,X
+12154,159,Execução de Título Extrajudicial,X
+12079,159,Execução de Título Extrajudicial contra a Fazenda Pública,X
+1111,158,Execução de Título Judicial,X
+1114,1111,Execução Contra a Fazenda Pública,X
+12251,1111,Execução de Título Judicial - CEJUSC,X
+1116,158,Execução Fiscal,X
+1117,158,Execução Hipotecária do Sistema Financeiro da Habitação,X
+197,2,Recursos,X
+207,197,Embargos,X
+1689,207,Embargos de Declaração Cível,X
+210,207,Embargos Infringentes na Execução Fiscal,X
+12133,2,Tutela Provisória de Urgência e Tutela Provisória de Evidência,X
+12135,12133,Tutela Antecipada Antecedente,X
+12134,12133,Tutela Cautelar Antecedente,X
+268,,PROCESSO CRIMINAL ,X
+334,268,Cartas,X
+335,334,Carta de Ordem Criminal,X
+355,334,Carta Precatória Criminal,X
+375,334,Carta Rogatória Criminal,X
+308,268,Medidas Cautelares,X
+11955,308,Cautelar Inominada Criminal,X
+14734,308,Medidas de Proteção - Criança e Adolescente (Lei 13.431) Criminais,X
+311,308,Medidas Investigatórias Sobre Organizações Criminosas,X
+309,308,Pedido de Busca e Apreensão Criminal,X
+312,308,Pedido de Prisão,X
+313,312,Pedido de Prisão Preventiva,X
+314,312,Pedido de Prisão Temporária,X
+315,312,Pedido de Prisão/ Liberdade Vigiada para Fins de Expulsão,X
+310,308,Pedido de Quebra de Sigilo de Dados e/ou Telefônico,X
+11793,308,Produção Antecipada de Provas Criminal,X
+303,268,Medidas Garantidoras,X
+307,303,Habeas Corpus Criminal,X
+304,303,Liberdade,X
+305,304,Liberdade Provisória com ou sem fiança,X
+269,268,Medidas Preparatórias,X
+274,269,Interpelações,X
+275,274,Notificação para Explicações,X
+276,274,Notificação para Explicações (Lei de Imprensa),X
+270,269,Notícia-Crime,X
+1727,268,Petição Criminal,X
+281,268,Procedimento Comum,X
+283,281,Ação Penal - Procedimento Ordinário,X
+10943,281,Ação Penal - Procedimento Sumário,X
+10944,281,Ação Penal - Procedimento Sumaríssimo,X
+282,281,Ação Penal de Competência do Júri,X
+277,268,Procedimentos Investigatórios,X
+280,277,Auto de Prisão em Flagrante,X
+12121,277,Comunicado de Mandado de Prisão,X
+279,277,Inquérito Policial,X
+1733,277,Procedimento Investigatório Criminal (PIC-MP) ,X
+271,277,Representação Criminal,X
+273,271,Pedido de Arquivamento em Representação Criminal,X
+272,271,Representação Criminal/Notícia de Crime,X
+284,268,Processo Especial,X
+292,284,Processo Especial de Leis Esparsas,X
+293,292,Crimes Ambientais,X
+297,292,Crimes de Imprensa,X
+14701,292,Habeas Data Criminal,X
+1710,292,Mandado de Segurança Criminal,X
+300,292,Procedimento Especial da Lei Antitóxicos,X
+285,284,Processo Especial do Código de Processo Penal,X
+289,285,Crimes Contra a Propriedade Imaterial,X
+288,285,"Crimes de Calúnia, Injúria e Difamação de Competência do Juiz Singular",X
+287,285,Crimes de Responsabilidade dos Funcionários Públicos,X
+11798,285,Processo de Aplicação de Medida de Segurança Por Fato Não Criminoso,X
+290,285,Processo Sumário (Detenção),X
+291,285,Restauração de Autos Criminal,X
+316,268,Questões e Processos Incidentes,X
+1717,316,Alienação de Bens do Acusado,X
+14123,316,Destinação de Bens Apreendidos,X
+327,316,Embargos de Terceiro Criminal,X
+1715,316,Embargos do Acusado,X
+317,316,Exceções,X
+324,317,Exceção da Verdade,X
+322,317,Exceção de Coisa Julgada,X
+321,317,Exceção de Ilegitimidade de Parte,X
+323,317,Exceção de Impedimento,X
+319,317,Exceção de Incompetência de Juízo,X
+320,317,Exceção de Litispendência,X
+318,317,Exceção de Suspeição,X
+331,316,Incidentes,X
+14678,331,Acordo de Não Persecução Penal,X
+11787,331,Assistência Judiciária,X
+1719,331,Avaliação para atestar dependência de drogas,X
+11788,331,Exibição de Documento ou Coisa Criminal,X
+12077,331,Homologação em Acordo de Colaboração Premiada,X
+11789,331,Impugnação ao Valor da Causa,X
+11790,331,Impugnação de Assistência Judiciária,X
+332,331,Incidente de Falsidade,X
+333,331,Insanidade Mental do Acusado,X
+1291,331,Reabilitação,X
+328,316,Medidas Assecuratórias,X
+330,328,Arresto / Hipoteca Legal,X
+329,328,Seqüestro,X
+326,316,Restituição de Coisas Apreendidas,X
+412,268,Recursos,X
+413,412,Agravo de Execução Penal,X
+418,412,Carta Testemunhável,X
+426,412,Recurso em Sentido Estrito,X
+11398,412,Recurso em sentido estrito/Recurso ex officio,X

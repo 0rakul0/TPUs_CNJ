@@ -1,0 +1,141 @@
+Código,Cód. Pai,nome,STJ
+385,,EXECUÇÃO PENAL E DE MEDIDAS ALTERNATIVAS ,X
+12729,385,Execução de Medidas Alternativas no Juízo Comum,X
+12727,385,Execução de Pena de Multa,X
+12728,385,Transferência Entre Estabelecimentos Penais,X
+1198,,PROCEDIMENTOS ADMINISTRATIVOS ,X
+12248,1198,Pedido de Cooperação Judiciária,X
+1299,1198,Recurso Administrativo,X
+256,1198,Representação por Excesso de Prazo,X
+547,,PROCEDIMENTOS DE INFÂNCIA E JUVENTUDE ,X
+1385,547,Seção Cível,X
+1386,1385,Processo de Conhecimento,X
+12230,1386,Guarda c/c destituição do poder familiar,X
+1459,547,Seção Infracional,X
+12071,1459,Procedimentos Cautelares,X
+12424,12071,Medidas de Proteção à Pessoa Idosa - Infracional,X
+12423,12071,Medidas Protetivas de Urgência (Lei Maria da Penha) - Infracional,X
+11099,,PROCEDIMENTOS PRÉ-PROCESSUAIS DE RESOLUÇÃO CONSENSUAL DE CONFLITOS ,X
+12136,11099,Pedido de Mediação Pré-Processual,X
+2,,PROCESSO CÍVEL E DO TRABALHO ,X
+214,2,Outros Procedimentos,X
+215,214,Incidentes,X
+14991,215,Classificação de Crédito Público,X
+231,215,Impugnação ao Valor da Causa Cível,X
+216,215,Incidente De Arguição de Inconstitucionalidade Cível,X
+12119,215,Incidente de Desconsideração de Personalidade Jurídica,X
+232,215,Incidente de Falsidade,X
+12085,215,Incidente de Resolução de Demandas Repetitivas,X
+233,215,Incidente de Uniformização de Jurisprudência,X
+1106,2,Processo de Conhecimento,X
+1107,1106,Procedimento de Conhecimento,X
+26,1107,Procedimentos Especiais,X
+27,26,Procedimentos Especiais de Jurisdição Contenciosa,X
+12541,27,Divórcio Litigioso,X
+12375,27,Reclamação,X
+46,27,Restauração de Autos Cível,X
+50,26,Procedimentos Especiais de Jurisdição Voluntária,X
+12234,50,Curatela,X
+12227,50,Interpelação,X
+12226,50,Notificação,X
+12228,50,Protesto,X
+12229,50,Protesto formado a bordo,X
+12369,50,Tomada de Decisão Apoiada,X
+12233,50,Tutela Cível,X
+62,26,"Procedimentos Regidos por Outros Códigos, Leis Esparsas e Regimentos",X
+65,62,Ação Civil Pública,X
+66,62,Ação Popular,X
+12370,62,Tomada de Decisão Apoiada,X
+197,2,Recursos,X
+200,197,Agravos,X
+206,200,Agravo Regimental Cível,X
+207,197,Embargos,X
+1689,207,Embargos de Declaração Cível,X
+213,197,Recurso Especial,X
+12133,2,Tutela Provisória de Urgência e Tutela Provisória de Evidência,X
+12135,12133,Tutela Antecipada Antecedente,X
+12134,12133,Tutela Cautelar Antecedente,X
+268,,PROCESSO CRIMINAL ,X
+308,268,Medidas Cautelares,X
+11955,308,Cautelar Inominada Criminal,X
+10967,308,Medidas de Proteção à Pessoa Idosa - Criminal,X
+1268,308,Medidas Protetivas de Urgência (Lei Maria da Penha) - Criminal,X
+310,308,Pedido de Quebra de Sigilo de Dados e/ou Telefônico,X
+1727,268,Petição Criminal,X
+277,268,Procedimentos Investigatórios,X
+12121,277,Comunicado de Mandado de Prisão,X
+1731,277,Investigação contra magistrado,X
+284,268,Processo Especial,X
+292,284,Processo Especial de Leis Esparsas,X
+12122,292,Reclamação Criminal,X
+316,268,Questões e Processos Incidentes,X
+1717,316,Alienação de Bens do Acusado,X
+14123,316,Destinação de Bens Apreendidos,X
+331,316,Incidentes,X
+14678,331,Acordo de Não Persecução Penal,X
+1178,331,Incidente de Arguição de Inconstitucionalidade Criminal,X
+433,331,Incidente de Uniformização de Jurisprudência,X
+11791,331,Pedido de Uniformização de Interpretação de Lei Criminal,X
+326,316,Restituição de Coisas Apreendidas,X
+412,268,Recursos,X
+1729,412,Agravo Interno Criminal,X
+5,,SUPERIOR TRIBUNAL DE JUSTIÇA ,X
+1670,5,Ação de Improbidade Administrativa,X
+1033,5,Ação Penal,X
+1669,5,Ação Rescisória,X
+1044,5,Agravo de Instrumento,X
+1013,5,Agravo em Recurso de Habeas Corpus,X
+1046,5,Agravo em Recurso de Mandado de Segurança,X
+11881,5,Agravo em Recurso Especial,X
+1045,5,Agravo em Recurso Extraordinário,X
+1035,5,Apelação Cível,X
+1047,5,Carta Rogatória,X
+1671,5,Comunicação,X
+1053,5,Conflito de Atribuição,X
+1054,5,Conflito de Competência,X
+1018,5,Embargos à Execução em Ação Recisoria,X
+1017,5,Embargos à Execução em Mandado de Segurança,X
+1019,5,Embargos à Execução em Medida Cautelar,X
+11956,5,Embargos de Divergência em Agravo em Recurso Especial,X
+1016,5,Embargos de Divergência em Agravo Regimental,X
+1015,5,Embargos de Divergência em Recurso de Mandado de Segurança,X
+1137,5,Embargos de Divergência em Recurso Especial,X
+1066,5,Embargos Infringentes em Ação Rescisória,X
+1037,5,Embargos Infringentes em Apelação Cível,X
+1063,5,Exceção da Verdade,X
+1672,5,Exceção de Impedimento,X
+1673,5,Exceção de Suspeição,X
+1020,5,Execução em Ação Rescisória,X
+1023,5,Execução em Mandado de Segurança,X
+1024,5,Execução em Medida Cautelar,X
+1021,5,Execução em Sentença Estrangeira,X
+1022,5,Execução em Sentença Estrangeira Contestada,X
+1720,5,Habeas Corpus,X
+15224,5,Habeas Corpus Coletivo,X
+1049,5,Habeas Data,X
+1026,5,Homologação de Decisão Estrangeira,X
+1025,5,Incidente de Deslocamento de Competência ,X
+1042,5,Inquérito,X
+1034,5,Interpelação Judicial,X
+1674,5,Intervenção Federal,X
+1675,5,Mandado de Injunção,X
+1029,5,Mandado de Segurança,X
+1062,5,Medida Cautelar,X
+1057,5,Petição,X
+1677,5,Precatório,X
+15228,5,Queixa-Crime,X
+1030,5,Reclamação,X
+1032,5,Recurso Especial,X
+1031,5,Recurso Ordinário,X
+1722,5,Recurso Ordinário em Habeas Corpus,X
+1721,5,Recurso Ordinário em Mandado de Segurança,X
+1064,5,Remessa Necessária em Habeas Corpus,X
+1038,5,Representação,X
+1040,5,Requisição de Pequeno Valor,X
+1678,5,Revisão Criminal,X
+1027,5,Sentença Estrangeira Contestada,X
+1028,5,Sindicância,X
+1036,5,Suspensão de Liminar e de Sentença,X
+1679,5,Suspensão de Segurança,X
+12118,5,Suspensão em Incidente de Resolução de Demandas Repetitivas,X
+12250,5,Suspensão em IRDR,X

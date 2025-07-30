@@ -1,0 +1,775 @@
+Código,Cód. Pai,Dispositivo legal,Artigo,Data de Publicação,Data de Alteração,Data de Inativação,Data de Reativação,nome,JEFP
+12775,,,,,,,,DIREITO À EDUCAÇÃO,X
+12795,12775,CF; LDB,,2020-09-23 00:00:00,2021-07-14 11:18:00,,,Acesso,X
+12808,12795,Lei 9394/1996. CF,"Art. 53, V; 206, IV e 208",2020-09-23 00:00:00,2021-01-18 13:09:00,,,Cobrança de Taxa de Matrícula,X
+14240,12795,Lei 9394/1996; CF,"53, V; 207",2021-01-29 00:00:00,,,,Matrícula - Ausência de Pré-Requisito,X
+14179,12795,Lei 9394/1996; CF,"53, V; 208",2021-01-18 00:00:00,,,,Perda de Prazo de Matrícula,X
+14178,12795,Lei 9.870/1999,"5º, V e X",2021-01-18 00:00:00,,,,Renovação de Matrícula - Inadimplência,X
+9985,,,,,,,,DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO,X
+9997,9985,,,2008-09-30 15:52:00,,,,Atos Administrativos,X
+10015,9997,,,2008-09-30 15:52:00,,,,Fiscalização,X
+10016,10015,,,2008-09-30 15:52:00,,,,Inspeção Fitossanitária,X
+10018,10015,,,2008-09-30 15:52:00,,,,Inspeção Sanitária de Origem Animal,X
+10022,9997,,,2008-09-30 15:52:00,,,,Infração Administrativa,X
+10025,10022,,,2008-09-30 15:52:00,,,,Apreensão,X
+10024,10022,,,2008-09-30 15:52:00,,,,Interdição,X
+10023,10022,,,2008-09-30 15:52:00,,,,Multas e demais Sanções,X
+10009,9997,,,2008-09-30 15:52:00,,,,Inquérito / Processo / Recurso Administrativo,X
+9998,9997,,,2008-09-30 15:52:00,,,,Licenças,X
+10003,9998,"Lei 5.991/73, 6.360/76 e 6.437/77",,2008-09-30 15:52:00,,,,Comercialização e/ou Utilização sem Restrições de Medicamentos,X
+10002,9998,"Lei 6.437/77, 6.198/74 e 9.782/99",,2008-09-30 15:52:00,,,,Comercialização sem Restrições de Gêneros Alimentícios,X
+10001,9998,,,2008-09-30 15:52:00,,,,Comercialização sem Restrições de Produtos Industrializados,X
+9999,9998,IN SRF 7/98; 120/98 e 140/98,,2008-09-30 15:52:00,,,,Declaração de Bagagem,X
+10000,9998,IN SRF 248/2002,"5º, inciso I",2008-09-30 15:52:00,,,,Declaração de Trânsito Aduaneiro,X
+10004,9998,Lei 9.478/97 e 9.847/99,,2008-09-30 15:52:00,,,,Funcionamento de Comércio de Derivados de Petróleo,X
+10006,9998,,,2008-09-30 15:52:00,,,,Funcionamento de Estabelecimentos Empresariais,X
+10084,9998,,,2008-09-30 15:52:00,,,,Jogos de Bingo e/ou Caça-níqueis,X
+10079,9998,,,2008-09-30 15:52:00,,,,Loterias/Sorteio,X
+10007,9998,Lei 10.826/2003,,2008-09-30 15:52:00,,,,Registro / Porte de arma de fogo,X
+10008,9998,Decreto 63.662/68,4º,2008-09-30 15:52:00,,,,Registro de Aeronave,X
+10005,9998,,,2008-09-30 15:52:00,,,,Registro de Empresa,X
+10370,9985,,,2008-09-30 15:52:00,,,,Concurso Público / Edital,X
+10382,10370,Lei 8112/90,arts. 10 a 15,2008-09-30 15:52:00,,,,Anulação,X
+10379,10370,8.112/90,arts. 10 a 15,2008-09-30 15:52:00,,,,Anulação e Correção de Provas / Questões,X
+10381,10370,CF,"37, IV",2008-09-30 15:52:00,,,,Classificação e/ou Preterição,X
+10384,10370,Lei 8112/90,arts. 10 a 15,2008-09-30 15:52:00,,,,Condições Especiais para Prestação de Prova,X
+10377,10370,Lei 8112/90,arts. 10 a 15,2008-09-30 15:52:00,,,,Curso de Formação,X
+10380,10370,Lei 8112/90,"art. 5º, IV",2008-09-30 15:52:00,,,,Escolaridade,X
+10376,10370,Lei 8112/90,"art. 5º, IVI, art. 14",2008-09-30 15:52:00,,,,Exame de Saúde e/ou Aptidão Física,X
+10378,10370,,,2008-09-30 15:52:00,,,,Exame Psicotécnico / Psiquiátrico,X
+10374,10370,CF,"Art. 93, I; 129, § 3º",2008-09-30 15:52:00,,,,Exigência de Prática Forense,X
+10372,10370,Lei 8112/90,,2008-09-30 15:52:00,,,,Inscrição / Documentação,X
+10373,10370,Lei 8112/90,"art. 5º, V",2008-09-30 15:52:00,,,,Limite de Idade,X
+10383,10370,"CFCF, Lei 8112/90","CF, art. 37, III; Lei 8112/90, art. 12",2008-09-30 15:52:00,,,,Prazo de Validade,X
+10375,10370,CF,"37, II",2008-09-30 15:52:00,,,,Prova de Títulos,X
+10371,10370,"CF, Lei 8112/90","CF, art. 37, VIII; Lei 8112/90, art. 5º, § 2º",2008-09-30 15:52:00,2022-11-29 15:41:00,,,Reserva de Vagas para Pessoas com Deficiência,X
+10421,9985,,,2008-09-30 15:52:00,,,,Contratos Administrativos,X
+10423,10421,Lei 8.666/93,59,2008-09-30 15:52:00,,,,Anulação,X
+10430,10421,Lei 8.666/93,"art. 57, § 1º, I a II, art. 58, § 2º",2008-09-30 15:52:00,,,,Equilíbrio Financeiro,X
+10429,10421,Lei 8.666/93,arts.66 a 76,2008-09-30 15:52:00,,,,Execução Contratual,X
+10422,10421,Lei 8.666/93,"art. 78, XV",2008-09-30 15:52:00,,,,Pagamento Atrasado / Correção Monetária,X
+10428,10421,Lei 8.666/93,"arts. 80 a 83, 86 a 88.",2008-09-30 15:52:00,,,,Penalidades,X
+10426,10421,Lei 8.666/93,"art. 57, §§ 1º, 2º, 4º",2008-09-30 15:52:00,,,,Prorrogação,X
+10425,10421,Lei 8.666/93,"art. 58, II, art.78 a 79",2008-09-30 15:52:00,,,,Rescisão,X
+10424,10421,Lei 8.666/93,"art. 78, XIV, XV",2008-09-30 15:52:00,,,,Suspensão,X
+10427,10421,Lei 8.666/93,"arts. 60, 65, § 6º",2008-09-30 15:52:00,,,,Termo Aditivo,X
+10394,9985,,,2008-09-30 15:52:00,,,,Dívida Ativa não-tributária,X
+10402,10394,Lei 10406/02,art. 286 a 298,2008-09-30 15:52:00,,,,Cessão de créditos não-tributários,X
+10401,10394,Lei 4320/64,"Art. 39, § 2º",2008-09-30 15:52:00,,,,Taxa de Ocupação / Laudêmio / Foro,X
+10182,9985,,,2008-09-30 15:52:00,,,,Dívida Pública Mobiliária,X
+10183,10182,DL 263/67,art. 1º a 11,2008-09-30 15:52:00,,,,Apólices da Dívida Pública,X
+10184,10182,LC 101/2000,"Arts. 29, II, 34, 36, pár. Único, 39, §4º, 43, § 2º, I",2008-09-30 15:52:00,,,,Títulos da Dívida Pública,X
+10088,9985,,,2008-09-30 15:52:00,,,,Domínio Público,X
+10109,10088,L 10.257/2001,39,2008-09-30 15:52:00,,,,Ordenação da Cidade / Plano Diretor,X
+10108,10088,CF,216,2008-09-30 15:52:00,,,,Patrimônio Histórico / Tombamento,X
+10131,10088,Lei 9491/97; leis estaduais,art. 1º e segs.,2008-09-30 15:52:00,,,,Privatização,X
+10106,10088,Dl 227/1967,,2008-09-30 15:52:00,,,,Recursos Minerais,X
+10409,9985,CF,37,2008-09-30 15:52:00,,,,Empregado Público / Temporário,X
+10411,10409,CF,37,2008-09-30 15:52:00,,,,Admissão / Permanência / Despedida,X
+10410,10409,Lei 8745/93 e Lei 9849/99,arts. 1º e segs.,2008-09-30 15:52:00,,,,Contrato Temporário de Mão de Obra L 8.745/1993,X
+9986,9985,,,2008-09-30 15:52:00,,,,Garantias Constitucionais,X
+15184,9986,Constituição Federal,"5º, XIV",2022-11-25 16:26:00,,,,Direito de Acesso à Informação,X
+9990,9986,CF,34,2008-09-30 15:52:00,,,,Intervenção em Estado / Município,X
+10120,9985,,,2008-09-30 15:52:00,,,,Intervenção do Estado na Propriedade,X
+10133,10120,L 10.257/2001 Estatuto das Cidades,25 a 27,2008-09-30 15:52:00,,,,Direito de Preempção,X
+10130,10120,CF,"170, III",2008-09-30 15:52:00,,,,Limitação Administrativa,X
+10129,10120,DL 3365/41,35,2008-09-30 15:52:00,,,,Ocupação Temporária,X
+10135,10120,CF1988,"5º, XXV",2008-09-30 15:52:00,,,,Requisição de Bem Particular,X
+10132,10120,,,2008-09-30 15:52:00,,,,Restituição de área,X
+10128,10120,DL 3365/41,art. 40,2008-09-30 15:52:00,,,,Servidão Administrativa,X
+10127,10120,DL 3365/41,art. 7º,2008-09-30 15:52:00,,,,Vistoria,X
+14202,9985,"Lei 13,709/2018",1º,2021-01-20 00:00:00,,,,Lei Geral de Proteção de Dados (LGPD),X
+14204,14202,Lei 13.709/2018,1º,2021-01-20 00:00:00,,,,Privacidade,X
+14203,14202,Lei 13.709/2018,1º,2021-01-20 00:00:00,,,,Proteção de Dados Pessoais,X
+10385,9985,L 8.666/1993,,2008-09-30 15:52:00,,,,Licitações ,X
+10393,10385,Lei 8666/93,"art. 43, VI",2008-09-30 15:52:00,,,,Adjudicação,X
+10392,10385,L 8.666/1993,"24, XXVI; 116 e segs.",2008-09-30 15:52:00,,,,Convênio,X
+14131,10385,Lei 8.666/1993,24,2021-01-18 00:00:00,,,,Dispensa,X
+10388,10385,Lei 8.666/93,21,2008-09-30 15:52:00,,,,Edital,X
+10387,10385,L 8.666/1993,art. 27 a 53,2008-09-30 15:52:00,,,,Habilitação / Registro Cadastral / Julgamento / Homologação,X
+14132,10385,Lei 8.666/1993,25,2021-01-18 00:00:00,,,,Inexigibilidade,X
+10386,10385,Lei 8.666/93,art. 20 a 26,2008-09-30 15:52:00,2021-01-18 10:11:00,,,Modalidade / Limite,X
+14133,10386,Lei 8.666/1993,"22, I",2021-01-18 00:00:00,,,,Concorrência,X
+14136,10386,Lei 8.666/1993,"22, IV",2021-01-18 00:00:00,,,,Concurso,X
+14135,10386,Lei 8.666/1993,"22, III",2021-01-18 00:00:00,,,,Convite,X
+14137,10386,Lei 8.666/1993,"22, V",2021-01-18 00:00:00,,,,Leilão,X
+14138,10386,Lei 10.520/2002,1 e seguintes,2021-01-18 00:00:00,,,,Pregão,X
+14140,14138,Decreto 5.450/2005,1 e seguintes,2021-01-18 00:00:00,,,,Eletrônico,X
+14139,14138,Lei 10.520/2002,1 e seguintes,2021-01-18 00:00:00,,,,Presencial,X
+14134,10386,Lei 8.666/1993,"22, II",2021-01-18 00:00:00,,,,Tomada de Preço,X
+10391,10385,Lei 8.666/93,109,2008-09-30 15:52:00,,,,Recursos Administrativos,X
+10389,10385,Lei 8.666/93,49,2008-09-30 15:52:00,,,,Revogação,X
+10390,10385,Lei 8.666/93,art. 86 a 88,2008-09-30 15:52:00,,,,Sanções Administrativas,X
+10324,9985,,,2008-09-30 15:52:00,,,,Militar,X
+10359,10324,,,2008-09-30 15:52:00,,,,Pensão,X
+10360,10359,Lei 3.765/60; Lei 6880/80,Art. 7º ; Art. 71,2008-09-30 15:52:00,,,,Concessão,X
+10362,10359,Lei 3.765/60,art. 1º a 24,2008-09-30 15:52:00,,,,Provisória,X
+10361,10359,Lei 6.880/80.,art. 71,2008-09-30 15:52:00,,,,Restabelecimento,X
+10325,10324,,,2008-09-30 15:52:00,,,,Regime,X
+10331,10325,CR1988; L 6.880/1980,"14, § 8º, II, 142, § 3º, III; 81 e 82",2008-09-30 15:52:00,,,,"Adidos, Agregados e Adjuntos",X
+10336,10325,Lei 6880/80,art. 10 a 13,2008-09-30 15:52:00,,,,Corpo Feminino,X
+10327,10325,Lei 6880/80,art. 114,2008-09-30 15:52:00,,,,Curso de Formação,X
+10329,10325,Lei 6.880/80,"50, IV, a",2008-09-30 15:52:00,,,,Estabilidade,X
+10326,10325,L 6.880/1980,10 a 13,2008-09-30 15:52:00,,,,Ingresso e Concurso,X
+10334,10325,Lei 6.880/80,"50, inciso IV, alínea ""m"" ; 59 a 62",2008-09-30 15:52:00,,,,Promoção,X
+10328,10325,Lei 6880/80; CF,"art. 112; art 125, §4º",2008-09-30 15:52:00,,,,Reintegração,X
+10335,10325,L 5.292/1967,art. 4º,2008-09-30 15:52:00,,,,Serviço Militar dos Profissionais da Saúde,X
+10337,10324,,,2008-09-30 15:52:00,,,,Sistema Remuneratório e Benefícios,X
+10351,10337,Lei 6880 de 1980,80 a 85,2008-09-30 15:52:00,,,,Agregação,X
+10356,10337,Lei 6880 de 1980,"50, IV, ""e""",2008-09-30 15:52:00,,,,Assistência Médico-Hospitalar,X
+14141,10337,Lei 8.112/1990,45 e 46,2021-01-18 00:00:00,,,,Descontos Indevidos,X
+10339,10337,Lei 6.880/80,"Art. 50, inc. IV, ""o""",2008-09-30 15:52:00,,,,Férias,X
+10338,10337,L 6.880/1980,53,2008-09-30 15:52:00,,,,Gratificações e Adicionais,X
+10340,10337,L 6.880/1980,"53, I, a",2008-09-30 15:52:00,,,,Indenizações Regulares,X
+14144,10340,Lei 8.237/1991 e Leis Estaduais que tratam de ajuda de custo a militares estaduais,34 e 38 (Lei 8.237/1991),2021-01-18 00:00:00,,,,Ajuda de Custo,X
+10357,10337,Lei 6880/80,art. 68,2008-09-30 15:52:00,,,,Licença Prêmio,X
+10350,10337,Lei 6.880/80,67 a 70,2008-09-30 15:52:00,,,,Licenças,X
+10358,10337,Lei 6.880/80,121 a 123,2008-09-30 15:52:00,,,,Licenciamento,X
+10349,10337,Lei 6.880/80,104 a 114,2008-09-30 15:52:00,,,,Reforma,X
+10352,10337,Lei 6880 de 1980,96 e 97,2008-09-30 15:52:00,,,,Reserva Remunerada,X
+14146,10337,Lei 8.162/1991,"46, caput",2021-01-18 00:00:00,,,,Restituição ao Erário,X
+14147,14146,CPC,"297, Parágrafo único, 520, I e II, e 302",2021-01-18 00:00:00,,,,Valores Antecipados na Tutela Revogada/Cassada,X
+10354,10337,Lei 6880 de 1980,134 a 143,2008-09-30 15:52:00,,,,Tempo de Serviço,X
+10353,10337,Lei 6880 de 1980,"96, II",2008-09-30 15:52:00,,,,Transferência ex-officio para reserva,X
+10355,10337,Lei 6880 de 1980,96 e 97,2008-09-30 15:52:00,,,,Transferência para reserva,X
+9991,9985,L 8.666/1993,,2008-09-30 15:52:00,,,,Responsabilidade da Administração,X
+10502,9991,CF,"Art. 37, § 6º",2008-09-30 15:52:00,,,,Indenização por Dano Material,X
+10504,10502,CF; Lei 10406/02,"CF, art. 37, § 6º; Lei 10.406/02, art.927",2008-09-30 15:52:00,,,,Acidente de Trânsito,X
+14148,10502,CF,"37, § 6º",2021-01-18 00:00:00,,,,Acidentes,X
+14149,14148,CF,"37, § 6º",2021-01-18 00:00:00,,,,Exposição a Substâncias Tóxicas - Dicloro-Difenil-Tricloroetano (DDT/Mercúrio/Outras),X
+14166,10502,CF,"37, § 6º",2021-01-18 00:00:00,,,,Ausência/Deficiência de Fiscalização,X
+14150,10502,CF,"37, § 6º",2021-01-18 00:00:00,,,,Concurso Público - Nomeação/Posse Tardia,X
+14154,10502,CF,"Art. 37, §6º - Súmula 388/STJ",2021-01-18 00:00:00,,,,Devolução de Cheques,X
+14155,10502,CF,"37, § 6º",2021-01-18 00:00:00,2021-01-29 13:47:00,,,Inscrição em Cadastro Restrito de Crédito,X
+14159,10502,CF,"37, § 6º",2021-01-18 00:00:00,,,,Política Pública de Preços,X
+14156,10502,CF,"37, § 6º",2021-01-18 00:00:00,,,,Protesto Indevido de Títulos,X
+14157,10502,CF/Lei 8.078/1990,"Art. 37, § º6 (CF)/ Art. 51 (Lei 8.078/1990)",2021-01-18 00:00:00,,,,Roubo/Leilão Indevido de Bem Empenhado,X
+14158,10502,CF,"37, § 6º",2021-01-18 00:00:00,,,,Saque Fraudulento,X
+10503,10502,CF/88; Lei 10406/02,"CF, art. 37, § 6º; Lei 10.406/02, art.927, 944, 949",2008-09-30 15:52:00,2023-09-27 16:56:00,,,Serviços de Saúde,X
+14161,10502,CF,"37, § 6º e 231",2021-01-18 00:00:00,,,,Tráfego de Veículo com Excesso de Peso,X
+10505,10502,,,2008-09-30 15:52:00,,,,Variação Cambial,X
+9992,9991,CF,"art. 5º, V, X",2008-09-30 15:52:00,,,,Indenização por Dano Moral,X
+9996,9992,CF,"art. 5º, V, X",2008-09-30 15:52:00,,,,Acidente de Trânsito,X
+14162,9992,CF,"37, § 6º",2021-01-18 00:00:00,,,,Acidentes,X
+14175,9992,CF,"37, § 6º",2021-01-18 00:00:00,,,,Assédio Moral,X
+14165,9992,CF,"37, § 6º",2021-01-18 00:00:00,,,,Concurso Público - Nomeação/Posse Tardia,X
+14168,9992,CF,"37, § 6º; Súmula 388/STJ",2021-01-18 00:00:00,,,,Devolução de Cheques,X
+14169,9992,CF,"37, § 6º",2021-01-18 00:00:00,,,,Inscrição em Cadastro Restritivo de Crédito,X
+14173,9992,CF; Lei 4.870/1965,"37, § 6º",2021-01-18 00:00:00,,,,Política Pública de Preços,X
+14909,9992,CF,"5º, LXXV e 37, § 6º",2021-09-30 00:00:00,,,,Prisão Ilegal,X
+14170,9992,CF,"37, § 6º",2021-01-18 00:00:00,,,,Protesto Indevido de Títulos,X
+9995,9992,CF,"art. 5º, V, X",2008-09-30 15:52:00,2023-09-27 16:53:00,,,Serviços de Saúde,X
+14174,9992,CF,"37, § 6º",2021-01-18 00:00:00,,,,Tráfego de Veículo com Excesso de Peso,X
+10028,9985,,,2008-09-30 15:52:00,,,,Serviços,X
+10073,10028,Leis 8666/93; 8987/95; 11079/04,,2008-09-30 15:52:00,,,,Concessão / Permissão / Autorização,X
+10085,10073,,,2008-09-30 15:52:00,,,,Água e/ou Esgoto,X
+10075,10073,Lei 8987/95,art. 1º a 40,2008-09-30 15:52:00,,,,Energia Elétrica,X
+14176,10075,Portarias DNAEE 38/1986 e 45/1986,,2021-01-18 00:00:00,,,,Tarifa,X
+10074,10073,Lei 8974/95,art. 1º a 40,2008-09-30 15:52:00,,,,Fornecimento de Gás,X
+10086,10073,Lei 11.445/07,arts. 1º a 53,2008-09-30 15:52:00,,,,Recolhimento e Tratamento de Lixo,X
+10083,10073,Lei 8935/94,art. 3º,2008-09-30 15:52:00,,,,"Tabelionatos, Registros, Cartórios",X
+11928,10083,,,2012-06-06 00:00:00,,,,Cumulação,X
+11927,10083,,,2012-06-06 00:00:00,,,,Desmembramento,X
+11929,10083,,,2012-06-06 00:00:00,,,,Emolumentos,X
+11930,10083,,,2012-06-06 00:00:00,,,,Fraude,X
+11931,10083,,,2012-06-06 00:00:00,,,,Gratuidade,X
+11932,10083,,,2012-06-06 00:00:00,,,,Princípio da Territorialidade,X
+11933,10083,,,2012-06-06 00:00:00,,,,Provimento Irregular,X
+11934,10083,,,2012-06-06 00:00:00,,,,Registro Civil de Nascimento,X
+11935,10083,,,2012-06-06 00:00:00,,,,Registro de Imóveis,X
+11926,10083,,,2012-06-06 00:00:00,,,,Remoção,X
+11925,10083,,,2012-06-06 00:00:00,,,,Vacância,X
+10080,10073,Lei 91/97; Lei 29/2002,"Lei 91/97, arts. 1º a 22; Lei 29/2002, arts 1º a 3º",2008-09-30 15:52:00,,,,Telefonia,X
+10081,10073,CF; Lei 9432/97,"CF, art. 21, XII, a; Lei 9432/97, arts. 1º a 15",2008-09-30 15:52:00,,,,Transporte Aquaviário,X
+10076,10073,Decreto 1832/96,arts. 1º a 64,2008-09-30 15:52:00,,,,Transporte Terrestre,X
+10087,10028,CF; LC 80/94; Lei 9020/95,"CF, art. 133 a 135",2008-09-30 15:52:00,,,,Defensoria Pública,X
+10064,10028,CF,art. 196 a 200,2008-09-30 15:52:00,2019-07-04 16:35:00,,,Saúde,X
+11884,10064,CF,196,2011-12-07 00:00:00,2019-07-04 16:36:00,,,Fornecimento de Medicamentos,X
+11883,10064,CF,196,2011-12-07 00:00:00,2019-07-04 16:36:00,,,Tratamento Médico-Hospitalar,X
+11885,11883,CF,96,2011-12-16 00:00:00,2019-07-04 16:36:00,,,Unidade de terapia intensiva (UTI) ou unidade de cuidados intensivos (UCI),X
+10069,10064,CF,Art. 196,2008-09-30 15:52:00,2011-12-07 07:26:00,,,Tratamento Médico-Hospitalar e/ou Fornecimento de Medicamentos,X
+10219,9985,,,2008-09-30 15:52:00,,,,Servidor Público Civil,X
+10254,10219,CF1988,40,2008-09-30 15:52:00,,,,Aposentadoria,X
+10256,10254,L 8.112/1990,186 II e 187,2008-09-30 15:52:00,,,,Compulsória,X
+10255,10254,L 8.112/1990,"186, I e § 1º.",2008-09-30 15:52:00,,,,Invalidez Permanente,X
+14194,10255,CF; Lei 8.112/1990,"186, I e § 1º",2021-01-18 00:00:00,,,,Acidente em Serviço,X
+14180,10255,CF; Lei 8.112/1990,"186, I e § 1º",2021-01-18 00:00:00,,,,Moléstia Profissional ou Doença Grave,X
+10257,10254,L 8.112/1990,186 III,2008-09-30 15:52:00,,,,Voluntária,X
+10287,10219,Lei 8112/90,19,2008-09-30 15:52:00,,,,Jornada de Trabalho,X
+13186,10287,,,2020-11-04 00:00:00,,,,Horas Extras ,X
+13209,10287,,,2020-11-04 00:00:00,,,,Intervalo ,X
+15031,10287,Lei nº 8.112/1990,98,2022-03-23 00:00:00,,,,Jornada Especial,X
+10258,10219,,,2008-09-30 15:52:00,,,,Licenças / Afastamentos,X
+10273,10258,L 8.112/1990,84,2008-09-30 15:52:00,,,,Acompanhamento de Cônjuge ou Companheiro,X
+10272,10258,L 8.112/1990,97 II,2008-09-30 15:52:00,,,,Alistamento / Serviço Eleitoral,X
+10270,10258,L 8.112/1990,209,2008-09-30 15:52:00,,,,Amamentação,X
+10267,10258,L 8.112/1990,81 IV,2008-09-30 15:52:00,,,,Atividade Política,X
+10268,10258,L 8.112/1990,97 III a,2008-09-30 15:52:00,,,,Casamento,X
+10259,10258,L 8.112/1990,102 VII c,2008-09-30 15:52:00,,,,Dirigente Sindical,X
+10271,10258,L 8.112/1990,97 I,2008-09-30 15:52:00,,,,Doação de Sangue,X
+10262,10258,L 8.112/1990,"81, I; 83",2008-09-30 15:52:00,,,,Doença em Pessoa da Família,X
+10274,10258,L 8.112/1990,18,2008-09-30 15:52:00,,,,Exercício em Outro Município,X
+10264,10258,L 8.112/1990,102 VIII a,2008-09-30 15:52:00,,,,Gestante / Adotante / Paternidade,X
+10265,10258,L 8.112/1990,"81, VI; 91",2008-09-30 15:52:00,,,,Interesse Particular,X
+10260,10258,L 8.112/190,"81, V; 87",2008-09-30 15:52:00,,,,Licença Capacitação (Aperfeiçoamento Profissional),X
+10275,10258,L 8.112/1990,"185, I, f; 211 a 214",2008-09-30 15:52:00,,,,Licença por Acidente em Serviço,X
+10261,10258,L 8.112/1990,81 V (revogado),2008-09-30 15:52:00,,,,Licença-Prêmio,X
+10700,10261,,,2008-09-30 15:52:00,,,,Contagem em Dobro,X
+10701,10261,,,2008-09-30 15:52:00,,,,Pagamento em Pecúnia,X
+10269,10258,L 8.112/1990,"97, III, b",2008-09-30 15:52:00,,,,Luto,X
+10266,10258,L 8.112/1990,"81, III",2008-09-30 15:52:00,,,,Serviço Militar,X
+10263,10258,L 8.112/1990,"102, VIII, b",2008-09-30 15:52:00,,,,Tratamento da Própria Saúde,X
+10250,10219,,,2008-09-30 15:52:00,,,,Pensão,X
+10252,10250,Lei 8112/90,art. 215,2008-09-30 15:52:00,,,,Concessão,X
+10251,10250,L 8.112/1990,221,2008-09-30 15:52:00,,,,Provisória,X
+10253,10250,Lei 8112/90,arts. 215 a 225,2008-09-30 15:52:00,,,,Restabelecimento,X
+14195,10253,Lei 8.112/1990,"217, IV e § 3º",2021-01-18 00:00:00,,,,Maioridade,X
+13295,10250,,,2020-11-04 00:00:00,,,,Revisão ,X
+10286,10219,Lei 9468/97,arts. 1º a 14,2008-09-30 15:52:00,,,,Programa de Desligamento Voluntário (PDV),X
+10220,10219,CF,39,2008-09-30 15:52:00,,,,Regime Estatutário,X
+10225,10220,CF; Lei 8.112/90,"CF, art. 37, XVI; Lei 8.112/90, art. 118 a 120",2008-09-30 15:52:00,,,,Acumulação de Cargos,X
+14200,10225,CF; Lei 8.112/1990,"CF, art. 37, XVI; Lei 8.112/90, art. 118 a 120",2021-01-18 00:00:00,,,,Limite de Carga Horária - Jornada Semanal,X
+14198,10225,CF; Lei 8.112/1990,"CF, art. 37, XVI; Lei 8.112/90, art. 118 a 120",2021-01-18 00:00:00,,,,Natureza do Cargo Acumulável,X
+14199,10225,CF; Lei 8.112/1990,"CF, art. 37, XVI; Lei 8.112/90, art. 118 a 120",2021-01-18 00:00:00,,,,Regime de Dedicação Exclusiva,X
+10231,10220,Lei 8.878/94,1º,2008-09-30 15:52:00,,,,Anistia Administrativa,X
+11937,10220,,,2012-06-06 00:00:00,,,,Desvio de Função,X
+10227,10220,CF,"37, VII",2008-09-30 15:52:00,,,,Direito de Greve,X
+10234,10220,CF,41,2008-09-30 15:52:00,,,,Disponibilidade / Aproveitamento,X
+10223,10220,Lei 8.112/90,243,2008-09-30 15:52:00,,,,Enquadramento,X
+10222,10220,CF,41,2008-09-30 15:52:00,,,,Estabilidade,X
+10238,10220,CF,41,2008-09-30 15:52:00,,,,Estágio Probatório,X
+10241,10220,L 8.112/1990,"33 I,; 15 § 2º; 34",2008-09-30 15:52:00,2020-11-04 16:14:00,,,Exoneração ou Demissão,X
+10235,10220,Lei 8112/90,"arts. 20, § 3º; 37, § 1º; 93, §7º",2008-09-30 15:52:00,,,,Lotação,X
+10240,10220,Lei 8112/90,art. 13 a 20,2008-09-30 15:52:00,,,,Posse e Exercício,X
+10236,10220,Lei 8112/90,art. 17,2008-09-30 15:52:00,,,,Promoção / Ascensão,X
+14201,10236,Lei 10.855/04; Decreto 84.669/80,10 e 19,2021-01-18 00:00:00,,,,Progressão Funcional com Interstício de Doze Meses,X
+10237,10220,Lei 8.112/90,24,2008-09-30 15:52:00,,,,Readaptação,X
+10224,10220,L 8.112/1990,29,2008-09-30 15:52:00,,,,Recondução,X
+10233,10220,L 8.112/1990,37,2008-09-30 15:52:00,,,,Redistribuição,X
+10230,10220,CF; Lei 8.112/90,"CF, art. 40; Lei 8112/90, art. 183 e segs.",2008-09-30 15:52:00,,,,Regime Previdenciário,X
+10226,10220,L 8.112/1990,28,2008-09-30 15:52:00,2020-11-04 16:15:00,,,Reintegração ou Readmissão,X
+10229,10220,Lei 8.112/90,36,2008-09-30 15:52:00,,,,Remoção,X
+10232,10220,L 8.112/1990,25 a 27,2008-09-30 15:52:00,,,,Reversão,X
+10228,10220,Lei 8112/90,"arts. 8º, VI, 25, 27",2008-09-30 15:52:00,,,,Transferência,X
+10288,10219,,,2008-09-30 15:52:00,,,,Sistema Remuneratório e Benefícios,X
+10662,10288,CF,"Art. 40, § 19",2008-09-30 15:52:00,,,,Abono de Permanência,X
+10294,10288,Lei 8112/90,Art. 78,2008-09-30 15:52:00,,,,Abono Pecuniário (Art. 78 Lei 8.112/1990),X
+10638,10288,Lei 8112/90,art. 118,2008-09-30 15:52:00,,,,Acumulação de Proventos,X
+10293,10288,Lei 8112/90,71,2008-09-30 15:52:00,,,,Adicional de Fronteira,X
+10303,10288,Lei 8.112/90,"Art. 61, V; 73 e 74",2008-09-30 15:52:00,,,,Adicional de Horas Extras,X
+10292,10288,Lei 8.112/90,"Arts. 61, IV; 68 e 69",2008-09-30 15:52:00,,,,Adicional de Periculosidade,X
+10309,10288,,,2008-09-30 15:52:00,,,,Adicional de Produtividade,X
+10308,10288,Lei 8.112/90,"61,VI e 75",2008-09-30 15:52:00,,,,Adicional de Serviço Noturno,X
+10302,10288,L 8.112/1990,"61 III, 67 § único",2008-09-30 15:52:00,,,,Adicional por Tempo de Serviço,X
+10893,10302,,,2008-09-30 15:52:00,,,,Base de Cálculo,X
+10244,10288,L 8.112/1990,230,2008-09-30 15:52:00,,,,Assistência à Saúde,X
+10245,10288,L 8.069/1990; D 977/1993,"54, IV; 1º segs.",2008-09-30 15:52:00,,,,Assistência Pré-escolar,X
+10304,10288,Lei 8112/90,"art. 61, VIII",2008-09-30 15:52:00,,,,Auxílio-Alimentação,X
+10248,10288,L 8.112/1990,"185 II b, 226 a 228",2008-09-30 15:52:00,,,,Auxílio-Funeral,X
+10246,10288,L 8.112/1990,"185, I, b; 196",2008-09-30 15:52:00,,,,Auxílio-Natalidade,X
+10247,10288,L 8.112/1990,"185 II c, 229",2008-09-30 15:52:00,,,,Auxílio-Reclusão,X
+10306,10288,Lei 8112/90,"arts. 51, III, 60",2008-09-30 15:52:00,,,,Auxílio-transporte,X
+10243,10288,Lei 8186/91,art. 1º a 6º,2008-09-30 15:52:00,,,,Complementação de Benefício/Ferroviário,X
+10300,10288,Lei 7238/84,arts. 1º a 15,2008-09-30 15:52:00,,,,Data Base,X
+10296,10288,Lei 8112/90,arts. 45 e 46,2008-09-30 15:52:00,,,,Descontos Indevidos,X
+10298,10288,L 8.112/1990,51,2008-09-30 15:52:00,,,,Diárias e Outras Indenizações,X
+14708,10298,Lei 8.112/1990,"51, I",2021-07-29 00:00:00,,,,Ajuda de Custo,X
+14709,10298,Lei 8.112/1990,"51, IV",2021-07-29 00:00:00,,,,Auxílio-Moradia,X
+14710,10298,Lei 8.112/1990,"51, II",2021-07-29 00:00:00,,,,Diárias,X
+14711,10298,Lei 8.112/1990,"51, III",2021-07-29 00:00:00,,,,Indenização de Transporte,X
+10301,10288,Lei 8112/90,art. 77,2008-09-30 15:52:00,,,,Férias,X
+14712,10301,Lei 8.112/1990,77 a 80,2021-07-29 00:00:00,,,,Conversão em Pecúnia,X
+10883,10301,Lei 8.112/1990,77 a 80,2008-09-30 15:52:00,,,,Fruição / Gozo,X
+10884,10301,Lei 8.112/1990,77 a 80,2008-09-30 15:52:00,,,,Indenização / Terço Constitucional,X
+10290,10288,Lei 10.187/01,arts. 1º a 8º,2008-09-30 15:52:00,,,,Gratificação de Incentivo,X
+10295,10288,Lei 8112/90; Lei 9624/98,"Lei 8112/90, art. 62, §§ 2º e 5º; Lei 9624/98, arts. 2º e 3º",2008-09-30 15:52:00,,,,Gratificação Incorporada / Quintos e Décimos / VPNI,X
+10310,10288,Lei 8112/90,"arts. 61, II, 63 a 66.",2008-09-30 15:52:00,,,,Gratificação Natalina/13º salário,X
+10289,10288,Lei 8112/90,Art. 61,2008-09-30 15:52:00,,,,Gratificações da Lei 8.112/1990,X
+10305,10288,,,2008-09-30 15:52:00,,,,Gratificações de Atividade,X
+10706,10288,CF,"art. 37, XIV",2008-09-30 15:52:00,,,,Gratificações Municipais Específicas,X
+10323,10288,Lei 8112/90,art. 197,2008-09-30 15:52:00,,,,Inclusão de Dependente,X
+10311,10288,CF,"art. 37, XV",2008-09-30 15:52:00,,,,Irredutibilidade de Vencimentos,X
+10221,10288,CF,"Art. 37, XIII",2008-09-30 15:52:00,,,,Isonomia/Equivalência Salarial,X
+14744,10221,CF; EC 41/2003; EC 47/2005,"Art. 40, § 8º; Art. 7º; Arts. 2º e 3º",2021-07-30 00:00:00,,,,Paridade Salarial,X
+10312,10288,Lei 11.494/07; Lei 11.738/08,"Lei 11.494/07, art. 41; Lei 11.738/08, arts. 1º a 6º",2008-09-30 15:52:00,,,,Piso Salarial,X
+10299,10288,Lei 5645/1970,arts. 1º a 15,2008-09-30 15:52:00,,,,Plano de Classificação de Cargos,X
+14241,10288,Lei 8.112/1990,"46, caput",2021-01-29 00:00:00,,,,Restituição ao Erário,X
+10307,10288,CF,"art. 37, X",2008-09-30 15:52:00,,,,"Revisão Geral Anual (Mora do Executivo - inciso X, art. 37, CF 1988)",X
+10249,10288,L 8.112/1990,"185 I c, 197 a 201",2008-09-30 15:52:00,,,,Salário-Família,X
+10497,10288,CF,"art. 37, XI",2008-09-30 15:52:00,,,,Subsídios,X
+10297,10288,L 8.112/1990,42,2008-09-30 15:52:00,,,,Teto Salarial,X
+14707,10288,CPC; Lei 8.112/90,"297, parágrafo único, 520, I e II, e 302 (CPC); 46, §1º (Lei 8.112/90)",2021-07-29 00:00:00,,,,Valores Antecipados na Tutela Posteriormente Revogada/Cassada,X
+10276,10219,,,2008-09-30 15:52:00,,,,Tempo de Serviço,X
+10277,10276,Lei 8213/91,Arts. 55 e 57,2008-09-30 15:52:00,,,,Averbação / Contagem de Tempo Especial,X
+10278,10276,CF,"Art. 201, § 9º",2008-09-30 15:52:00,,,,Averbação / Contagem Recíproca,X
+10417,9985,,,2008-09-30 15:52:00,,,,Sistema Nacional de Trânsito,X
+10418,10417,Lei 9503/97,"Art. 19, VII",2008-09-30 15:52:00,,,,CNH - Carteira Nacional de Habilitação,X
+10419,10417,Lei 9503/97,Art. 262,2008-09-30 15:52:00,,,,Liberação de Veículo Apreendido,X
+10420,10417,Lei 9503/97,Arts. 130 a 135,2008-09-30 15:52:00,,,,Licenciamento de Veículo,X
+10110,,,,,,,,DIREITO AMBIENTAL,X
+9994,10110,CF; Lei 6938/81; CPC,"CF, art. 37, § 6º; Lei 6938/81, art. 14, § 1º; CPC, art. 927",2008-09-30 15:52:00,2023-11-30 15:15:00,,,Dano Ambiental,X
+15301,10110,Lei nº 6.938/1981,"14, § 1º",2023-11-30 15:11:00,,,,Dano Moral Coletivo Decorrente de Dano Ambiental,X
+15008,10110,CF; Lei 12.187/2009; Resolução CNJ 433/2021; Convenção-Quadro das Nações Unidas sobre Mudança do Clima,1º e ss (Convenção),2021-12-03 00:00:00,,,,Mudanças Climáticas,X
+15300,10110,Lei nº 14.119/2021,"2º, IV",2023-11-30 15:04:00,,,,Pagamento por Serviços Ambientais,X
+12734,,,,,,,,DIREITO ASSISTENCIAL,X
+15221,12734,Lei 14.284/2021,4º,2023-06-13 17:13:00,,,,Auxílio Brasil (Lei 14.284/2021),X
+15516,12734,Lei 14.601/2023,1º,2024-11-29 14:54:00,,,,Bolsa Família (Lei 14.601/2023),X
+899,,LICCvB,7,,,,,DIREITO CIVIL,X
+12935,899,,,2020-11-04 00:00:00,2021-01-20 09:40:00,,,Bem de Família Legal,X
+12937,899,,,2020-11-04 00:00:00,,,,Direitos da Personalidade ,X
+9616,899,,,2008-09-30 15:52:00,,,,Empresas,X
+5724,9616,,,2008-09-30 15:52:00,,,,Sociedade ,X
+4939,5724,Lei nº 10.406/02 (Código Civil),- Art. 50.,2008-09-30 15:52:00,,,,Desconsideração da Personalidade Jurídica,X
+5626,899,,,2008-09-30 15:52:00,,,,Família,X
+7661,5626,Lei 10406/02,1711,2008-09-30 15:52:00,2021-01-20 09:42:00,,,Bem de Família (Voluntário),X
+7947,899,Lei 10406/02,arts. 104 a 232,2008-09-30 15:52:00,,,,Fatos Jurídicos,X
+4701,7947,Lei 10406/02,arts. 104 a 184,2008-09-30 15:52:00,,,,Ato / Negócio Jurídico,X
+4703,4701,Lei 10406/02,Arts. 138 a 184,2008-09-30 15:52:00,,,,"Defeito, nulidade ou anulação",X
+4706,4701,Lei 10406/02,arts. 441 a 457,2008-09-30 15:52:00,,,,Evicção ou Vicio Redibitório,X
+5632,7947,Lei 10406/02,arts. 189 a 211,2008-09-30 15:52:00,,,,Prescrição e Decadência,X
+14205,899,Lei 13.709/2018,1º,2021-01-20 00:00:00,,,,Lei Geral de Proteção de Dados (LGPD),X
+14207,14205,Lei 13.709/2018,1º,2021-01-20 00:00:00,,,,Privacidade,X
+14206,14205,"Lei 13,709/2018",1º,2021-01-20 00:00:00,,,,Proteção de Dados Pessoais,X
+7681,899,,,2008-09-30 15:52:00,,,,Obrigações,X
+7690,7681,,,2008-09-30 15:52:00,,,,Adimplemento e Extinção,X
+7709,7690,Lei 10406/02,368 a 380,2008-09-30 15:52:00,,,,Compensação,X
+7710,7690,Lei nº 10.406/02 (Código Civil),-arts. 381 a 384,2008-09-30 15:52:00,,,,Confusão,X
+7707,7690,Lei nº 10.406/02 (Código Civil),arts. 356 a 359,2008-09-30 15:52:00,,,,Dação em Pagamento,X
+10592,7690,Lei 0820/03,arts. 1º a 7º,2008-09-30 15:52:00,,,,Desconto em folha de pagamento,X
+7706,7690,Lei nº 10.406/02 (Código Civil),arts. 352 a 355;,2008-09-30 15:52:00,,,,Imputação do Pagamento,X
+7708,7690,Lei nº 10.406/02 (Código Civil),arts. 360 a 367,2008-09-30 15:52:00,,,,Novação,X
+7703,7690,Lei nº 10.406/02 (Código Civil),arts. 304 a 388,2008-09-30 15:52:00,,,,Pagamento,X
+7705,7690,Lei nº 10.406/02 (Código Civil),arts. 346 a 351,2008-09-30 15:52:00,,,,Pagamento com Sub-rogação,X
+7704,7690,Lei nº 10.406/02 (Código Civil),arts. 334 a 345,2008-09-30 15:52:00,,,,Pagamento em Consignação,X
+7711,7690,Lei nº 10.406/02 (Código Civil),arts. 385 a 388,2008-09-30 15:52:00,,,,Remissão das Dívidas,X
+7694,7681,Lei nº 10.406/02 (Código Civil) - arts. 854 a 886;,854 a 886;,2008-09-30 15:52:00,,,,Atos Unilaterais,X
+7715,7694,Lei nº 10.406/02 (Código Civil) -,arts. 884 a 886,2008-09-30 15:52:00,,,,Enriquecimento sem Causa,X
+7713,7694,Lei nº 10.406/02 (Código Civil),arts. 861 a 875,2008-09-30 15:52:00,,,,Gestão de Negócios,X
+7714,7694,Lei nº 10.406/02 (Código Civil),art. 876 a 883,2008-09-30 15:52:00,,,,Pagamento Indevido,X
+7712,7694,Lei nº 10.406/02 (Código Civil),arts. 854 a 860,2008-09-30 15:52:00,,,,Promessa de Recompensa,X
+9580,7681,,,2008-09-30 15:52:00,,,,Espécies de Contratos,X
+14917,9580,Código Civil,1793,2021-09-30 00:00:00,,,,Cessão de Direitos,X
+14918,9580,Código Civil,421,2021-09-30 00:00:00,,,,Confissão/Composição de Dívida,X
+14916,9580,Código Civil,421 a 480,2021-09-30 00:00:00,,,,Fornecimento,X
+9593,9580,Lei Federal nº 8245/91;,,2008-09-30 15:52:00,,,,Locação de Imóvel,X
+9614,9593,"Lei Federal nº 8245/91,",arts. 35 e 36;,2008-09-30 15:52:00,,,,Benfeitorias,X
+11000,9593,,,2009-05-29 00:00:00,,,,Cobrança de Aluguéis - Sem despejo,X
+11001,9593,,,2009-05-29 00:00:00,,,,Consignação de Chaves,X
+9611,9593,"Lei Federal nº 8245/91,","arts. 47, III e 61;",2008-09-30 15:52:00,,,,Despejo para Uso de Ascendentes e Descendentes,X
+9610,9593,"Lei Federal nº 8245/91,","arts. 47, III e 61;",2008-09-30 15:52:00,,,,Despejo para Uso Próprio,X
+9612,9593,"Lei Federal nº 8245/91,","arts. 46, 56, 78, 7º e 8º;",2008-09-30 15:52:00,,,,Despejo por Denúncia Vazia,X
+14915,9593,Lei 8.245/1991 e Lei 12.112/2009,"9, § 1º (Lei 8.245/1991); 62 (Lei 12.112/2009)",2021-09-30 00:00:00,,,,Despejo por Inadimplemento,X
+9615,9593,"Lei Federal nº 8245/91,",arts. 27 a 34;,2008-09-30 15:52:00,,,,Direito de Preferência,X
+9609,9580,"LEI Nº 10.406/02 (CÓDIGO CIVIL) - ,",arts. 565 a 578;,2008-09-30 15:52:00,,,,Locação de Móvel,X
+4839,9580,"Lei Federal nº 4380/64,",arts. 8º a 44;,2008-09-30 15:52:00,,,,Sistema Financeiro da Habitação,X
+4840,4839,"Lei Federal nº 10.150, de 2000",art. 19,2008-09-30 15:52:00,,,,Equivalência salarial,X
+4841,4839,Lei nº 10.406/02 (Código Civil) -,art. 320,2008-09-30 15:52:00,,,,Quitação,X
+4842,4839,Lei Federal nº 8100/90; Lei Federal nº 8177/91Lei Federal nº 8692/93,art. 1º,2008-09-30 15:52:00,,,,Reajuste de Prestações,X
+4854,4839,"Lei 8.692, de 28 de julho de 1993",art. 15,2008-09-30 15:52:00,,,,Revisão do Saldo Devedor,X
+4847,4839,Lei nº 10.406/02 (Código Civil) Circular SUSEP nº 111/99;,- art. 757;,2008-09-30 15:52:00,,,,Seguro,X
+14237,4839,"Lei 9,514/1997",26 e seguintes,2021-01-28 00:00:00,,,,Sistema Financeiro Imobiliário,X
+4846,4839,Decreto Lei 70/66,Art. 37,2008-09-30 15:52:00,,,,Sustação/Alteração de Leilão,X
+4843,4839,"Lei Federal nº 8004/90,Lei Federal nº 8692/93, Lei Federal nº 10150/2000;",art. 1º,2008-09-30 15:52:00,,,,Transferência de Financiamento (contrato de gaveta),X
+10588,4839,Lei 10406,art. 234,2008-09-30 15:52:00,,,,Vícios de Construção,X
+7691,7681,,,2008-09-30 15:52:00,,,,Inadimplemento,X
+7701,7691,Lei nº 10.406/02 (Código Civil),- arts. 417 a 420;,2008-09-30 15:52:00,,,,Arras ou Sinal,X
+7700,7691,Lei nº 10.406/02 (Código Civil),- arts. 408 a 416;,2008-09-30 15:52:00,,,,Cláusula Penal,X
+7697,7691,Súmula 54 do STJ,Súmula 54 do STJ,2008-09-30 15:52:00,,,,Correção Monetária,X
+7699,7691,,,2008-09-30 15:52:00,,,,Juros de Mora - Legais / Contratuais,X
+10585,7699,Lei 10406/02,Art. 591,2008-09-30 15:52:00,,,,Capitalização / Anatocismo,X
+10586,7699,Lei nº 10.406/02 (Código Civil),- arts. 406 a 407;,2008-09-30 15:52:00,,,,Limitação de Juros,X
+7698,7691,Lei nº 10.406/02 (Código Civil),arts. 402 a 405,2008-09-30 15:52:00,,,,Perdas e Danos,X
+10582,7691,Lei nº 10.406/02 (Código Civil),arts. 455 e 607,2008-09-30 15:52:00,,,,Rescisão / Resolução,X
+7696,7681,Lei nº 10.406/02 (Código Civil),- arts. 955 a 965;,2008-09-30 15:52:00,,,,Preferências e Privilégios Creditórios,X
+4949,7681,Lei 10.406/02 (Código Civil),arts. 887 a 926,2008-09-30 15:52:00,,,,Títulos de Crédito,X
+4951,4949,Lei nº 10.406/02 (Código Civil) - ;,arts. 907 a 913,2008-09-30 15:52:00,,,,Anulação,X
+14740,4949,Lei 9.492/1997,"1º, parágrafo único",2021-07-30 00:00:00,,,,Protesto de CDA,X
+4957,4949,Lei nº 10.406/02 (Código Civil),- art. 889;,2008-09-30 15:52:00,,,,Requisitos,X
+9575,4949,Lei Federal nº 9492/97,arts. 16 a 18,2008-09-30 15:52:00,,,,Sustação de Protesto,X
+7688,7681,,,2008-09-30 15:52:00,,,,Transmissão,X
+7689,7688,Lei nº 10.406/02 (Código Civil,299 a 303,2008-09-30 15:52:00,,,,Assunção de Dívida,X
+4718,7688,Lei nº 10.406/02 (Código Civil),- arts. 286 a 298,2008-09-30 15:52:00,,,,Cessão de Crédito,X
+5754,899,Lei 10.406/02 (CCB),"Título I, Capítulo I",2008-09-30 15:52:00,,,,Pessoas naturais,X
+7949,5754,Lei 10406/02,"art. 20, parágrafo único",2008-09-30 15:52:00,,,,Direitos da Personalidade ,X
+15306,5754,Resolução CNJ n. 270/2018,1º,2024-03-15 11:26:00,,,,Nome Social,X
+10431,899,Lei nº 10.406/02 (Código Civil) -,arts. 186; e 927 à 954,2008-09-30 15:52:00,,,,Responsabilidade Civil,X
+14694,10431,Lei 6.194/1974 e Contrato Susep/CEF 2/2021,,2021-05-28 00:00:00,,,,DPVAT,X
+10439,10431,Lei nº 10.406/02 (Código Civil) -,arts. 927; 944 a 954,2008-09-30 15:52:00,,,,Indenização por Dano Material,X
+14919,10439,Código Civil,927,2021-09-30 00:00:00,,,,Atraso na Entrega do Imóvel,X
+14921,10439,CF e Lei Lei 9.610/1998,5º (CF),2021-09-30 00:00:00,,,,Direito Autoral,X
+10433,10431,CF e Lei nº 10.406/02 (Código Civil) -,"art. 5º, X da CF e Arts. 186; 927; 944 e 953 e parágrafo único, do CC",2008-09-30 15:52:00,,,,Indenização por Dano Moral,X
+14920,10433,Código Civil,927,2021-09-30 00:00:00,,,,Atraso na Entrega do Imóvel,X
+14922,10433,CF e Lei 9.610/1998,5º (CF),2021-09-30 00:00:00,,,,Direito Autoral,X
+12480,,,,,,,,DIREITO DA SAÚDE,X
+12521,12480,,,2019-07-04 00:00:00,,,,"Doação e transplante de órgãos, tecidos ou partes",X
+15514,12480,Portaria do Ministério da Saúde 199/2014,1º a 45,2024-11-29 14:31:00,,,,Doença Rara,X
+12520,12480,,,2019-07-04 00:00:00,,,,Genética / Células Tronco,X
+12507,12480,,,2019-07-04 00:00:00,2019-07-04 15:54:00,,,Mental,X
+12508,12507,,,2019-07-04 00:00:00,,,,Internação compulsória,X
+12509,12507,,,2019-07-04 00:00:00,,,,Internação involuntária,X
+12510,12507,,,2019-07-04 00:00:00,,,,Internação voluntária,X
+12481,12480,,,2019-07-04 00:00:00,,,,Pública,X
+12485,12481,,,2019-07-04 00:00:00,2019-07-04 15:30:00,,,Fornecimento de insumos,X
+12498,12485,,,2019-07-04 00:00:00,,,,Cadeira de rodas / cadeira de banho / cama hospitalar,X
+12497,12485,,,2019-07-04 00:00:00,,,,Curativos/Bandagem,X
+12499,12485,,,2019-07-04 00:00:00,,,,Fraldas,X
+12484,12481,,,2019-07-04 00:00:00,,,,Fornecimento de medicamentos,X
+12496,12484,,,2019-07-04 00:00:00,,,,Oncológico,X
+12492,12484,,,2019-07-04 00:00:00,,,,Registrado na ANVISA,X
+12495,12492,,,2019-07-04 00:00:00,,,,Não padronizado,X
+12494,12492,,,2019-07-04 00:00:00,,,,Padronizado,X
+12493,12484,,,2019-07-04 00:00:00,,,,Sem registro na ANVISA,X
+12483,12481,,,2019-07-04 00:00:00,,,,Internação/Transferência Hospitalar,X
+12505,12483,,,2019-07-04 00:00:00,,,,Leito de enfermaria / leito oncológico,X
+12506,12483,,,2019-07-04 00:00:00,,,,Unidade de terapia intensiva (UTI) / unidade de cuidados intensivos (UCI),X
+12511,12481,,,2019-07-04 00:00:00,2019-07-04 15:59:00,,,Sistema Único de Saúde (SUS),X
+12518,12511,,,2019-07-04 00:00:00,,,,Controle Social e Conselhos de Saúde,X
+12512,12511,,,2019-07-04 00:00:00,,,,Convênio médico com o SUS,X
+12513,12511,,,2019-07-04 00:00:00,,,,Financiamento do SUS,X
+12514,12511,,,2019-07-04 00:00:00,,,,Reajuste da tabela do SUS,X
+12515,12511,,,2019-07-04 00:00:00,,,,Repasse de verbas do SUS,X
+12516,12511,,,2019-07-04 00:00:00,,,,Ressarcimento do SUS,X
+12517,12511,,,2019-07-04 00:00:00,,,,Terceirização do SUS,X
+14759,12481,Lei 8.080/1990,2º,2021-07-30 00:00:00,,,,Tratamento Domiciliar (Home Care),X
+12491,12481,,,2019-07-04 00:00:00,2019-07-04 15:35:00,,,Tratamento médico-hospitalar,X
+12501,12491,,,2019-07-04 00:00:00,,,,Cirurgia,X
+12502,12501,,,2019-07-04 00:00:00,,,,Eletiva,X
+12503,12501,,,2019-07-04 00:00:00,,,,Urgência,X
+12500,12491,,,2019-07-04 00:00:00,,,,Consulta,X
+12504,12491,,,2019-07-04 00:00:00,,,,Diálise/Hemodiálise,X
+12519,12481,,,2019-07-04 00:00:00,,,,Vigilância Sanitária e Epidemológica,X
+12482,12480,,,2019-07-04 00:00:00,,,,Suplementar,X
+12486,12482,,,2019-07-04 00:00:00,,,,Planos de saúde,X
+12490,12486,,,2019-07-04 00:00:00,,,,Fornecimento de insumos,X
+12487,12486,,,2019-07-04 00:00:00,,,,Fornecimento de medicamentos,X
+12488,12486,,,2019-07-04 00:00:00,,,,Reajuste contratual,X
+12489,12486,,,2019-07-04 00:00:00,,,,Tratamento médico-hospitalar,X
+1156,,,,,,,,DIREITO DO CONSUMIDOR,X
+7771,1156,,,2008-09-30 15:52:00,,,,Contratos de Consumo,X
+7752,7771,Lei n. 8.078/90 (C.D.C.),52 e 53,2008-09-30 15:52:00,,,,Bancários,X
+14758,7752,Decreto 22.626/33; MP 2.170/01; Lei n. 8.078/90 (C.D.C.),1º e ss; 5º,2021-07-30 00:00:00,,,,Crédito Rotativo,X
+11806,7752,,,2011-10-05 00:00:00,,,,Empréstimo consignado,X
+10945,7752,Lei n. 8.078/90 (C.D.C.),52 e 53,2008-09-30 15:52:00,,,,Expurgos Inflacionários / Planos Econômicos,X
+14926,7752,CDC,,2021-09-30 00:00:00,,,,"Revisão de Juros Remuneratórios, Capitalização/Anatocismo",X
+7761,7771,Lei n. 8.078/90 (C.D.C.),52,2008-09-30 15:52:00,,,,Fornecimento de Água,X
+7760,7771,Lei n. 8.078/90 (C.D.C.),22,2008-09-30 15:52:00,,,,Fornecimento de Energia Elétrica,X
+6220,1156,,,2008-09-30 15:52:00,,,,Responsabilidade do Fornecedor,X
+7779,6220,,,2008-09-30 15:52:00,,,,Indenização por Dano Moral,X
+12042,7779,,,2014-07-23 00:00:00,,,,Análise de Crédito,X
+14925,6220,CDC,"42, parágrafo único",2021-09-30 00:00:00,,,,Repetição do Indébito,X
+11428,,,,,,,,DIREITO ELEITORAL,X
+11583,11428,,,2010-04-20 00:00:00,,,,Eleições,X
+15236,11583,Constituição Federal,14,2023-06-16 18:16:00,,,,Assédio Eleitoral,X
+6191,,,,,,,,DIREITO INTERNACIONAL,X
+15104,6191,Resolução CNJ n. 364; Recomendação CNJ n. 123,"1º e 2º, IV (Resolução 364); 1º (Recomendação 123)",2022-06-10 00:00:00,,,,Corte Interamericana de Direitos Humanos,X
+15106,15104,Resolução CNJ n. 364; Recomendação CNJ n. 123,"1º e 2º, IV (Res. 364); 1º (Rec. 123)",2022-06-10 00:00:00,,,,Medidas Provisórias da Corte Interamericana de Direitos Humanos,X
+15123,15106,Resolução CNJ n. 364; Recomendação CNJ n. 123,"1º e 2º, IV (Res. 364); 1º (Rec. 123)",2022-06-10 00:00:00,,,,"Caso do Complexo Penitenciário do Curado, Pernambuco",X
+15105,15104,Resolução CNJ n. 364; Recomendação CNJ n. 123,"1º e 2º, IV (Res. 364); 1º (Rec. 123)",2022-06-10 00:00:00,,,,Sentenças da Corte Interamericana de Direitos Humanos,X
+15119,15105,Resolução CNJ n. 364; Recomendação CNJ n. 123,"1º e 2º, IV (Res. 364); 1º (Rec. 123)",2022-06-10 00:00:00,,,,Caso Airton Honorato vs. Brasil,X
+15116,15105,Resolução CNJ n. 364; Recomendação CNJ n. 123,"1º e 2º, IV (Res. 364); 1º (Rec. 123)",2022-06-10 00:00:00,,,,Caso dos(as) Empregados(as) da Fábrica de Fogos de Santo Antônio de Jesus e seus Familiares vs. Brasil,X
+15109,15105,Resolução CNJ n. 364; Recomendação CNJ n. 123,"1º e 2º, IV (Res. 364); 1º (Rec. 123)",2022-06-10 00:00:00,,,,Caso Escher e Outros vs. Brasil,X
+15113,15105,Resolução CNJ n. 364; Recomendação CNJ n. 123,"1º e 2º, IV (Res. 364), 1º (Rec. 123)",2022-06-10 00:00:00,,,,Caso Favela Nova Brasília vs. Brasil,X
+15110,15105,Resolução CNJ n. 364; Recomendação CNJ n. 123,"1º e 2º, IV (Res. 364); 1º (Rec. 123)",2022-06-10 00:00:00,,,,Caso Garibaldi vs. Brasil,X
+15111,15105,Resolução CNJ n. 364; Recomendação CNJ n. 123,"1º e 2º, IV (Res. 364); 1º (Rec. 123)",2022-06-10 00:00:00,,,,"Caso Gomes Lund e Outros (""Guerrilha do Araguaia) vs. Brasil",X
+15115,15105,Resolução CNJ n. 364; Recomendação CNJ n. 123,"1º e 2º, IV (Res. 364); 1º (Rec. 123)",2022-06-10 00:00:00,,,,Caso Herzog e Outros vs. Brasil,X
+15108,15105,Resolução CNJ n. 364; Recomendação CNJ n. 123,"1º e 2º, IV (Res. 364); 1] (Rec. 123)",2022-06-10 00:00:00,,,,Caso Nogueira de Carvalho e Outro vs. Brasil,X
+15121,15105,Resolução CNJ n. 364; Recomendação CNJ n. 123,"1º e 2º, IV (Res. 364); 1º (Rec. 123)",2022-06-10 00:00:00,,,,Caso Sales Pimenta vs. Brasil,X
+15120,15105,Resolução CNJ n. 364; Recomendação CNJ n. 123,"1º e 2º, IV (Res. 364); 1º (Rec. 123)",2022-06-10 00:00:00,,,,Caso Tavares Pereira e Outros vs. Brasil,X
+15112,15105,Resolução CNJ n. 364; Recomendação CNJ n. 123,"1º e 2º, IV (Res. 364); 1º (Rec. 123)",2022-06-10 00:00:00,,,,Caso Trabalhadores da Fazenda Brasil Verde vs. Brasil,X
+15107,15105,Resolução CNJ n. 364; Recomendação CNJ n.123,"1º e 2º, IV (Res. 364); 1º (Rec. 123)",2022-06-10 00:00:00,,,,Caso Ximenes Lopes vs. Brasil,X
+8826,,,,,,,,DIREITO PROCESSUAL CIVIL E DO TRABALHO,X
+8842,8826,,,2008-09-30 15:52:00,,,,Partes e Procuradores,X
+8843,8842,CPC,98 a 102,2008-09-30 15:52:00,,,,Assistência Judiciária Gratuita,X
+9493,8842,CPC,70 a 76,2008-09-30 15:52:00,,,,Capacidade Processual,X
+9258,8842,CPC,95,2008-09-30 15:52:00,,,,Honorários Periciais,X
+8859,8842,CPC,119 a 138,2008-09-30 15:52:00,,,,Intervenção de Terceiros ,X
+13091,8859,,,2020-11-04 00:00:00,,,,Chamamento ao Processo ,X
+13135,8859,,,2020-11-04 00:00:00,,,,Denunciação da Lide ,X
+13234,8859,,,2020-11-04 00:00:00,,,,Nomeação à Autoria ,X
+13239,8859,,,2020-11-04 00:00:00,,,,Oposição ,X
+8865,8842,CPC,79 a 81,2008-09-30 15:52:00,,,,Litigância de Má-Fé,X
+8866,8842,CPC,113 a 118,2008-09-30 15:52:00,2018-11-19 15:58:00,,,Litisconsórcio ,X
+8868,8842,CPC,104 e 105,2008-09-30 15:52:00,2018-11-19 16:02:00,,,Procuração ,X
+13068,8868,,,2020-11-04 00:00:00,,,,Assinatura Eletrônica / Digital ,X
+13162,8868,,,2020-11-04 00:00:00,,,,Estatuto Social da Empresa ,X
+13267,8868,,,2020-11-04 00:00:00,,,,Procurador de Entes Públicos / Autárquicos / Fundacionais ,X
+13307,8868,,,2020-11-04 00:00:00,,,,Tácito ,X
+8873,8842,CPC,75,2008-09-30 15:52:00,,,,Representação em Juízo,X
+13259,8873,,,2020-11-04 00:00:00,,,,Preposto ,X
+9494,8842,CPC,41 a 43,2008-09-30 15:52:00,2020-12-04 18:54:00,,,Substituição da Parte,X
+8867,8842,CPC,108 a 112,2008-09-30 15:52:00,2020-12-04 18:55:00,,,Substituição Processual,X
+8874,8842,,,2008-09-30 15:52:00,,,,Sucumbência ,X
+10658,8874,CPC,82 a 84 e 86 a 94,2008-09-30 15:52:00,,,,Custas,X
+10655,8874,CPC,"85, §§ 1º, 2º, 6º e 8º a 19; 86; 87 e 90 a 92",2008-09-30 15:52:00,,,,Honorários Advocatícios,X
+13385,10655,,,2020-11-04 00:00:00,,,,Contratuais ,X
+14841,10655,CF,"5º, LXXIV",2021-09-29 00:00:00,,,,Defensores Dativos ou Ad Hoc,X
+13537,10655,,,2020-11-04 00:00:00,,,,Sucumbenciais ,X
+13541,10655,,,2020-11-04 00:00:00,,,,Suspensão da Cobrança - Devedor Beneficiário de Assistência Judiciária Gratuita ,X
+10656,8874,CPC,85 a 87; 90 a 92,2008-09-30 15:52:00,,,,Honorários Advocatícios em Execução Contra a Fazenda Pública,X
+13185,8874,,,2020-11-04 00:00:00,,,,Honorários Periciais ,X
+8893,8826,,,2008-09-30 15:52:00,,,,Atos Processuais,X
+8928,8893,CPC,218 a 235,2008-09-30 15:52:00,,,,Prazo,X
+10938,8893,CPC,238 a 259,2008-09-30 15:52:00,,,,Citação,X
+10939,8893,CPC,269 a 275,2008-09-30 15:52:00,,,,Intimação / Notificação,X
+8919,8893,CPC,276 a 283,2008-09-30 15:52:00,,,,Nulidade,X
+12412,8919,CPC,"803, II, parágrafo único",2018-11-20 00:00:00,2022-06-09 15:41:00,,,Nulidade - Ausência de Citação ,X
+12401,8919,CPC,"11, caput",2018-11-20 00:00:00,,,,Nulidade - Ausência de Fundamentação de Decisão,X
+12405,8919,CPC,"272, §§ 2º e 5º",2018-11-20 00:00:00,,,,Nulidade - Ausência de Identificação de Advogado ou de Sociedade de Advogados,X
+12406,8919,CPC,279,2018-11-20 00:00:00,,,,Nulidade - Ausência de Intimação do Ministério Público,X
+12404,8919,CPC,"272, § 2º",2018-11-20 00:00:00,,,,Nulidade - Ausência de Nome das Partes,X
+12400,8919,CPC,"11, caput",2018-11-20 00:00:00,,,,Nulidade - Ausência de publicidade de decisão,X
+12407,8919,CPC,280,2018-11-20 00:00:00,,,,Nulidade - Citação Sem Observância das Prescrições Legais,X
+12413,8919,CPC,"803, III, parágrafo único",2018-11-20 00:00:00,,,,Nulidade - Execução Instaurada Antes de Condição ou Termo,X
+12402,8919,CPC,"146, § 7º",2018-11-20 00:00:00,,,,Nulidade - Impedimento,X
+12408,8919,CPC,280,2018-11-20 00:00:00,2018-11-20 13:10:00,,,Nulidade - Intimação Sem Observância das Prescrições Legais,X
+12410,8919,CPC,280,2018-11-20 00:00:00,,,,Nulidade - Intimação Sem Observância das Prescrições Legais,X
+12403,8919,CPC,"146, § 7º",2018-11-20 00:00:00,,,,Nulidade - Suspeição,X
+12411,8919,CPC,"803, I, parágrafo único",2018-11-20 00:00:00,,,,"Nulidade - Título Extrajudicial Não Correspondente a Obrigação Certa, Líquida e Exigível ",X
+8934,8893,CPC,291 a 293,2008-09-30 15:52:00,,,,Valor da Causa,X
+8938,8826,,,2008-09-30 15:52:00,,,,"Formação, Suspensão e Extinção do Processo",X
+8939,8938,CPC,313 a 315,2008-09-30 15:52:00,,,,Suspensão do Processo,X
+8942,8938,CPC,267,2008-09-30 15:52:00,,,,Extinção do Processo Sem Resolução de Mérito,X
+10735,8942,CPC,"330, III e 485, I e VI, §§ 3º e 7º",2008-09-30 15:52:00,2018-11-20 15:01:00,,,Ausência de Interesse Processual,X
+10737,8942,CPC,"485, IV, §§ 3º e 7º",2008-09-30 15:52:00,2018-11-20 14:53:00,,,Ausência de Pressupostos de Constituição e Desenvolvimento ,X
+10736,8942,,,2008-09-30 15:52:00,2018-11-20 15:01:00,,,Legitimidade para a Causa,X
+12414,10736,CPC,"485, VI, § 3§ 3º e 7º",2018-11-20 00:00:00,,,,Ausência de Legitimidade para a Causa,X
+8941,8938,CPC,329,2008-09-30 15:52:00,,,,Modificação ou Alteração do Pedido,X
+8828,8826,,,2008-09-30 15:52:00,,,,Jurisdição e Competência,X
+8829,8828,CPC,Arts. 86 a 124,2008-09-30 15:52:00,,,,Competência ,X
+10654,8829,Constituição Federal e Código Eleitoral,"102, 105, 108, 109, 114, 124 e 125, §§ 4º e 5º (CF); 22, 29, 35 (Código Eleitoral)",2008-09-30 15:52:00,,,,Competência da Justiça Estadual,X
+10651,8829,"Lei n. 9.099/1995, Lei n. 10.259/2001 e Lei n. 12.153/2009",3º (Lei 9.099/1995); 3º (Lei n. 10.259/2001); 2º (Lei 12.153/2009),2008-09-30 15:52:00,,,,Competência dos Juizados Especiais,X
+8838,8828,Decreto legislativo nº 4/1948,Artigo único,2008-09-30 15:52:00,,,,Imunidade de Jurisdição,X
+9148,8826,,,2008-09-30 15:52:00,,,,Liquidação / Cumprimento / Execução,X
+9520,9148,CPC,"774 e 903, § 6º",2008-09-30 15:52:00,,,,Ato Atentatório à Dignidade da Justiça,X
+9519,9148,CPC,794 e 795,2008-09-30 15:52:00,,,,Benefício de Ordem,X
+9517,9148,CPC,"525, § 1º, VII",2008-09-30 15:52:00,,,,Causas Supervenientes à Sentença,X
+9418,9148,CPC,"797, parágrafo único",2008-09-30 15:52:00,,,,Concurso de Credores,X
+10880,9148,CPC,"520 a 522; 527; 537, § 3º; 1.012, §§ 1º e 2º",2008-09-30 15:52:00,2018-11-21 16:51:00,,,Cumprimento Provisório de Sentença,X
+9518,9148,CPC,525 a 920,2008-09-30 15:52:00,,,,Efeito Suspensivo / Impugnação / Embargos à Execução,X
+9180,9148,CPC,876 a 903,2008-09-30 15:52:00,,,,Expropriação de Bens,X
+9414,9148,CPC,924 e 925,2008-09-30 15:52:00,,,,Extinção da Execução,X
+10683,9148,CPC,"525, § 11",2008-09-30 15:52:00,2018-11-21 15:37:00,,,Fato Superveniente ao Término do Prazo para Impugnação,X
+9450,9148,CPC,"792; 828, § 4º; 855, § 3º",2008-09-30 15:52:00,,,,Fraude à Execução,X
+9453,9148,DL 48.295/1968 (Convenção de Viena),"22º, 3",2008-09-30 15:52:00,,,,Imunidade de Execução,X
+9178,9148,CPC,"525, §1º, III; 535, III, § 5º; 803,I; 917, I",2008-09-30 15:52:00,2018-11-21 17:59:00,,,Inexequibilidade do Título / Inexigibilidade da Obrigação,X
+9160,9148,CPC,"520, IV; 526, caput e § 1º; 537, § 3º; 904 a 906; 908; 916, caput e § 2º",2008-09-30 15:52:00,,,,Levantamento de Valor,X
+10686,9148,CPC,"567. 806, § 1º; 814",2008-09-30 15:52:00,,,,Multa Cominatória / Astreintes,X
+9166,9148,CPC,"523, caput e § 1º; 526, § 2º; 702, §§ 10 e 11; 895, caput e § 4º; 915, § 5º, II",2008-09-30 15:52:00,,,,Multa de 10%,X
+10670,9148,,,2008-09-30 15:52:00,,,,Obrigação de Entregar,X
+10677,10670,CPC,"536, caput e §§ 1º e 2º; 538, caput; 625; 806, caput e § 2º",2008-09-30 15:52:00,,,,Busca e Apreensão,X
+10676,10670,CPC,"538, caput; 625; 806, caput e § 2º; 877, § 1º, I; 879, § 2º, I; 901, § 1º; 903, §§ 1º a 3º",2008-09-30 15:52:00,,,,Imissão na Posse,X
+12161,10670,DL 911/1969,"3º, caput e § 9º",2017-11-24 00:00:00,,,,Requerimento de Apreensão de Veículo,X
+12160,10670,CPC,560 a 566,2017-11-24 00:00:00,,,,Requerimento de Reintegração de Posse,X
+10671,9148,CPC,536 e 537,2008-09-30 15:52:00,,,,Obrigação de Fazer / Não Fazer,X
+9163,9148,CPC,831 a 875,2008-09-30 15:52:00,2018-11-21 14:58:00,,,Penhora / Depósito/ Avaliação ,X
+13080,9163,,,2020-11-04 00:00:00,,,,Avaliação / Reavaliação ,X
+13140,9163,,,2020-11-04 00:00:00,,,,Dispensa de Penhora - Entidades Filantrópicas e Seus Diretores ,X
+13164,9163,,,2020-11-04 00:00:00,,,,Excesso de Penhora ,X
+13189,9163,,,2020-11-04 00:00:00,,,,Impenhorabilidade ,X
+13363,13189,,,2020-11-04 00:00:00,,,,Bem de Família ,X
+13364,13189,,,2020-11-04 00:00:00,,,,Bem Público ,X
+13458,13189,,,2020-11-04 00:00:00,,,,Instrumentos de Trabalho ,X
+13526,13189,,,2020-11-04 00:00:00,,,,Remuneração / Proventos / Pensões e Outros Rendimentos ,X
+13240,9163,,,2020-11-04 00:00:00,,,,Ordem de Preferência ,X
+13249,9163,,,2020-11-04 00:00:00,,,,Penhora no Rosto dos Autos ,X
+13250,9163,,,2020-11-04 00:00:00,,,,Penhora Online / BACEN JUD ,X
+13278,9163,,,2020-11-04 00:00:00,,,,Reforço de Penhora ,X
+13297,9163,,,2020-11-04 00:00:00,,,,Seguro-Garantia Judicial ,X
+13303,9163,,,2020-11-04 00:00:00,,,,Substituição de Penhora ,X
+10672,9148,,,2008-09-30 15:52:00,,,,Precatório,X
+14912,10672,CF,"100, §§ 13 e 14",2021-09-30 00:00:00,,,,Cessão de Créditos,X
+10680,10672,Constituição Federal,"100, § 8º",2008-09-30 15:52:00,,,,Crédito Complementar,X
+10679,10672,Constituição Federal,"100, §§ 2º e 8º",2008-09-30 15:52:00,,,,Fracionamento,X
+11923,10672,Constituição Federal,"100 caput e §§ 1º, 2º e 6º",2012-06-06 00:00:00,,,,Fraude / Quebra de ordem cronológica,X
+13216,10672,,,2020-11-04 00:00:00,,,,Juros de Mora ,X
+10885,10672,Constituição Federal e ADCT,"100, § 20 (CF); 78 (ADCT)",2008-09-30 15:52:00,,,,Liquidação Parcelada,X
+11924,10672,Constituição,"100, caput e §§ 1º e 2º",2012-06-06 00:00:00,,,,Pagamento,X
+10869,10672,CPC,"513, caput; 523, caput",2008-09-30 15:52:00,,,,Parcela Incontroversa,X
+13253,10672,,,2020-11-04 00:00:00,,,,Período de Graça ,X
+10678,10672,ADCT,"97, § 13; 103, caput",2008-09-30 15:52:00,,,,Sequestro de Verbas Públicas,X
+9189,9148,CPC,826,2008-09-30 15:52:00,,,,Remição,X
+10673,9148,Constituição Federal,"100, §§ 3º e 4º",2008-09-30 15:52:00,,,,Requisição de Pequeno Valor - RPV,X
+14855,10673,CPC,"535, § 4º",2021-09-29 00:00:00,,,,Parte Incontroversa,X
+9484,9148,CPC,"790, I",2008-09-30 15:52:00,,,,Sucessão,X
+9149,9148,,,2008-09-30 15:52:00,,,,Valor da Execução / Cálculo / Atualização,X
+10685,9149,Código Civil e Lei n. 6.899/1981,389 (CC); 1º (Lei 6.889/1981),2008-09-30 15:52:00,,,,Correção Monetária,X
+10684,9149,Código Civil,"389, 406 e 407",2008-09-30 15:52:00,,,,Juros,X
+10687,9149,Código Civil e Lei n. 9.065/1995,406 (CC); 13 (Lei 9.065/1995),2008-09-30 15:52:00,,,,Taxa SELIC,X
+8875,8826,CPC,176 a 181,2008-09-30 15:52:00,,,,Ministério Público,X
+11781,8826,,,2010-09-17 00:00:00,2022-03-23 15:01:00,,,Objetos de cartas precatórias cíveis/de ordem,X
+11786,11781,CPC,"914, § 2º; 915, §§ 2º e 4º",2010-09-17 00:00:00,,,,Atos executórios,X
+11783,11781,CPC,232,2010-09-17 00:00:00,,,,Citação,X
+11785,11781,CPC,261,2010-09-17 00:00:00,,,,Diligências,X
+15481,11781,CPC,260 e ss,2024-11-11 17:47:00,,,,Estudo Social,X
+11782,11781,CPC,232,2010-09-17 00:00:00,,,,Intimação,X
+11784,11781,CPC,"453, II",2010-09-17 00:00:00,,,,Oitiva,X
+8883,8826,,,2008-09-30 15:52:00,,,,Órgãos Judiciários e Auxiliares da Justiça,X
+8884,8883,,,2008-09-30 15:52:00,,,,Do Juiz,X
+10660,8884,CPC,144,2008-09-30 15:52:00,,,,Impedimento,X
+12415,8884,CPC,139 a 143,2018-11-23 00:00:00,,,,"Poderes, Deveres e Responsabilidades do Juiz",X
+10659,8884,CPC,145,2008-09-30 15:52:00,,,,Suspeição,X
+8888,8883,CPC,149 a 175,2008-09-30 15:52:00,,,,Dos Auxiliares da Justiça,X
+12943,8826,,,2020-11-04 00:00:00,,,,Processo Coletivo ,X
+12755,12943,,,2020-07-14 00:00:00,,,,Direito Coletivo,X
+12757,12755,CDC,"81,parágrafo único, II; 110 e 111",2020-07-14 00:00:00,,,,Interesses ou Direitos Coletivos em Sentido Estrito,X
+12756,12755,CDC,"81, parágrafo único, I; 110 e 111",2020-07-14 00:00:00,,,,Interesses ou Direitos Difusos,X
+12758,12755,CDC,"81, parágrafo único, III; 110 e 111",2020-07-14 00:00:00,,,,Interesses ou Direitos Individuais Homogêneos,X
+8960,8826,,,2008-09-30 15:52:00,,,,Processo e Procedimento,X
+8986,8960,CPC,283,2008-09-30 15:52:00,,,,Erro de Procedimento,X
+8990,8960,,,2008-09-30 15:52:00,,,,Provas,X
+10940,8990,CPC,385 a 388 e 442 a 463,2008-09-30 15:52:00,2011-02-01 11:30:00,,,Depoimento,X
+12419,8990,CPC,369 a 384; 389 a 441 e 463 a 484,2018-11-23 00:00:00,,,,Provas em geral,X
+9024,8960,CPC,344 a 346,2008-09-30 15:52:00,,,,Revelia ,X
+9026,8960,CPC,489 a 495,2008-09-30 15:52:00,,,,Vícios Formais da Sentença,X
+9045,8826,,,2008-09-30 15:52:00,2009-05-29 12:07:00,,,Recurso,X
+9098,9045,"Constituição Federal, CPC, CPP, CLT, Código Eleitoral, CPPM e Lei n. 9.099/1995","102, II e III; 105, II e III (CF); 994; 1.009; 1.015; 1.021, caput; 1.022; 1.027; 1.030, I, III, V e §§ 1º e 2º; 1.035, caput e §§ 1º a 3º, 6º e 7º; 1.036, §§ 2º e 3º; 1.037, §§ 9º e 13; 1.042, caput ; 1.043 (CPC); 581; 593 , I a III; 619; 639 (CPP)",2008-09-30 15:52:00,,,,Cabimento,X
+9047,9045,"CPC, CPP, CLT, Código Eleitoral, CPPM, Lei n. 9.099/1955","987, caput e § 1º; 1.012; 1.019, I; 1.026, caput; 1.029, § 5º (CPC); 584, caput; 597; 598, caput; 637; 646 (CPP); 893, § 2º; 896, § 1º ; 899, caput (CLT); 257, caput e § 2º (Código Eleitoral); 65, § 2º, 106, §§1º e 2º;194,par. único e outros (CPPM)",2008-09-30 15:52:00,,,,Efeitos,X
+9060,9045,CPC,Arts. 506 a 508,2008-09-30 15:52:00,2018-11-27 16:40:00,,,Prazo,X
+10668,9060,CPC e Lei n. 9.800/1999,"1.017, § 2º, IV e § 4º (CPC); 2º, caput (Lei n. 9.800/1999)",2008-09-30 15:52:00,,,,Fac-símile,X
+10669,9060,CPC,"1.017, § 2º, II",2008-09-30 15:52:00,,,,Protocolo Integrado / Descentralizado,X
+12420,9060,"CPC, Lei n. 9.099/1995, CPP, CLT, Código Eleitoral e CPPM","1.003;1.023,caput;1.026,caput;1.044,§1º(CPC);42,caput;49,50,82,§1º;83,§§1ºe2º(L.9.099/1995);575;586;593,caput;598;619;640(CPP);894,capute§4º;895,caput;896,§12;897,caput;897-A,capute§3º(CLT);258;259;275,§1º;276,caput;279,caput;281,caput;282(C.Eleit.)",2018-11-27 00:00:00,,,,Tempestividade,X
+9050,9045,"CPC, Lei n. 9.289/1996, CPP, CLT, Código Eleitoral, CPPM, Lei n. 9.099/1995","99, §§ 5º e 7º; 1.007; 1.023, caput (CPC); 14, II (Lei 9.289/1996); 806, § 2º (CPP); 896, § 14; 899 (CLT); 275, § 2º (Código Eleitoral); 712 (CPPM); 42; 54, parágrafo único (Lei n. 9.099/1995)",2008-09-30 15:52:00,2020-11-19 13:44:00,,,Preparo/Deserção,X
+10666,9045,CPC,"997, caput",2008-09-30 15:52:00,,,,Regularidade Formal,X
+12152,8826,Código de Processo Civil,304,2017-05-05 00:00:00,2018-11-23 16:13:00,,,Revisão de Tutela Antecipada,X
+9192,8826,,,2008-09-30 15:52:00,2018-11-23 14:53:00,,,Tutela Provisória,X
+9532,9192,CPC,"83; 300, § 1º; 337, XII; 520, IV; 521; 525, §§ 6º e 10; 559; 641, § 2º; 678, parágrafo único; 704, IV; 708, § 3º; 840, III; 917, § 6º",2008-09-30 15:52:00,2018-11-22 17:15:00,,,Caução,X
+9524,9192,CPC,302,2008-09-30 15:52:00,,,,Indenização do Prejuízo,X
+9196,9192,CPC,"300, § 2º",2008-09-30 15:52:00,,,,Liminar ,X
+12418,9192,CPC,"304,§§ 2º a 6º",2018-11-23 00:00:00,2018-11-23 16:11:00,,,Revisão de Tutela Antecipada Antecedente,X
+12417,9192,CPC,294 a 299 e 311,2018-11-23 00:00:00,,,,Tutela de Evidência,X
+12416,9192,CPC,"294 a 304, § 1º e 305 a 310",2018-11-23 00:00:00,2018-11-23 16:03:00,,,Tutela de Urgência,X
+1209,,,,,,,,DIREITO PROCESSUAL PENAL,X
+10604,1209,,,2008-09-30 15:52:00,,,,Investigação Penal,X
+10609,10604,Lei 9.296/96,1º,2008-09-30 15:52:00,,,,Quebra do Sigilo Telefônico,X
+14,,,,,,,,DIREITO TRIBUTÁRIO,X
+6031,14,CF 1988,149,2008-09-30 15:52:00,,,,Contribuições,X
+6032,6031,CF 1988 ; CTN ; DL 195/1967,"145, III ; 81 e 82",2008-09-30 15:52:00,,,,Contribuições de Melhoria,X
+6071,6031,,,2008-09-30 15:52:00,,,,Contribuições Especiais,X
+6083,6071,CF 1988,149-A,2008-09-30 15:52:00,,,,Contribuição de Iluminação Pública,X
+6048,6031,CF 1988 ; L 8.212/1991,"195, I, a e II",2008-09-30 15:52:00,,,,Contribuições Previdenciárias,X
+6062,6048,8.212/1991,"28, I e § 9º, e, 6.",2008-09-30 15:52:00,,,,1/3 de férias,X
+6052,6048,CF 1988 ; L 8.212/1991 ; L 9.032/1995,"195, II ; 12, §4º",2008-09-30 15:52:00,,,,Aposentadoria/Retorno aoTrabalho,X
+6063,6048,L 8.212/1991,"28, I e § 9º, c",2008-09-30 15:52:00,,,,Auxílio-Alimentação,X
+6053,6048,CF 1988 ; L 8.212/1991 ; L 8.647/1993,"40, § 13 ; 12, I, g",2008-09-30 15:52:00,,,,Cargo em Comissão,X
+6070,6048,L 7.787/1989 ; L 8.212/1991 ; LC 84/1996,"3º, I ; 22, I",2008-09-30 15:52:00,,,,"Contribuição de Autônomos, Empresários (Pró-labore) e Facultativos",X
+6060,6048,CF 1988 ; Lei 8.212/91,"195, I, a ; 22, I",2008-09-30 15:52:00,,,,Contribuição sobre a folha de salários,X
+6069,6048,L 8.212/1991,31,2008-09-30 15:52:00,,,,Contribuição sobre Nota Fiscal de Execução de Serviços,X
+6064,6048,L 8.212/1991,"28, I e § 9º, q",2008-09-30 15:52:00,,,,Custeio de Assistência Médica,X
+6061,6048,LEI 6.950/1981; Lei 7.787/1989,,2008-09-30 15:52:00,,,,Devolução de contribuições previdenciárias pagas além do teto,X
+6056,6048,CF 1988 ; L 7.789/1989 ; L 8.212/1991 ; D 612/1992 ; Lei 8.620/1993 ; D 3.048/1999 ; L 9.783/1999 ; Sum 207 STF,"195, I, b ; 1º ; 22, 28, § 7º ; ; 7º, § 2º ; 37 § 7º ; 1º e 6º.",2008-09-30 15:52:00,,,,Gratificação Natalina/13º Salário,X
+6065,6048,L 8.212/1991,"28, I",2008-09-30 15:52:00,,,,Hora Extra,X
+6058,6048,CF 1988 ; L 8.212/1991,"195,I, b",2008-09-30 15:52:00,,,,Indenização Trabalhista,X
+6051,6048,CF 1988 ; L 8.212/1991 ; L 9.506/1997; Res 26/2005 SF ; L 10.887/2004,"195, II ; 12, I, h e j",2008-09-30 15:52:00,,,,Mandato Eletivo/Lei 9.506/97,X
+6066,6048,L 8.212/1991 ; Sum 417 STF,"51, Parágrafo Único",2008-09-30 15:52:00,,,,Massa Falida- Recolhimento,X
+6067,6048,L 8.212/1991,"22, IV",2008-09-30 15:52:00,,,,Nota Fiscal ou Fatura,X
+6057,6048,CF 1988 ; L 8.212/1991 ; L 8.213/1991 ; L 8.540/1992 ; L 8.870/1994 ; L 10.256/2001,"154, I e 195, § 4º e § 8º ; 25 e 25-A",2008-09-30 15:52:00,,,,Produção Agropecuária,X
+6059,6048,CLT ; D 22919/1987 ; L 8.212/1991 ; L 9.528/1997 ; Port 3.296/1986 MT 389,"§ 1º ; ; 28,§ 9º, e, 9, s",2008-09-30 15:52:00,,,,Reembolso auxílio-creche,X
+6068,6048,L 8.212/1991,"28, § 9º, a",2008-09-30 15:52:00,,,,Salário-Maternidade,X
+6049,6048,CF 1988 ; L 8.112/1990 ; L 8.162/1991 ;L 8.688/1993; MP 520/1994; MP 628/1994; L 9.630/1998; L 9.783/1999 ; L 10.887/2004,"40, e 149, §1º ; 231 ; 9º ; ; ; ; ; ; 4º, 5º e 6º.",2008-09-30 15:52:00,,,,Servidores Ativos,X
+6050,6048,CF 1988 ; L 10.887/2004,"40, §18 e §21 e 149, §1º ; 231 ; 9º; 5º e 6º",2008-09-30 15:52:00,,,,Servidores Inativos,X
+6055,6048,CF 1988 ; L 8.212/1991,"195, I, b ; 20 e 21",2008-09-30 15:52:00,,,,Tempo de Serviço Rural/Contribuições não Recolhidas,X
+6054,6048,CF 1988 ; L 8.212/1991,"195, I, b ; 20 e 21",2008-09-30 15:52:00,,,,Tempo de Serviço Urbano/Contribuições não Recolhidas,X
+5986,14,CTN,"139 e segs, especialmente 183 a 193.",2008-09-30 15:52:00,,,,Crédito Tributário,X
+6012,5986,CF 1988,"149, § 1º, § 2º, III, 153, § 1º, § 5º, 155, § 2º, IV a VIII, § 4º, IV, § 6º",2008-09-30 15:52:00,,,,Alíquota,X
+6014,6012,CF,"arts. 153, I, II, IV, V, 155, I, 156, I",2008-09-30 15:52:00,,,,Alíquota Progressiva,X
+6013,6012,CF,"art. 153, §1º, 155, §2º, V, VI, VII, VIII, IX, X e XI",2008-09-30 15:52:00,,,,Alíquota Zero,X
+6015,6012,CTN,art. 48,2008-09-30 15:52:00,,,,Índice da Alíquota,X
+5996,5986,CTN,175 II e 180 e 182,2008-09-30 15:52:00,,,,Anistia,X
+6004,5986,Lei 6830/80,art. 38,2008-09-30 15:52:00,,,,Anulação de Débito Fiscal,X
+6008,5986,CF 1988 ; CTN,"145, § 2 º, 150, § º, § 6º, 154, I, 155, § 2º, XI e XII ; 20, 24 25 33 44 47 64 e 77",2008-09-30 15:52:00,,,,Base de Cálculo,X
+10559,6008,CF,"CF, art. 155, §2º; ADCT, art. 34, §4º.",2008-09-30 15:52:00,,,,"Cálculo de ICMS ""por dentro""",X
+10556,6008,Lei 10833/03 e Lei 9718/98,"Lei 10833, art. 3º; Lei 9718, art. 3º, §2º, I",2008-09-30 15:52:00,,,,Exclusão - ICMS,X
+5999,5986,CTN,205 a 208,2008-09-30 15:52:00,,,,CND/Certidão Negativa de Débito,X
+6001,5999,CTN,206,2008-09-30 15:52:00,,,,Expedição de Certidão Positiva de Débito com Efeito de Negativa,X
+6000,5999,CTN,205,2008-09-30 15:52:00,,,,Expedição de CND,X
+6016,5986,CF,"art. 153, §3º, II, 154, I, 155, §2º, I",2008-09-30 15:52:00,,,,Creditamento,X
+6009,5986,DL 491/1969 ; DL 1.658/1979 DL 1.722/1979,,2008-09-30 15:52:00,,,,Crédito Prêmio,X
+6010,5986,CF 1988 ; L 9.363/1996 ; MP 1.508-20/1997 ; Lei 9.493/1997 ; 10.276/2001,"155, § 2º, II",2008-09-30 15:52:00,,,,Crédito Presumido,X
+5997,5986,CTN,138,2008-09-30 15:52:00,,,,Denúncia espontânea,X
+5990,5986,CTN,156 e segs.,2008-09-30 15:52:00,,,,Extinção do Crédito Tributário,X
+5994,5990,CTN ; L 9.430/1996,170-A ; 74,2008-09-30 15:52:00,,,,Compensação,X
+5991,5990,DL 263/1967 e 396/1968,,2008-09-30 15:52:00,,,,Compensação com Apólices da Dívida Pública,X
+5993,5990,CTN,173,2008-09-30 15:52:00,,,,Decadência,X
+10551,5993,Lei 8212/91; Súmula Vinculante nº 8,"Lei 8212, art. 45; Súmula Vinculante nº 8.",2008-09-30 15:52:00,,,,Constitucionalidade do artigo 45 da Lei 8212/91,X
+14950,5990,CPC,829,2021-09-30 00:00:00,,,,Pagamento,X
+5992,5990,CTN,174,2008-09-30 15:52:00,,,,Prescrição,X
+10545,5992,Lei 8212/91; Súmula Vinculante nº 8,"Lei 8212, art. 46; Súmula Vinculante nº 8.",2008-09-30 15:52:00,,,,Constitucionalidade do artigo 46 da Lei 8212/91,X
+10544,5992,LC 118/05,Art. 4º,2008-09-30 15:52:00,,,,Constitucionalidade do artigo 4º da LC 118/05,X
+10548,5992,Lei 6830/80,"art. 40, §4º",2008-09-30 15:52:00,,,,Decretação de Ofício,X
+10547,5992,,,2008-09-30 15:52:00,,,,Interrupção,X
+10550,10547,Lei 6830/80,Artigo 8º,2008-09-30 15:52:00,,,,Despacho de Citação,X
+10546,5992,,,2008-09-30 15:52:00,,,,Suspensão,X
+10549,10546,DL 1569/77; Súmula Vinculante nº 8,"art. 5º, parágrafo único; Súmula Vinculante nº 8",2008-09-30 15:52:00,,,,Arquivamento Administrativo - Crédito de Pequeno Valor,X
+6011,5986,CTN,114 a 118,2008-09-30 15:52:00,,,,Fato Gerador/Incidência,X
+6003,5986,CF,"arts. 43, §2º, 151, I, 155, XII, g, 156, §3º, III, 195, §3º, 227, §3º, VI; ADCT, art. 40.",2008-09-30 15:52:00,,,,Incentivos fiscais,X
+6005,5986,CTN ; L 9.250/1995,"161, § 1º e 167, parágrafo único ; 14, III , 16 e 39 § 4º",2008-09-30 15:52:00,,,,Juros/Correção Monetária,X
+5998,5986,CTN,142 a 150,2008-09-30 15:52:00,,,,Lançamento,X
+6006,5986,CTN ; L 8.212/1991,160 ; 30,2008-09-30 15:52:00,,,,Prazo de Recolhimento,X
+6007,5986,CTN,165 a 169,2008-09-30 15:52:00,,,,Repetição de indébito,X
+5987,5986,CTN,156 e segs.,2008-09-30 15:52:00,,,,Suspensão da Exigibilidade,X
+5988,5987,CTN,"art. 151, II",2008-09-30 15:52:00,,,,Carta de fiança,X
+10543,5987,CTN,"151, II",2008-09-30 15:52:00,,,,Depósito Judicial,X
+5989,5987,CTN,"art. 151, VI",2008-09-30 15:52:00,,,,Parcelamento,X
+5916,14,CF 1988 ; CTN,"145, I e 154 ; 16 a 76",2008-09-30 15:52:00,,,,Impostos,X
+5946,5916,CF 1988; LC 87/1996,"155, II",2008-09-30 15:52:00,,,,ICMS/ Imposto sobre Circulação de Mercadorias,X
+10531,5946,,,2008-09-30 15:52:00,,,,ICMS / Incidência Sobre o Ativo Fixo,X
+5947,5946,Sum 71 STJ; Sum 95 STJ ; Sum 155 STJ ; Sum 198 STJ.,,2008-09-30 15:52:00,,,,ICMS/Importação,X
+5952,5916,CF 1988; CTN; Sum 589 STF; Sum 668 STF; Sum 724 STF; Sum 166 STJ.,"156, I ; 32 a 34.",2008-09-30 15:52:00,,,,IPTU/ Imposto Predial e Territorial Urbano,X
+5953,5916,CF 1988,"155, III",2008-09-30 15:52:00,,,,IPVA - Imposto Sobre Propriedade de Veículos Automotores,X
+5917,5916,CF 1988 ; L 7.713/1988; L 9.250/1995; L 9.532/1997; L 10.451/2002; L 10.828/2003; D 3000/1999,"153, III",2008-09-30 15:52:00,,,,IRPF/Imposto de Renda de Pessoa Física,X
+15480,5917,Lei nº 7.713/1988,"6º, XIV",2024-11-11 17:41:00,,,,Isenção por Doença ou Acidente em Serviço,X
+5951,5916,CF 1988; LC 116/2003; Sum 588 STF; Sum 138 STJ ; Sum 156 STJ ; Sum 167 STJ ; Sum 274.,"156, III",2008-09-30 15:52:00,,,,ISS/ Imposto sobre Serviços,X
+5954,5916,CF 1988 ; Sum 656 STF.,"156, II",2008-09-30 15:52:00,,,,ITBI - Imposto de Transmissão Intervivos de Bens Móveis e Imóveis,X
+5955,5916,CF 1988 ; Sum 112 STF ; Sum 113 ; Sum 114 STF ; Sum 115 STF ; Sum 331 STF ; Sum 435 STF ; Sum 590 STF.,"155, I",2008-09-30 15:52:00,,,,ITCD - Imposto de Transmissão Causa Mortis,X
+5913,14,CF1988,150,2008-09-30 15:52:00,,,,Limitações ao Poder de Tributar,X
+10540,5913,CF,arts. 153 a 156,2008-09-30 15:52:00,,,,Competência Tributária,X
+5914,5913,CF1988,"150, VI",2008-09-30 15:52:00,,,,Imunidade ,X
+10528,5914,CF,"150, VI",2008-09-30 15:52:00,,,,Entidades Sem Fins Lucrativos,X
+10530,5914,CF,"150, VI",2008-09-30 15:52:00,,,,Imunidade Recíproca,X
+10527,5914,CF,"150, VI",2008-09-30 15:52:00,,,,Livros / Jornais / Periódicos,X
+10529,5914,CF,"150, VI",2008-09-30 15:52:00,,,,Partidos Políticos,X
+5915,5913,CF1988; L 5.172/66 (CTN),"150, § 6º; 176 -179",2008-09-30 15:52:00,,,,Isenção,X
+5978,14,CTN,113,2008-09-30 15:52:00,,,,Obrigação Tributária,X
+10539,5978,CTN,art. 126,2008-09-30 15:52:00,,,,Capacidade Tributária,X
+5983,5978,IN 748/2007 RFB,"arts. 14, 19 e 31",2008-09-30 15:52:00,,,,CNPJ/Cadastro Nacional de Pessoas Jurídicas,X
+5984,5978,IN 461/1964 SRF,"arts. 18, 20 e 39",2008-09-30 15:52:00,,,,CPF/Cadastro de Pessoas Físicas,X
+5982,5978,IN 304/2003 SRF; IN 316/2003 da SRF.,"IN 304 SRF, art. 3º e 4º;",2008-09-30 15:52:00,,,,DIMOB/Declaração de Informações sobre Atividades Imobilíárias,X
+5985,5978,CTN,"113, § 2º",2008-09-30 15:52:00,,,,Obrigação Acessória,X
+5979,5978,CTN,128 a 138,2008-09-30 15:52:00,,,,Responsabilidade tributária,X
+5980,5979,CTN,"135, III e 137, III, c",2008-09-30 15:52:00,,,,Responsabilidade Tributária do Sócio-Gerente / Diretor / Representante,X
+5981,5979,CF 1988,"150, § 7º",2008-09-30 15:52:00,,,,Substituição Tributária,X
+6021,14,,,2008-09-30 15:52:00,,,,Procedimentos Fiscais,X
+6027,6021,Sum 70 STF ; Sum 547 STF,Sum 70 STF ; Sum 547 STF,2008-09-30 15:52:00,,,,Autorização para Impressão de Documentos Fiscais - AIDF,X
+6026,6021,L 10.522/2002,art. 2º,2008-09-30 15:52:00,2021-12-03 16:18:00,,,Cadastro de Inadimplentes - CADIN/SPC/SERASA/SIAFI/CAUC,X
+6025,6021,CTN ; L 9.703/1998 ; D 2.850/1998,"151, II c/c 156, VI ; 1º, §3º e §4º ; 2º, I",2008-09-30 15:52:00,,,,Levantamento de depósito,X
+6024,6021,DL 1.455/1976 ; D 4.543/2002; Sum 323 STF,"DL 1455, art. 23, §4º, 26; SUM 323, STF",2008-09-30 15:52:00,,,,Liberação de mercadorias,X
+6028,6021,DL 37/1966 ; D 4.543/2002,"104, V c/c 105 ,IX a XI ; 604, I",2008-09-30 15:52:00,,,,Liberação de Veículo Apreendido,X
+6029,6021,DL 37/1966 ; D 4.543/2002,"104, V e 105 ,IX a XI ; 604",2008-09-30 15:52:00,,,,Perdimento de Bens,X
+10560,6021,CTN; Lei 9034/95; Lei 8021/90; Lei 4595/64,"CTN, art. 197; Lei 9034, art. 2º, III; Lei 8021, art. 8º; Lei 4595, art. 38, §2º",2008-09-30 15:52:00,,,,Quebra de Sigilo Bancário,X
+6022,6021,CTN ; IN 580/2001 SRF,198,2008-09-30 15:52:00,,,,Sigilo Fiscal,X
+6023,6022,L 9.311/1996 ; 10.174/2001,"11, §3",2008-09-30 15:52:00,,,,Utilização de Dados Relativos à CPMF para Fins de Fiscalização,X
+6018,14,CF 1988 ; D 70.352/1972 ; L 9.784/1999 ; L 9.430/1996,"5, LV",2008-09-30 15:52:00,,,,Processo Administrativo Fiscal,X
+6020,6018,CF 1988 ; D 70.352/1972 ; L 8.212/1991 ; L 9.532/1997,"5, LV ; 32, § 2º ; 37, § 2º ; 64 e 64-A",2008-09-30 15:52:00,,,,Arrolamento de Bens,X
+6019,6018,CF 1988 ; D 70.352/1972 ; L 8.213/1991 ; L 9.639/1998 ; L 10.522/2002,"5º, LV ; 32 ; 126, § 1° e § 2°",2008-09-30 15:52:00,,,,Depósito Prévio ao Recurso Administrativo,X
+6089,14,MP 303/2006,,2008-09-30 15:52:00,,,,Regimes Especiais de Tributação,X
+6091,6089,L 10.684/2003,art. 1º,2008-09-30 15:52:00,,,,PAES/Parcelamento Especial,X
+6090,6089,L 9.964/2000,,2008-09-30 15:52:00,,,,REFIS/Programa de Recuperação Fiscal,X
+6092,6089,L 9.317/1996 ; L 9.779/1999 ; L 10.034/0000; L 10.684/2003,"Lei 9317, arts. 2º e 3º",2008-09-30 15:52:00,,,,SIMPLES,X
+6093,6089,LC 123/2006 ; LC 127/2007,"LC 123, art. 3º, §11",2008-09-30 15:52:00,,,,Super SIMPLES,X
+5956,14,CF 1988 ; CTN,"145, II e § 2º ; 77 a 80",2008-09-30 15:52:00,,,,Taxas,X
+5971,5956,CF; CTN,"CF, art. 145, II; CTN, art. 77",2008-09-30 15:52:00,,,,Estaduais,X
+5972,5956,,,2008-09-30 15:52:00,,,,Municipais,X
+10536,5972,CF; CTN,"CF, art. 145, II; CTN, art. 77",2008-09-30 15:52:00,,,,Taxa de Coleta de Lixo,X
+10535,5972,CF; CTN,"CF, art. 145, II; CTN, art. 77",2008-09-30 15:52:00,,,,Taxa de Iluminação Pública,X
+10538,5972,CF; CTN,"CF, art. 145, II; CTN, art. 77",2008-09-30 15:52:00,,,,Taxa de Licenciamento de Estabelecimento,X
+10534,5972,CF; CTN,"CF, art. 145, II; CTN, art. 77",2008-09-30 15:52:00,,,,Taxa de Limpeza Pública,X
+10537,5972,CF; CTN,"CF, art. 145, II; CTN, art. 77",2008-09-30 15:52:00,,,,Taxa de Prevenção e Combate a Incêndio,X
+12467,,Portaria Conjunta CNJ e CNMP nº 1/2019,"2º, I a V",,,,,"QUESTÕES DE ALTA COMPLEXIDADE, GRANDE IMPACTO E REPERCUSSÃO",X
+12468,12467,Portaria Conjunta CNJ e CNMP nº 1/2019,"2º, I a V",2019-03-06 00:00:00,2023-03-31 17:12:00,,,Barragem em Brumadinho,X
+12470,12467,Portaria Conjunta CNJ e CNMP nº 1/2019,"2º, I a V",2019-03-06 00:00:00,2023-03-31 17:14:00,,,Barragem em Mariana,X
+12612,12467,Portaria Conjunta CNJ e CNMP nº 1/2019,"2º, I a V",2020-03-18 00:00:00,,,,COVID-19,X
+15365,12467,"Decreto Legislativo 36/2024, de 7/5/2024 e Portaria Conjunta CNJ e CNMP nº 1/2019","1° (DL 36/2024); 2º, I a V (Portaria 1/2019)",2024-05-09 14:19:00,,,,Enchentes no Rio Grande do Sul em 2024,X
+14679,12467,Portaria Conjunta CNJ e CNMP nº 1/2019,2º,2021-05-18 00:00:00,2022-06-10 16:17:00,,,Explosão da Fábrica de Fogos de Santo Antônio de Jesus/BA,X
+12469,12467,Portaria CNJ e CNMP nº 1/2019,"2º, I a V",2019-03-06 00:00:00,2023-03-31 17:11:00,,,Incêndio Boate Kiss,X
+12620,12467,Portaria Conjunta CNJ e CNMP nº 1/2019,,2020-03-26 00:00:00,,,,Migrantes e Refugiados,X
+14125,12467,Lei 13.709/2018,1º,2021-01-18 00:00:00,2021-01-20 09:15:00,,,Proteção de Dados Pessoais (LGPD),X

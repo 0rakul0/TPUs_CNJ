@@ -1,0 +1,46 @@
+Código,Cód. Pai,nome,JEFP
+1198,,PROCEDIMENTOS ADMINISTRATIVOS ,X
+12248,1198,Pedido de Cooperação Judiciária,X
+11099,,PROCEDIMENTOS PRÉ-PROCESSUAIS DE RESOLUÇÃO CONSENSUAL DE CONFLITOS ,X
+11875,11099,Reclamação Pré-processual,X
+2,,PROCESSO CÍVEL E DO TRABALHO ,X
+214,2,Outros Procedimentos,X
+237,214,Atos e expedientes,X
+1701,237,Nomeação de Advogado,X
+241,237,Petição Cível,X
+257,214,Cartas,X
+258,257,Carta de Ordem Cível,X
+261,257,Carta Precatória Cível,X
+215,214,Incidentes,X
+14991,215,Classificação de Crédito Público,X
+224,215,Exceções,X
+1230,224,Exceção de Impedimento,X
+1232,224,Exceção de Incompetência,X
+1231,224,Exceção de Suspeição,X
+12119,215,Incidente de Desconsideração de Personalidade Jurídica,X
+12080,215,Incidente de Impedimento Cível,X
+12081,215,Incidente de Suspeição Cível,X
+1106,2,Processo de Conhecimento,X
+1107,1106,Procedimento de Conhecimento,X
+436,1107,Procedimento do Juizado Especial Cível,X
+14695,1107,Procedimento do Juizado Especial da Fazenda Pública,X
+26,1107,Procedimentos Especiais,X
+50,26,Procedimentos Especiais de Jurisdição Voluntária,X
+12369,50,Tomada de Decisão Apoiada,X
+62,26,"Procedimentos Regidos por Outros Códigos, Leis Esparsas e Regimentos",X
+155,1106,Procedimento de Cumprimento de Sentença/Decisão,X
+156,155,Cumprimento de sentença,X
+12078,155,Cumprimento de Sentença contra a Fazenda Pública,X
+15215,155,Cumprimento de Sentença contra a Fazenda Pública Mediante Execução Invertida,X
+157,155,Cumprimento Provisório de Sentença,X
+158,2,Processo de Execução,X
+159,158,Execução de Título Extrajudicial,X
+12079,159,Execução de Título Extrajudicial contra a Fazenda Pública,X
+1111,158,Execução de Título Judicial,X
+1114,1111,Execução Contra a Fazenda Pública,X
+197,2,Recursos,X
+207,197,Embargos,X
+1689,207,Embargos de Declaração Cível,X
+12133,2,Tutela Provisória de Urgência e Tutela Provisória de Evidência,X
+12135,12133,Tutela Antecipada Antecedente,X
+12134,12133,Tutela Cautelar Antecedente,X

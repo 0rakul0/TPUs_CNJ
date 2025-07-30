@@ -1,0 +1,625 @@
+Código,Cód. Pai,nome,JE1G
+1,,Magistrado ,X
+15185,1,Cooperação Judiciária,X
+3,1,Decisão,X
+15162,3,Acolhimento de Embargos de Declaração,X
+133,3,Acolhimento de exceção,X
+335,133,de pré-executividade,X
+940,133,Impedimento ou Suspeição,X
+371,133,Incompetência,X
+15163,3,Acolhimento em Parte de Embargos de Declaração,X
+15366,3,Acolhimento em Parte de Exceção de Pré-Executividade,X
+206,3,Admissão,X
+12431,206,Embargos ,X
+429,206,Recurso extraordinário,X
+1008,3,Autorização,X
+15207,1008,Aproximação de Pretendente à Adoção,X
+15209,1008,Busca Ativa para Adoção,X
+1011,1008,Inclusão em Regime Disciplinar Diferenciado,X
+12188,1008,Recambiamento de Preso,X
+1010,1008,Saída Temporária,X
+1009,1008,Trabalho Externo,X
+1019,1008,Transferência da Execução da Pena,X
+1018,1008,Transferência para outro Estabelecimento Penal,X
+83,3,Cancelamento da distribuição,X
+817,3,Concessão,X
+11415,817,Comutação da pena,X
+12149,817,Detração/Remição da Pena,X
+990,817,Direito de visita,X
+787,817,Gratuidade da Justiça,X
+11554,817,Indulto,X
+818,817,Liberdade provisória,X
+339,817,Liminar,X
+819,817,Livramento Condicional,X
+14682,817,Medida Cautelar Diversa da Prisão,X
+15506,817,Medida de Proteção da Lei 13.431/2017,X
+15501,817,Medida de Proteção do Estatuto da Criança e do Adolescente,X
+15496,817,Medida de Proteção do Estatuto do Idoso,X
+11423,817,Medida protetiva,X
+15491,817,Medida Protetiva da Lei Henry Borel,X
+15486,817,Medida Protetiva da Lei Maria da Penha,X
+988,817,Permissão de saída,X
+12148,817,Prisão Domiciliar,X
+10963,817,Progressão de Medida Sócio-Educativa,X
+1002,817,Progressão de regime,X
+11395,817,Remissão ao Adolescente como Forma de Suspensão do Processo,X
+12183,11395,Justiça Restaurativa,X
+12182,11395,Liberdade Assistida,X
+12180,11395,Prestação de Serviços à Comunidade,X
+12181,11395,Reparação do Dano,X
+15078,817,Substituição de Medida Socioeducativa,X
+12308,817,Substituição/Sucessão da Parte,X
+1017,817,Suspensão Condicional da Pena,X
+15079,817,Suspensão de Medida Socioeducativa,X
+332,817,Tutela Provisória,X
+151,3,Concessão de efeito suspensivo,X
+383,151,Impugnação ao cumprimento de sentença,X
+381,151,Recurso,X
+888,3,Concessão em parte,X
+15103,888,Gratuidade da Justiça,X
+892,888,Liminar,X
+15507,888,Medida de Proteção da Lei 13.431/2017,X
+15502,888,Medida de Proteção do Estatuto da Criança e do Adolescente,X
+15497,888,Medida de Proteção do Estatuto do Idoso,X
+11424,888,Medida protetiva,X
+15492,888,Medida Protetiva da Lei Henry Borel,X
+15487,888,Medida Protetiva da Lei Maria da Penha,X
+889,888,Tutela Provisória,X
+7,3,Conversão,X
+266,7,Julgamento em Diligência,X
+821,7,Pena / Medida,X
+12140,7,Prisão em Flagrante em Prisão Preventiva,X
+12387,3,Decisão de Saneamento e Organização,X
+12185,3,Decisão Interlocutória de Mérito,X
+11,3,Declaração,X
+12150,11,Impedimento,X
+269,11,Impedimento ou Suspeição,X
+941,11,Incompetência,X
+1003,11,Remição,X
+12151,11,Suspeição,X
+117,3,Decretação de Internação,X
+824,117,Definitiva,X
+823,117,Provisória,X
+11393,117,Sanção,X
+113,3,Decretação de Prisão Civil,X
+354,113,Alimentos,X
+355,113,Depositário infiel,X
+108,3,Decretação de Prisão Criminal,X
+15426,108,Captura ou Apresentação de Desertor,X
+15032,108,Manutenção da Prisão Preventiva,X
+353,108,Preventiva,X
+352,108,Temporária,X
+12307,3,Decretação de revelia,X
+12444,3,deferimento,X
+15086,3,Deferimento em Parte,X
+172,3,Deliberação da partilha,X
+12320,3,Denegação de prevenção,X
+122,3,Desacolhimento de Prisão,X
+12147,122,Domiciliar,X
+358,122,Preventiva,X
+357,122,Temporária,X
+15206,3,Desacolhimento Institucional/de Família Acolhedora,X
+12769,3,Desclassificação de Delito,X
+14681,3,Descumprimento de Medida Protetiva da Lei Maria Penha,X
+15084,3,Desinternação de Adolescente,X
+1013,3,Determinação,X
+12430,1013,Arquivamento,X
+11382,1013,Bloqueio/penhora on line,X
+15081,1013,Busca e Apreensão de Adolescente,X
+15202,1013,Determinação de Alteração ou Complementação do Plano Individual de Atendimento (PIA),X
+1063,1013,Determinação de arquivamento de procedimentos investigatórios,X
+12472,1013,Devolução dos autos à origem ,X
+12474,1013,Distribuição,X
+15085,1013,Emenda à Inicial,X
+12457,1013,Expedição de precatório/rpv,X
+12040,1013,Indisponibilidade de bens,X
+15200,1013,Manutenção da Medida Socioeducativa,X
+12038,1013,Quebra de sigilo bancário,X
+12037,1013,Quebra de sigilo fiscal,X
+12039,1013,Quebra de sigilo telemático,X
+15080,1013,Reavaliação de Medida Socioeducativa,X
+12255,1013,Redistribuição por prevenção,X
+10962,1013,Regressão de Medida Sócio-Educativa,X
+1014,1013,Regressão de Regime,X
+1015,1013,Suspensão do Processo,X
+378,3,Homologação,X
+944,378,Desistência de Recurso,X
+12733,378,Homologação do Acordo de Não Persecução Penal,X
+15201,378,Homologação do Plano Individual de Atendimento (PIA),X
+12476,378,Medida Protetiva da Lei Maria da Penha Determinada por Autoridade Policial,X
+175,378,Prisão em flagrante,X
+15244,3,Homologação de Acordo Parcial em Execução ou em Cumprimento de Sentença,X
+14776,3,Homologação em Parte,X
+14231,3,Impugnação ao Cumprimento de Sentença,X
+14232,14231,Acolhimento,X
+14234,14231,Acolhimento em Parte,X
+14233,14231,Não-Acolhimento,X
+14235,14231,Rejeição,X
+14702,3,Incidente ou Cautelar - Procedimento Resolvido,X
+12455,3,Indeferimento,X
+15229,3,Indeferimento de Internação,X
+15230,15229,Provisória,X
+15231,15229,Sanção,X
+12067,3,Levantamento da Suspensão ou Dessobrestamento,X
+12359,3,Liminar Prejudicada,X
+11792,3,Livramento Condicional,X
+12647,3,Mantida a Distribuição do Processo,X
+15232,3,Manutenção da Internação,X
+15083,15232,Manutenção de Internação Provisória,X
+15233,15232,Sanção,X
+15205,3,Manutenção de Acolhimento Institucional/em Família Acolhedora,X
+15203,3,Manutenção de Sentença/Decisão Anterior - Infância e Juventude,X
+15164,3,Não Acolhimento de Embargos de Declaração,X
+15409,3,Não Conhecimento de Embargos de Declaração,X
+207,3,Não-Admissão,X
+432,207,Recurso Extraordinário,X
+968,3,Não-Concessão,X
+334,968,Gratuidade da Justiça,X
+12146,968,Liberdade Provisória,X
+792,968,Liminar,X
+15508,968,Medida de Proteção da Lei 13.431/2017,X
+15503,968,Medida de Proteção do Estatuto da Criança e do Adolescente,X
+15498,968,Medida de Proteção do Estatuto do Idoso,X
+11425,968,Medida protetiva,X
+15493,968,Medida Protetiva da Lei Henry Borel,X
+15488,968,Medida Protetiva da Lei Maria da Penha,X
+785,968,Tutela Provisória,X
+12477,3,Não-Homologação,X
+12478,12477,Medida protetiva determinada por autoridade policia,X
+15424,12477,Não Homologação de ANPP,X
+146,3,Não-Homologação de prisão em flagrante,X
+163,3,Não-Recebimento,X
+804,163,Recurso,X
+12300,3,Nomeação,X
+12301,12300,Advogado Voluntário,X
+12302,12300,Curador,X
+12303,12300,Defensor Dativo,X
+12304,12300,Intérprete/Tradutor,X
+12305,12300,Outros auxiliares de justiça,X
+12306,12300,Perito,X
+63,3,Ordenação de entrega de autos,X
+12164,3,Outras Decisões,X
+15223,3,Prejudicado o Pedido,X
+12299,3,Prorrogação de cumprimento de pena/medida de segurança,X
+15510,3,Prorrogação de Medida de Proteção da Lei 13.431/2017,X
+15505,3,Prorrogação de Medida de Proteção do Estatuto da Criança e do Adolescente,X
+15500,3,Prorrogação de Medida de Proteção do Estatuto do Idoso,X
+14733,3,Prorrogação de Medida Protetiva,X
+15495,3,Prorrogação de Medida Protetiva da Lei Henry Borel,X
+15490,3,Prorrogação de Medida Protetiva da Lei Maria da Penha,X
+12332,3,Prorrogado prazo de conclusão,X
+160,3,Recebimento,X
+388,160,Aditamento da denúncia,X
+389,160,Aditamento da queixa,X
+391,160,Denúncia,X
+12261,160,Emenda a inicial,X
+393,160,Queixa,X
+1060,160,Recurso,X
+394,1060,Com efeito suspensivo,X
+1059,1060,Sem efeito suspensivo,X
+12035,160,Representação por ato infracional,X
+190,3,Reforma de decisão anterior,X
+138,3,Rejeição,X
+399,138,Aditamento da denúncia,X
+400,138,Aditamento da queixa,X
+402,138,Denúncia,X
+373,138,Exceção de Impedimento ou Suspeição,X
+374,138,Exceção de incompetência,X
+788,138,Exceção de pré-executividade,X
+404,138,Queixa,X
+12036,138,Representação por ato infracional,X
+12141,3,Relaxamento do Flagrante,X
+56,3,Requisição de informações,X
+157,3,Revogação,X
+15208,157,Aproximação de Pretendente à Adoção,X
+15210,157,Busca Ativa para Adoção,X
+945,157,Decisão anterior,X
+12145,157,Detração/Remição,X
+349,157,Gratuidade de Justiça,X
+348,157,Liminar,X
+1004,157,Livramento Condicional,X
+14683,157,Medida Cautelar Diversa da Prisão,X
+15509,157,Medida de Proteção da Lei 13.431/2017,X
+15504,157,Medida de Proteção do Estatuto da Criança e do Adolescente,X
+15499,157,Medida de Proteção do Estatuto do Idoso,X
+11426,157,Medida protetiva,X
+15494,157,Medida Protetiva da Lei Henry Borel,X
+15489,157,Medida Protetiva da Lei Maria da Penha,X
+12479,157,Medida Protetiva da Lei Maria da Penha Determinada por Autoridade Policial,X
+128,157,Prisão,X
+12737,157,Revogação da Suspensão Condicional do Processo,X
+15025,157,Revogação da Transação Penal,X
+12734,157,Revogação do Acordo de Não Persecução Penal,X
+1016,157,Suspensão Condicional da Pena,X
+347,157,Tutela Provisória,X
+15082,3,Revogação de Internação de Adolescente,X
+961,3,Suscitação de Conflito de Competência,X
+25,3,Suspensão ou Sobrestamento,X
+272,25,"A depender do julgamento de outra causa, de outro juízo ou declaração incidente",X
+15413,25,Ação Coletiva,X
+15425,25,Aguardando Apresentação ou Captura de Desertor,X
+960,25,Conflito de Competência,X
+270,25,Convenção das Partes,X
+277,25,Convenção das Partes para Satisfação Voluntária da Obrigação em Execução ou Cumprimento de Sentença,X
+971,25,Exceção da Verdade,X
+271,25,"Exceção de Incompetência, suspeição ou Impedimento",X
+276,25,Execução frustrada,X
+275,25,Força maior,X
+279,25,Incidente de Insanidade Mental,X
+12098,25,Incidente de Resolução de Demandas Repetitivas ,X
+268,25,Morte ou perda da capacidade,X
+15204,25,Não Localização do Adolescente,X
+14971,25,Por Ação de Controle Concentrado de Constitucionalidade,X
+14970,25,Por Controvérsia,X
+12100,25,Por decisão do Presidente do STF - SIRDR,X
+12099,25,Por decisão do Presidente do STJ - SIRDR,X
+898,25,Por decisão judicial,X
+15247,25,Por Expedição de Precatório,X
+15248,25,Por Expedição de RPV,X
+14969,25,Por Grupo de Representativos,X
+14968,25,Por Incidente de Assunção de Competência - IAC,X
+12259,25,"Prescrição intercorrente (art. 921, § 4º, CPC)",X
+278,25,Recebimento de Embargos à Execução,X
+11975,25,Recurso Especial repetitivo,X
+265,25,Recurso Extraordinário com repercussão geral,X
+263,25,Réu revel citado por edital ,X
+264,25,Suspensão Condicional do Processo,X
+12425,3,Unificação de Medidas Socioeducativas,X
+15235,12425,Com Reinício de Prazo,X
+15234,12425,Sem Reinício de Prazo,X
+12736,3,Unificação de Processos de Execução,X
+12144,3,Unificação e Soma de Penas,X
+11009,1,Despacho,X
+11023,11009,Concessão,X
+11024,11023,Assistência Judiciária Gratuita,X
+11021,11009,Conversão,X
+11022,11021,Julgamento em Diligência,X
+15216,11009,Determinação de Citação,X
+12548,11009,Expedição de alvará de levantamento,X
+12068,11009,Levantamento da Suspensão ou Dessobrestamento,X
+11010,11009,Mero expediente,X
+12449,11010,expedição de alvará de levantamento,X
+11019,11009,Ordenação de entrega de autos,X
+12310,11009,Pauta,X
+12311,12310,Pedido de inclusão,X
+12313,12310,Pedido de Inclusão em Pauta de Sessão Virtual,X
+12314,12310,Pedido de Retirada de Pauta de Sessão Virtual,X
+12312,12310,Retirar pedido de inclusão,X
+11020,11009,Requisição de Informações,X
+11025,11009,Suspensão ou Sobrestamento,X
+11012,11025,Conflito de Competência,X
+11013,11025,Convenção das Partes,X
+11014,11025,Convenção das Partes para Cumprimento Voluntário da obrigação,X
+11016,11025,Exceção da Verdade,X
+11015,11025,"Exceção de Incompetência, suspeição ou Impedimento",X
+15238,11025,Homologação de Acordo ou Transação,X
+11017,11025,Incidente de Insanidade Mental,X
+15009,11025,Por Impedimento ou Suspeição,X
+11018,11025,Recebimento de Embargos à Execução,X
+193,1,Julgamento,X
+385,193,Com Resolução do Mérito,X
+11877,385,Absolvição sumária - crimes dolosos contra a vida,X
+11876,385,Absolvição Sumária do art. 397-CPP,X
+198,385,Acolhimento de Embargos de Declaração,X
+871,385,Acolhimento em parte de Embargos de Declaração,X
+12615,385,Composição Civil,X
+210,385,Concessão,X
+443,210,Habeas corpus,X
+12475,210,Habeas Corpus de ofício,X
+444,210,Habeas data,X
+12041,210,Recuperação judicial,X
+10965,210,Remissão a Adolescente Infrator,X
+442,210,Segurança,X
+214,385,Concessão em Parte,X
+451,214,Habeas corpus,X
+452,214,Habeas data,X
+450,214,Segurança,X
+12326,385,Consulta,X
+12327,12326,Respondida,X
+12328,12326,Respondida em parte,X
+900,385,Declaração de competência em conflito,X
+202,385,Decretação de falência,X
+212,385,Denegação,X
+447,212,Habeas corpus,X
+448,212,Habeas data,X
+446,212,Segurança,X
+196,385,Extinção da execução ou do cumprimento da sentença,X
+973,385,Extinção da Punibilidade ou da Pena,X
+1043,973,"Anistia, graça ou indulto",X
+12616,973,Composição Civil dos Danos,X
+1050,973,Cumprimento da Pena,X
+11411,973,Cumprimento da suspensão condicional do processo,X
+12735,973,Cumprimento de ANPP,X
+12028,973,Cumprimento de transação penal,X
+11879,973,Decadência ou perempção,X
+15322,973,Extinção da Pena - Cumprimento de Sursis,X
+1042,973,Morte do agente,X
+1049,973,Pagamento integral do débito,X
+1048,973,Perdão judicial,X
+11878,973,Prescrição,X
+1045,973,"Prescrição, decadência ou perempção",X
+1046,973,Renúncia do queixoso ou perdão aceito ,X
+1047,973,Retratação do agente,X
+1044,973,Retroatividade de lei,X
+15252,385,Extinção do processo de execução de medida socioeducativa em razão da perda do caráter pedagógico,X
+10964,385,Extinção por Cumprimento de Medida Sócio-Educativa,X
+14099,385,Homologação de Acordo em Execução ou em Cumprimento de Sentença,X
+12187,385,Homologação de Decisão de Juiz Leigo,X
+466,385,Homologação de Transação,X
+12738,385,Homologação de Transação Penal,X
+12649,385,Homologação do Pedido,X
+220,385,Improcedência,X
+11409,385,Improcedência do pedido e improcedência do pedido contraposto,X
+11407,385,Improcedência do pedido e procedência do pedido contraposto,X
+11408,385,Improcedência do pedido e procedência em parte do pedido contraposto,X
+12450,385,impugnação à execução,X
+12453,12450,improcedência,X
+12451,12450,Procedência,X
+12452,12450,procedência parcial,X
+12650,385,Não Homologado o Pedido,X
+200,385,Não-Acolhimento de Embargos de Declaração,X
+208,385,Não-Decretação de Falência,X
+12331,385,Pedido conhecido em parte e improcedente,X
+12329,385,Pedido conhecido em parte e procedente,X
+12330,385,Pedido conhecido em parte e procedente em parte,X
+219,385,Procedência,X
+11795,385,Procedência do Pedido - Reconhecimento pelo réu,X
+15211,385,Procedência do Pedido com Aplicação de Medida Socioeducativa,X
+11403,385,Procedência do pedido e improcedência do pedido contraposto,X
+11401,385,Procedência do pedido e procedência do pedido contraposto,X
+11402,385,Procedência do pedido e procedência em parte do pedido contraposto,X
+15212,385,Procedência do Pedido sem Aplicação de Medida Socioeducativa,X
+221,385,Procedência em Parte,X
+15213,385,Procedência em Parte do Pedido com Aplicação de Medida Socioeducativa,X
+11406,385,Procedência em parte do pedido e improcedência do pedido contraposto,X
+11404,385,Procedência em parte do pedido e procedência do pedido contraposto,X
+11405,385,Procedência em parte do pedido e procedência em parte do pedido contraposto,X
+15214,385,Procedência em Parte do Pedido sem Aplicação de Medida Socioeducativa,X
+471,385,Pronúncia de Decadência ou Prescrição,X
+455,385,Renúncia ao direito pelo autor,X
+218,193,Sem Resolução de Mérito,X
+11373,218,Anulação de sentença/acórdão,X
+11396,218,Concessão de remissão a adolescente com exclusão do processo,X
+15253,218,Concessão de Remissão a Adolescente com Extinção do Processo,X
+15259,15253,Advertência,X
+15254,15253,Justiça Restaurativa,X
+15256,15253,Liberdade Assistida,X
+15257,15253,Prestação de Serviços à Comunidade,X
+15258,15253,Reparação de Dano,X
+15255,15253,Sem Medida Socioeducativa,X
+456,218,Extinção,X
+458,456,Abandono da causa,X
+464,456,Ação intransmissível,X
+15250,456,Aplicação de Pena Privativa de Liberdade ao Adolescente/Socioeducando,X
+15251,15250,Condição de Doença Grave do Adolescente/Socioeducando,X
+461,456,Ausência das condições da ação,X
+459,456,Ausência de pressupostos processuais,X
+14848,456,Ausência de Requerimento Administrativo Prévio,X
+12298,456,Cancelamento de Dívida Ativa,X
+465,456,Confusão entre autor e réu,X
+12256,456,Continência,X
+462,456,Convenção de arbitragem,X
+463,456,Desistência,X
+454,456,Indeferimento da petição inicial,X
+15249,456,Morte do Adolescente/Socioeducando,X
+457,456,Paralisação por negligência das partes,X
+12325,456,Perda do objeto,X
+460,456,"Perempção, litispendência ou coisa julgada",X
+12617,456,Renúncia,X
+15245,456,Unificação de Medida Socioeducativa,X
+15260,218,Homologada a Remissão,X
+15266,15260,Advertência,X
+15261,15260,Justiça Restaurativa,X
+15263,15260,Liberdade Assistida,X
+15264,15260,Prestação de Serviços à Comunidade,X
+15265,15260,Reparação do Dano,X
+15262,15260,Sem Medida Socioeducativa,X
+10961,218,Impronúncia,X
+15408,218,Não Conhecimento de Embargos de Declaração,X
+235,218,Não Conhecimento de recurso,X
+12458,218,Não conhecimento do habeas corpus,X
+12459,218,Prejudicado,X
+10953,218,Pronúncia,X
+12184,218,Suspensão Condicional do Processo,X
+14,,Serventuário ,X
+865,14,Arquivista,X
+870,865,Autos Eliminados,X
+869,865,Entrega definitiva dos autos,X
+866,865,Guarda Intermediária,X
+867,865,Guarda Permanente,X
+977,865,Recebimento,X
+978,865,Remessa,X
+12522,14,Auxiliar da Justiça,X
+12523,12522,Conciliador,X
+12528,12523,Conciliação,X
+12531,12528,Frutífera,X
+12532,12528,Infrutífera,X
+12608,12528,Parcial,X
+12524,12522,Juiz Leigo,X
+12533,12530,Frutífera,X
+12534,12530,Infrutífera,X
+12609,12530,Parcial,X
+12529,12524,Decisão,X
+12525,12522,Mediador,X
+12526,12525,Conciliação,X
+12535,12526,Frutífera,X
+12536,12526,Infrutífera,X
+12610,12526,Parcial,X
+12527,12525,Mediação,X
+12540,12527,Frutífera,X
+12539,12527,Infrutífera,X
+12611,12527,Parcial,X
+15,14,Contador,X
+16,15,Cálculo,X
+480,16,Atualização de conta,X
+478,16,Cálculo de Liquidação,X
+479,16,Custas,X
+481,16,Tributos,X
+979,15,Recebimento,X
+980,15,Remessa,X
+18,14,Distribuidor,X
+12297,18,Atribuição de competência,X
+22,18,Baixa Definitiva,X
+488,18,Cancelamento de Distribuição,X
+26,18,Distribuição,X
+981,18,Recebimento,X
+36,18,Redistribuição,X
+12296,18,Registro Processual,X
+982,18,Remessa,X
+48,14,Escrivão/Diretor de Secretaria/Secretário Jurídico,X
+135,48,Apensamento,X
+861,48,Arquivamento,X
+14998,861,Arquivamento Provisório - Adolescente Aguardando Apreensão,X
+14997,861,Arquivamento Provisório - Aguardando Captura de Réu Condenado,X
+246,861,Definitivo,X
+245,861,Provisório,X
+12292,48,Ato cumprido pela parte ou interessado,X
+12293,12292,Ato cumprido pela parte ou interessado (sem atributo),X
+12294,12292,Comparecimento do Réu/Apenado,X
+12295,12292,Depósito de Bens/Dinheiro,X
+11383,48,Ato ordinatório,X
+970,48,Audiência,X
+12739,970,Admonitória,X
+15050,970,Audiência Concentrada Infracional,X
+15049,970,Audiência Concentrada Protetiva,X
+15045,970,Audiência de Apresentação de Adolescente,X
+15188,970,Audiência de Depoimento Especial,X
+12624,970,Audiência do art. 334 CPC,X
+12741,970,de Acolhimento,X
+12740,970,de Conciliação,X
+12742,970,de Custódia,X
+12749,970,de Instrução,X
+12750,970,de Instrução e Julgamento,X
+12743,970,de Interrogatório,X
+12751,970,de Julgamento,X
+12744,970,de Justificação,X
+12752,970,de Mediação,X
+12745,970,do art. 16 da Lei 11.340,X
+12746,970,em Execução,X
+12753,970,Preliminar,X
+12260,48,Autos restaurados,X
+1052,48,Bens Apreendidos,X
+1055,1052,Cadastramento,X
+1053,1052,Destinação,X
+1054,1052,Destinação Parcial,X
+12289,48,Cancelamento,X
+15168,12289,"De Liquidação, Cumprimento de Sentença ou Execução por Nulidade da Fase de Conhecimento ",X
+12290,12289,Documento Expedido,X
+12291,12289,Movimentação processual,X
+12186,48,Cancelamento de Distribuição,X
+12284,48,Citação,X
+12286,12284,Eletrônica,X
+12288,12286,Confirmada,X
+12287,12286,Expedida/Certificada,X
+15246,12286,Não Confirmada,X
+12285,12284,Em Secretaria/Comparecimento Espontâneo,X
+12281,48,Comunicação eletrônica,X
+12283,12281,Confirmada,X
+14961,12281,Erro ou Recusa na Comunicação,X
+12282,12281,Expedida/Certificada,X
+51,48,Conclusão,X
+14732,48,Conversão de Autos Físicos em Eletrônicos,X
+15186,48,Cooperação Judiciária,X
+12276,48,Cumprimento da pena,X
+12278,12276,Fim,X
+12277,12276,Início,X
+12280,12276,Interrupção,X
+12066,48,Cumprimento de Levantamento da Suspensão ,X
+12065,48,Cumprimento de Suspensão ou Sobrestamento,X
+1051,48,Decurso de Prazo,X
+137,48,Desapensamento,X
+893,48,Desarquivamento,X
+12269,48,Desentranhamento,X
+12270,12269,Documento,X
+12271,12269,Petição,X
+11008,48,Desmembramento de Feitos,X
+1061,48,Disponibilização no Diário da Justiça Eletrônico,X
+12189,48,Entrega de Documento,X
+493,48,Entrega em carga/vista,X
+14739,48,Evolução da Classe Processual,X
+14737,48,Exclusão do Juízo 100% Digital,X
+11385,48,Execução/Cumprimento de Sentença Iniciada (o),X
+60,48,Expedição de documento,X
+15000,48,Finalizada Tramitação Direta entre MP e Autoridade Policial,X
+12101,48,Inclusão do processo para julgamento eletrônico,X
+14736,48,Inclusão no Juízo 100% Digital,X
+14999,48,Iniciada Tramitação Direta entre MP e Autoridade Policial,X
+12263,48,Intimação,X
+12264,12263,Eletrônica,X
+12266,12264,Confirmada,X
+12265,12264,Expedida/certificada,X
+12267,12263,Em audiência,X
+12268,12263,Em Secretaria,X
+67,48,Juntada,X
+581,67,Documento,X
+85,67,Petição,X
+311,48,Leilão ou Praça,X
+14974,48,Levantamento da Causa Suspensiva ou de Sobrestamento,X
+15414,14974,Ação Coletiva,X
+14982,14974,Suspensão/Sobrestamento Determinada por Ação de Controle Concentrado de Constitucionalidade - STF,X
+14981,14974,Suspensão/Sobrestamento Determinada por Controvérsia,X
+14977,14974,Suspensão/Sobrestamento Determinada por Decisão do Presidente do STF - SIRDR,X
+14978,14974,Suspensão/Sobrestamento Determinada por Decisão do Presidente do STJ - SIRDR,X
+14980,14974,Suspensão/Sobrestamento Determinada por Grupo de Representativos,X
+14979,14974,Suspensão/Sobrestamento Determinada por Incidente de Assunção de Competência - IAC,X
+14985,14974,Suspensão/Sobrestamento por Incidente de Resolução de Demandas Repetitivas,X
+14976,14974,Suspensão/Sobrestamento por Recurso Especial Repetitivo,X
+14975,14974,Suspensão/Sobrestamento por Recurso Extraordinário com Repercussão Geral,X
+11384,48,Liquidação iniciada,X
+15417,48,Migração de Sistema Eletrônico,X
+12143,48,Mudança de Assunto Processual,X
+12142,48,Mudança de Parte,X
+12103,48,Pauta,X
+12106,12103,Adiamento do Julgamento para a Primeira Sessão Seguinte,X
+12104,12103,Inclusão em pauta,X
+12115,12104,Para Julgamento,X
+12309,12103,Retirada,X
+14901,48,Perícia,X
+14904,14901,Agendada,X
+14906,14901,Cancelada,X
+14903,14901,Determinada/Designada,X
+14908,14901,Não Realizada,X
+14907,14901,Reagendada,X
+14905,14901,Realizada,X
+118,48,Protocolo de Petição,X
+92,48,Publicação,X
+12759,48,Realização de Procedimento Restaurativo,X
+849,48,Reativação,X
+132,48,Recebimento,X
+12623,48,Recebimento de Câmara de Conciliação/Mediação,X
+12619,48,Recebimento do CEJUSC ou Centros de Conciliação/Mediação,X
+12607,48,Recebimento negociação consumidor.gov.br,X
+12621,48,Recebimento no CEJUSC ou Centros de Conciliação/Mediação,X
+123,48,Remessa,X
+12618,48,Remessa CEJUSC,X
+12606,48,Remessa negociação consumidor.gov.br,X
+12622,48,Remessa para Câmara de Conciliação/Mediação,X
+12614,48,Remessa para o CEJUSC ou Centros de Conciliação/Mediação,X
+928,48,Republicação,X
+12165,48,Requisição de Pagamento,X
+12173,12165,Pequeno Valor,X
+12177,12173,Cancelada,X
+12174,12173,Enviada ao Tribunal,X
+12176,12173,Paga,X
+12175,12173,Preparada para Envio,X
+12178,12173,Retificada,X
+12179,12173,Suspensão,X
+12166,12165,Precatório,X
+12170,12166,Cancelada,X
+12167,12166,Enviada ao Tribunal,X
+12169,12166,Paga,X
+12168,12166,Preparada para Envio,X
+12171,12166,Retificado,X
+12172,12166,Suspensão,X
+14738,48,Retificação de Classe Processual,X
+11983,48,Retificação de movimento,X
+313,48,Sessão do Tribunal do Júri,X
+15102,48,Sessão Restaurativa,X
+848,48,Trânsito em julgado,X
+104,14,Oficial de Justiça,X
+105,104,Devolução,X
+106,105,Mandado,X
+112,105,Ofício,X
+115,104,Recebimento,X
+985,115,Mandado,X
+987,115,Ofício,X

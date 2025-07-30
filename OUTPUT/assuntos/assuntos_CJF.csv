@@ -1,0 +1,160 @@
+Código,Cód. Pai,Dispositivo legal,Artigo,Data de Publicação,Data de Alteração,Data de Inativação,Data de Reativação,nome,CJF
+9985,,,,,,,,DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO,X
+10186,9985,,,2008-09-30 15:52:52,,,,Agentes Políticos,X
+10187,10186,,,2008-09-30 15:52:52,,,,Magistratura,X
+11920,10187,,,2012-06-06 00:00:00,,,,Eleição,X
+11922,11920,,,2012-06-06 00:00:00,,,,Órgão Especial,X
+11911,10187,,,2012-06-06 00:00:00,,,,Juizados Especiais,X
+11913,11911,,,2012-06-06 00:00:00,,,,Composição de Turmas Recursais,X
+11912,11911,,,2012-06-06 00:00:00,,,,Juiz Leigo,X
+11914,10187,"Lei Complementar 35, de 1979",Art. 69,2012-06-06 00:00:00,,,,Licença,X
+11950,10187,,,2012-09-17 00:00:00,,,,Morosidade no Julgamento do Processo,X
+13254,10187,,,2020-11-04 00:00:00,,,,Permuta ,X
+11916,10187,,,2012-06-06 00:00:00,,,,Plantão Judiciário,X
+10190,10187,LC 35,art. 42,2008-09-30 15:52:52,,,,Processo Disciplinar / Sindicância,X
+10193,10187,CF; LC 35,"CF, art. 93, VIII-A; LC 35, art. 81",2008-09-30 15:52:52,,,,Remoção,X
+12379,10193,LC 35,"LC 35, art. 42, III",2018-11-12 00:00:00,,,,Remoção Compulsória,X
+10188,10187,"CF, LC 35","CF, art. 37, XI e art. 93, V; LC 35, art. 61 a 65.",2008-09-30 15:52:52,,,,Remuneração,X
+11918,10187,,,2012-06-06 00:00:00,,,,Substituição/Convocação em Tribunal,X
+11919,10187,,,2012-06-06 00:00:00,,,,Violação Prerrogativa Advogado,X
+13323,10187,,,2020-11-04 00:00:00,,,,Vitaliciamento ,X
+9997,9985,,,2008-09-30 15:52:52,,,,Atos Administrativos,X
+11899,9997,,,2012-06-06 00:00:00,,,,Ato Normativo,X
+11900,11899,,,2012-06-06 00:00:00,,,,Resolução,X
+11902,11899,,,2012-06-06 00:00:00,,,,Resolução Conjunta,X
+10370,9985,,,2008-09-30 15:52:52,,,,Concurso Público / Edital,X
+12959,10370,,,2020-11-04 00:00:00,,,,Cadastro Reserva ,X
+11909,10370,,,2012-06-06 00:00:00,,,,Concurso para servidor,X
+14202,9985,"Lei 13,709/2018",1º,2021-01-20 00:00:00,,,,Lei Geral de Proteção de Dados (LGPD),X
+14204,14202,Lei 13.709/2018,1º,2021-01-20 00:00:00,,,,Privacidade,X
+14203,14202,Lei 13.709/2018,1º,2021-01-20 00:00:00,,,,Proteção de Dados Pessoais,X
+10219,9985,,,2008-09-30 15:52:52,,,,Servidor Público Civil,X
+10287,10219,Lei 8112/90,19,2008-09-30 15:52:52,,,,Jornada de Trabalho,X
+13186,10287,,,2020-11-04 00:00:00,,,,Horas Extras ,X
+13209,10287,,,2020-11-04 00:00:00,,,,Intervalo ,X
+10250,10219,,,2008-09-30 15:52:52,,,,Pensão,X
+13295,10250,,,2020-11-04 00:00:00,,,,Revisão ,X
+899,,LICCvB,7,,,,,DIREITO CIVIL,X
+5754,899,Lei 10.406/02 (CCB),"Título I, Capítulo I",2008-09-30 15:52:52,,,,Pessoas naturais,X
+15306,5754,Resolução CNJ n. 270/2018,1º,2024-03-15 11:26:37,,,,Nome Social,X
+12480,,,,,,,,DIREITO DA SAÚDE,X
+12521,12480,,,2019-07-04 00:00:00,,,,"Doação e transplante de órgãos, tecidos ou partes",X
+12520,12480,,,2019-07-04 00:00:00,,,,Genética / Células Tronco,X
+12507,12480,,,2019-07-04 00:00:00,2019-07-04 15:54:57,,,Mental,X
+12508,12507,,,2019-07-04 00:00:00,,,,Internação compulsória,X
+12509,12507,,,2019-07-04 00:00:00,,,,Internação involuntária,X
+12510,12507,,,2019-07-04 00:00:00,,,,Internação voluntária,X
+12481,12480,,,2019-07-04 00:00:00,,,,Pública,X
+12485,12481,,,2019-07-04 00:00:00,2019-07-04 15:30:13,,,Fornecimento de insumos,X
+12498,12485,,,2019-07-04 00:00:00,,,,Cadeira de rodas / cadeira de banho / cama hospitalar,X
+12497,12485,,,2019-07-04 00:00:00,,,,Curativos/Bandagem,X
+12499,12485,,,2019-07-04 00:00:00,,,,Fraldas,X
+12484,12481,,,2019-07-04 00:00:00,,,,Fornecimento de medicamentos,X
+12496,12484,,,2019-07-04 00:00:00,,,,Oncológico,X
+12492,12484,,,2019-07-04 00:00:00,,,,Registrado na ANVISA,X
+12495,12492,,,2019-07-04 00:00:00,,,,Não padronizado,X
+12494,12492,,,2019-07-04 00:00:00,,,,Padronizado,X
+12493,12484,,,2019-07-04 00:00:00,,,,Sem registro na ANVISA,X
+12483,12481,,,2019-07-04 00:00:00,,,,Internação/Transferência Hospitalar,X
+12505,12483,,,2019-07-04 00:00:00,,,,Leito de enfermaria / leito oncológico,X
+12506,12483,,,2019-07-04 00:00:00,,,,Unidade de terapia intensiva (UTI) / unidade de cuidados intensivos (UCI),X
+12511,12481,,,2019-07-04 00:00:00,2019-07-04 15:59:26,,,Sistema Único de Saúde (SUS),X
+12518,12511,,,2019-07-04 00:00:00,,,,Controle Social e Conselhos de Saúde,X
+12512,12511,,,2019-07-04 00:00:00,,,,Convênio médico com o SUS,X
+12513,12511,,,2019-07-04 00:00:00,,,,Financiamento do SUS,X
+12514,12511,,,2019-07-04 00:00:00,,,,Reajuste da tabela do SUS,X
+12515,12511,,,2019-07-04 00:00:00,,,,Repasse de verbas do SUS,X
+12516,12511,,,2019-07-04 00:00:00,,,,Ressarcimento do SUS,X
+12517,12511,,,2019-07-04 00:00:00,,,,Terceirização do SUS,X
+12491,12481,,,2019-07-04 00:00:00,2019-07-04 15:35:58,,,Tratamento médico-hospitalar,X
+12501,12491,,,2019-07-04 00:00:00,,,,Cirurgia,X
+12500,12491,,,2019-07-04 00:00:00,,,,Consulta,X
+12504,12491,,,2019-07-04 00:00:00,,,,Diálise/Hemodiálise,X
+12519,12481,,,2019-07-04 00:00:00,,,,Vigilância Sanitária e Epidemológica,X
+12482,12480,,,2019-07-04 00:00:00,,,,Suplementar,X
+12486,12482,,,2019-07-04 00:00:00,,,,Planos de saúde,X
+12490,12486,,,2019-07-04 00:00:00,,,,Fornecimento de insumos,X
+12487,12486,,,2019-07-04 00:00:00,,,,Fornecimento de medicamentos,X
+12488,12486,,,2019-07-04 00:00:00,,,,Reajuste contratual,X
+12489,12486,,,2019-07-04 00:00:00,,,,Tratamento médico-hospitalar,X
+11428,,,,,,,,DIREITO ELEITORAL,X
+11583,11428,,,2010-04-20 00:00:00,,,,Eleições,X
+15236,11583,Constituição Federal,14,2023-06-16 18:16:43,,,,Assédio Eleitoral,X
+6191,,,,,,,,DIREITO INTERNACIONAL,X
+15104,6191,Resolução CNJ n. 364; Recomendação CNJ n. 123,"1º e 2º, IV (Resolução 364); 1º (Recomendação 123)",2022-06-10 00:00:00,,,,Corte Interamericana de Direitos Humanos,X
+15106,15104,Resolução CNJ n. 364; Recomendação CNJ n. 123,"1º e 2º, IV (Res. 364); 1º (Rec. 123)",2022-06-10 00:00:00,,,,Medidas Provisórias da Corte Interamericana de Direitos Humanos,X
+15125,15106,Resolução CNJ n. 364; Recomendação CNJ n. 123,"1º e 2º, IV (Res. 364); 1º (Rec. 123)",2022-06-10 00:00:00,,,,"Caso da Unidade de Internação Socioeducativa, Espírito Santo",X
+15122,15106,Resolução CNJ n. 364; Recomendação CNJ n. 123,"1º e 2º, IV (Res. 364); 1º (Rec. 123)",2022-06-10 00:00:00,,,,"Caso do Complexo Penitenciário de Pedrinhas, Maranhão",X
+15123,15106,Resolução CNJ n. 364; Recomendação CNJ n. 123,"1º e 2º, IV (Res. 364); 1º (Rec. 123)",2022-06-10 00:00:00,,,,"Caso do Complexo Penitenciário do Curado, Pernambuco",X
+15124,15106,Resolução CNJ n. 364; Recomendação CNJ n. 123,"1º e 2º, IV (Res. 364); 1º (Rec. 123)",2022-06-10 00:00:00,,,,"Caso do Instituto Penal Plácido de Sá Carvalho, Rio de Janeiro",X
+15105,15104,Resolução CNJ n. 364; Recomendação CNJ n. 123,"1º e 2º, IV (Res. 364); 1º (Rec. 123)",2022-06-10 00:00:00,,,,Sentenças da Corte Interamericana de Direitos Humanos,X
+15119,15105,Resolução CNJ n. 364; Recomendação CNJ n. 123,"1º e 2º, IV (Res. 364); 1º (Rec. 123)",2022-06-10 00:00:00,,,,Caso Airton Honorato vs. Brasil,X
+15116,15105,Resolução CNJ n. 364; Recomendação CNJ n. 123,"1º e 2º, IV (Res. 364); 1º (Rec. 123)",2022-06-10 00:00:00,,,,Caso dos(as) Empregados(as) da Fábrica de Fogos de Santo Antônio de Jesus e seus Familiares vs. Brasil,X
+15109,15105,Resolução CNJ n. 364; Recomendação CNJ n. 123,"1º e 2º, IV (Res. 364); 1º (Rec. 123)",2022-06-10 00:00:00,,,,Caso Escher e Outros vs. Brasil,X
+15113,15105,Resolução CNJ n. 364; Recomendação CNJ n. 123,"1º e 2º, IV (Res. 364), 1º (Rec. 123)",2022-06-10 00:00:00,,,,Caso Favela Nova Brasília vs. Brasil,X
+15110,15105,Resolução CNJ n. 364; Recomendação CNJ n. 123,"1º e 2º, IV (Res. 364); 1º (Rec. 123)",2022-06-10 00:00:00,,,,Caso Garibaldi vs. Brasil,X
+15111,15105,Resolução CNJ n. 364; Recomendação CNJ n. 123,"1º e 2º, IV (Res. 364); 1º (Rec. 123)",2022-06-10 00:00:00,,,,"Caso Gomes Lund e Outros (""Guerrilha do Araguaia) vs. Brasil",X
+15115,15105,Resolução CNJ n. 364; Recomendação CNJ n. 123,"1º e 2º, IV (Res. 364); 1º (Rec. 123)",2022-06-10 00:00:00,,,,Caso Herzog e Outros vs. Brasil,X
+15117,15105,Resolução CNJ n. 364; Recomendação CNJ n. 123,"1º e 2º, IV (Res. 364); 1º (Rec. 123)",2022-06-10 00:00:00,,,,Caso Márcia Barbosa de Souza e Outros vs. Brasil,X
+15118,15105,Resolução CNJ n. 364; Recomendação CNJ n. 123,"1º e 2º, IV (Res. 364); 1º (Rec. 123)",2022-06-10 00:00:00,,,,Caso Neusa dos Santos Nascimento e Outra vs. Brasil,X
+15108,15105,Resolução CNJ n. 364; Recomendação CNJ n. 123,"1º e 2º, IV (Res. 364); 1] (Rec. 123)",2022-06-10 00:00:00,,,,Caso Nogueira de Carvalho e Outro vs. Brasil,X
+15114,15105,Resolução CNJ n. 364; Recomendação CNJ n. 123,"1º e 2º, IV (Res. 364); 1º (Rec. 123)",2022-06-10 00:00:00,,,,Caso Povo Indígena Xucuru e seus Membros vs. Brasil,X
+15121,15105,Resolução CNJ n. 364; Recomendação CNJ n. 123,"1º e 2º, IV (Res. 364); 1º (Rec. 123)",2022-06-10 00:00:00,,,,Caso Sales Pimenta vs. Brasil,X
+15120,15105,Resolução CNJ n. 364; Recomendação CNJ n. 123,"1º e 2º, IV (Res. 364); 1º (Rec. 123)",2022-06-10 00:00:00,,,,Caso Tavares Pereira e Outros vs. Brasil,X
+15112,15105,Resolução CNJ n. 364; Recomendação CNJ n. 123,"1º e 2º, IV (Res. 364); 1º (Rec. 123)",2022-06-10 00:00:00,,,,Caso Trabalhadores da Fazenda Brasil Verde vs. Brasil,X
+15107,15105,Resolução CNJ n. 364; Recomendação CNJ n.123,"1º e 2º, IV (Res. 364); 1º (Rec. 123)",2022-06-10 00:00:00,,,,Caso Ximenes Lopes vs. Brasil,X
+287,,,,,,,,DIREITO PENAL,X
+3523,287,CP,287,2008-09-30 15:52:52,,,,Crimes contra a Fé Pública,X
+10992,3523,Código Penal (DL 2.848/1940),311,2009-05-28 00:00:00,,,,Adulteração de Sinal Identificador de Veículo Automotor por Funcionário Público,X
+11006,3523,Código Penal,289,2009-06-08 00:00:00,,,,Crime de Desvio e/ou Circulação de Moeda Não Autorizada,X
+11007,3523,Código Penal,289,2009-06-08 00:00:00,,,,Crime de Moeda Falsa Praticado por Funcionário Público,X
+10995,3523,CP,299,2009-05-28 00:00:00,,,,Falsidade ideológica praticada por Funcionário Público,X
+10998,3523,CP,297,2009-05-28 00:00:00,2009-05-28 17:10:06,,,Falsificação de documento Público praticada por Funcionário Público,X
+11005,3523,Código Penal,293 e 295,2009-06-08 00:00:00,,,,Falsificação de Papéis Públicos Praticado por Funcionário Público,X
+11004,3523,Código Penal,296,2009-06-08 00:00:00,,,,Falsificação do Selo ou Sinal Público Praticado por Funcionário Público,X
+10993,3523,CP,294 e 295,2009-05-28 00:00:00,,,,Petrechos de Falsificação de Papéis Públicos por Funcionário Público,X
+10994,3523,CP,294 e 295,2009-05-28 00:00:00,,,,Petrechos para falsificação de moeda por Funcionário Público,X
+5875,287,CP,359-A a 359-H,2008-09-30 15:52:52,,,,Crimes Contra as Finanças Públicas,X
+10991,5875,DL 201/1967,1°,2009-05-28 00:00:00,,,,Corrupção Praticada por Prefeitos e Vereadores,X
+10990,5875,DL 201/1967,1°,2009-05-28 00:00:00,,,,Má-gestão praticada por Prefeitos e Vereadores,X
+3547,287,,,2008-09-30 15:52:52,,,,Crimes Praticados por Funcionários Públicos Contra a Administração em Geral,X
+10982,3547,Lei 9.613/1998,1°,2009-05-28 00:00:00,,,,"""Lavagem"" ou Ocultação de Bens, Direitos ou Valores Oriundos de Corrupção",X
+5872,287,Lei 6.453/77,1°,2008-09-30 15:52:52,,,,Crimes Praticados por Particular Contra a Administração em Geral,X
+10983,5872,Lei 9613/1998,1°,2009-05-28 00:00:00,,,,"""Lavagem"" ou Ocultação de Bens, Direitos ou Valores Oriundos de Corrupção",X
+5873,287,CP,arts. 337-B a 337-D,2008-09-30 15:52:52,,,,Crimes Praticados por Particular Contra a Administração Pública Estrangeira,X
+10984,5873,Lei 9.613/1998,1°,2009-05-28 00:00:00,,,,"""Lavagem"" ou Ocultação de Bens, Direitos ou Valores Oriundos de Corrupção",X
+3603,287,,,2008-09-30 15:52:52,,,,Crimes Previstos na Legislação Extravagante,X
+10985,3603,Lei 8.137/1990,3° e 12,2009-05-28 00:00:00,,,,Crimes contra a Ordem Tributária praticado por Funcionário Público,X
+3618,3603,Lei 9.605/98,Arts. 29 a 69A,2008-09-30 15:52:52,,,,Crimes contra o Meio Ambiente e o Patrimônio Genético,X
+10986,3618,Lei 9.605/1998,66 a 69-A,2009-05-28 00:00:00,,,,Crime contra a administração ambiental,X
+3607,3603,Lei 11.343/06,,2008-09-30 15:52:52,,,,Crimes de Tráfico Ilícito e Uso Indevido de Drogas,X
+10987,3607,Lei 11.343/2006,40,2009-05-28 00:00:00,,,,Tráfico Ilícito de Drogas praticado por Funcionário Público,X
+195,,,,,,,,DIREITO PREVIDENCIÁRIO,X
+6094,195,,,2008-09-30 15:52:52,,,,Benefícios em Espécie,X
+6096,6094,Lei 8.213/91; EC 20/98,Arts. 48/51;,2008-09-30 15:52:52,,,,Aposentadoria por Idade (Art. 48/51),X
+12399,6096,Leis 8.213/91 e 11.718/2008,"Art. 48, § 1º ao 4º e art. 106",2018-11-19 00:00:00,2023-09-27 16:57:39,,,Aposentadoria Híbrida (Art. 48/106),X
+8826,,,,,,,,DIREITO PROCESSUAL CIVIL E DO TRABALHO,X
+8842,8826,,,2008-09-30 15:52:52,,,,Partes e Procuradores,X
+8859,8842,CPC,119 a 138,2008-09-30 15:52:52,,,,Intervenção de Terceiros ,X
+13091,8859,,,2020-11-04 00:00:00,,,,Chamamento ao Processo ,X
+8868,8842,CPC,104 e 105,2008-09-30 15:52:52,2018-11-19 16:02:07,,,Procuração ,X
+13068,8868,,,2020-11-04 00:00:00,,,,Assinatura Eletrônica / Digital ,X
+13267,8868,,,2020-11-04 00:00:00,,,,Procurador de Entes Públicos / Autárquicos / Fundacionais ,X
+13307,8868,,,2020-11-04 00:00:00,,,,Tácito ,X
+8893,8826,,,2008-09-30 15:52:52,,,,Atos Processuais,X
+8928,8893,CPC,218 a 235,2008-09-30 15:52:52,,,,Prazo,X
+13114,8928,,,2020-11-04 00:00:00,,,,Contagem - Dias Úteis ,X
+13268,8928,,,2020-11-04 00:00:00,,,,Prorrogação ,X
+13305,8928,,,2020-11-04 00:00:00,,,,Suspensão / Interrupção ,X
+9148,8826,,,2008-09-30 15:52:52,,,,Liquidação / Cumprimento / Execução,X
+10672,9148,,,2008-09-30 15:52:52,,,,Precatório,X
+12467,,Portaria Conjunta CNJ e CNMP nº 1/2019,"2º, I a V",,,,,"QUESTÕES DE ALTA COMPLEXIDADE, GRANDE IMPACTO E REPERCUSSÃO",X
+12471,12467,Portaria Conjunta CNJ e CNMP nº 1/2019,"2º, I a V",2019-03-06 00:00:00,2023-03-31 17:15:00,,,Auditores Fiscais em Unaí,X
+12468,12467,Portaria Conjunta CNJ e CNMP nº 1/2019,"2º, I a V",2019-03-06 00:00:00,2023-03-31 17:12:50,,,Barragem em Brumadinho,X
+12470,12467,Portaria Conjunta CNJ e CNMP nº 1/2019,"2º, I a V",2019-03-06 00:00:00,2023-03-31 17:14:01,,,Barragem em Mariana,X
+12612,12467,Portaria Conjunta CNJ e CNMP nº 1/2019,"2º, I a V",2020-03-18 00:00:00,,,,COVID-19,X
+15365,12467,"Decreto Legislativo 36/2024, de 7/5/2024 e Portaria Conjunta CNJ e CNMP nº 1/2019","1° (DL 36/2024); 2º, I a V (Portaria 1/2019)",2024-05-09 14:19:38,,,,Enchentes no Rio Grande do Sul em 2024,X
+14679,12467,Portaria Conjunta CNJ e CNMP nº 1/2019,2º,2021-05-18 00:00:00,2022-06-10 16:17:03,,,Explosão da Fábrica de Fogos de Santo Antônio de Jesus/BA,X
+12469,12467,Portaria CNJ e CNMP nº 1/2019,"2º, I a V",2019-03-06 00:00:00,2023-03-31 17:11:13,,,Incêndio Boate Kiss,X
+12620,12467,Portaria Conjunta CNJ e CNMP nº 1/2019,,2020-03-26 00:00:00,,,,Migrantes e Refugiados,X
+14125,12467,Lei 13.709/2018,1º,2021-01-18 00:00:00,2021-01-20 09:15:45,,,Proteção de Dados Pessoais (LGPD),X

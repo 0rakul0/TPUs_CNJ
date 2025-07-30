@@ -1,0 +1,1357 @@
+Código,Cód. Pai,Dispositivo legal,Artigo,Data de Publicação,Data de Alteração,Data de Inativação,Data de Reativação,nome,JT1G
+12775,,,,,,,,DIREITO À EDUCAÇÃO,X
+12800,12775,,,2020-09-23 00:00:00,2021-07-14 11:40:28,,,Valorização do Magistério e dos Profissionais da Educação ,X
+12868,12800,,,2020-09-23 00:00:00,2021-07-14 11:40:48,,,Absenteísmo Docente,X
+12870,12868,,,2020-09-23 00:00:00,2021-07-14 11:41:03,,,Faltas,X
+12873,12870,CLT,"art. 320, §3º e art. 473 (CLT); Art. 44, parágrafo único (Lei 8112)",2020-09-23 00:00:00,2021-07-14 11:41:15,,,Faltas Justificadas,X
+12874,12870,,,2020-09-23 00:00:00,2021-07-14 11:41:30,,,Faltas não Justificadas,X
+12869,12868,,,2020-09-23 00:00:00,2021-07-14 11:41:39,,,Licenças,X
+12871,12869,CLT,476,2020-09-23 00:00:00,2021-07-14 11:41:49,,,Licença Saúde,X
+12872,12869,CF; CLT; Lei 8112; PNE,"art. 5º, XVIII e XIX (CF); Art. 392, art. 543, 2º e art. 611-B, XIII e XIV (CLT); Art. 81 e ss (Lei 8112); Meta 18, Estratégia 18.4 (PNE)",2020-09-23 00:00:00,2021-07-14 11:41:58,,,Outras Licenças,X
+12879,12800,,,2020-09-23 00:00:00,2021-07-14 11:42:27,,,Ensino à Distância,X
+12880,12879,,,2020-09-23 00:00:00,2021-07-14 11:42:36,,,Certificação,X
+12876,12800,Lei 8112/90; Lei 8745/93; CF; CLT,,2020-09-23 00:00:00,2021-07-14 11:42:57,,,Espécies de Vínculo de Trabalho,X
+12877,12876,CF; Lei 8745/93,"art. 37, IX (CF); Art. 2º (Lei 8.745/93)",2020-09-23 00:00:00,2021-07-14 11:43:13,,,Contrato Temporário,X
+12891,12800,LDB; PNE,art. 64 a 67 (LDB); Meta 15 (PNE),2020-09-23 00:00:00,2021-07-14 11:43:32,,,Formação,X
+12892,12891,PNE,"Meta 15, Estratégia 15.11 e 15.12, Meta 16, Estratégia 16.1 e ss (PNE)",2020-09-23 00:00:00,2021-07-14 11:43:40,,,Continuada,X
+12888,12800,CF; LDB; Lei 7.783/89,"art. 7º, VII c/c art. 39, §3º (CF); Art. 24, I, 31, II, 47 (LDB)",2020-09-23 00:00:00,2021-07-14 11:43:50,,,Greve,X
+12889,12888,,,2020-09-23 00:00:00,2021-07-14 11:44:15,,,Contrato Temporário,X
+12890,12888,,,2020-09-23 00:00:00,2021-07-14 11:44:24,,,Outros,X
+12866,12800,CF; CLT; LDB,"art. 7, XIII e ss (CF); Art. 318 e ss (CLT); Art. 24 (LDB)",2020-09-23 00:00:00,2021-07-14 11:44:38,,,Jornada de Trabalho,X
+12867,12866,"LDB, Lei 11.738","art. 13, V e 67, V (LDB); Art. 2 §4º (Lei 11738)",2020-09-23 00:00:00,2021-07-14 11:45:08,,,Carga Horária de Aulas/Processo de Atribuição de Aulas e Classes,X
+12885,12800,CLT,art. 317 e ss e art. 322,2020-09-23 00:00:00,2021-07-14 11:46:06,,,Remuneração,X
+12887,12885,CF; LDB; PNE; Lei 11.738/2008,"art. 206 (CF); Art. 67, III (LDB); Meta 17, Estratégias 17.1 e 17.4 e Meta 18 (PNE); Art. 1 e 2 (Lei 11.738)",2020-09-23 00:00:00,2021-07-14 11:46:15,,,Piso Salarial,X
+9985,,,,,,,,DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO,X
+10186,9985,,,2008-09-30 15:52:52,,,,Agentes Políticos,X
+10187,10186,,,2008-09-30 15:52:52,,,,Magistratura,X
+10189,10187,LC 35,art. 29,2008-09-30 15:52:52,,,,Afastamento,X
+10191,10187,LC 35,art. 50,2008-09-30 15:52:52,,,,Aposentadoria,X
+14065,10187,,,2020-11-18 00:00:00,2020-11-18 14:39:15,,,Permuta,X
+13254,10187,,,2020-11-04 00:00:00,,,,Permuta ,X
+10190,10187,LC 35,art. 42,2008-09-30 15:52:52,,,,Processo Disciplinar / Sindicância,X
+10192,10187,"CF, LC 35","CF, art. 93, II, III, IV; LC 35, art.80",2008-09-30 15:52:52,,,,Promoção,X
+13323,10187,,,2020-11-04 00:00:00,,,,Vitaliciamento ,X
+9997,9985,,,2008-09-30 15:52:52,,,,Atos Administrativos,X
+10894,9997,CF,"5º, LXIX",2008-09-30 15:52:52,,,,Abuso de Poder,X
+10015,9997,,,2008-09-30 15:52:52,,,,Fiscalização,X
+10928,10015,,,2008-09-30 15:52:52,,,,Competência do Órgão Fiscalizador,X
+13111,10015,,,2020-11-04 00:00:00,,,,Conselhos Regionais de Fiscalização Profissional e Afins ,X
+10019,10015,,,2008-09-30 15:52:52,,,,Segurança e Medicina do Trabalho,X
+10011,9997,Lei 8.429/92,,2008-09-30 15:52:52,,,,Improbidade Administrativa,X
+10012,10011,L 8.429/1992,10,2008-09-30 15:52:52,,,,Dano ao Erário,X
+10013,10011,L 8.429/1992,9º,2008-09-30 15:52:52,,,,Enriquecimento ilícito,X
+10014,10011,L 8.429/1992,11,2008-09-30 15:52:52,2022-03-23 13:07:55,,,Violação dos Princípios Administrativos,X
+10022,9997,,,2008-09-30 15:52:52,,,,Infração Administrativa,X
+10025,10022,,,2008-09-30 15:52:52,,,,Apreensão,X
+10024,10022,,,2008-09-30 15:52:52,,,,Interdição,X
+10023,10022,,,2008-09-30 15:52:52,,,,Multas e demais Sanções,X
+10009,9997,,,2008-09-30 15:52:52,,,,Inquérito / Processo / Recurso Administrativo,X
+9998,9997,,,2008-09-30 15:52:52,,,,Licenças,X
+10006,9998,,,2008-09-30 15:52:52,,,,Funcionamento de Estabelecimentos Empresariais,X
+10020,9997,NR 29; Portaria 53/97,,2008-09-30 15:52:52,,,,Registro de Trabalho Portuário/Órgão de Gestão de Mão-de-Obra,X
+10370,9985,,,2008-09-30 15:52:52,,,,Concurso Público / Edital,X
+10382,10370,Lei 8112/90,arts. 10 a 15,2008-09-30 15:52:52,,,,Anulação,X
+10379,10370,8.112/90,arts. 10 a 15,2008-09-30 15:52:52,,,,Anulação e Correção de Provas / Questões,X
+12959,10370,,,2020-11-04 00:00:00,,,,Cadastro Reserva ,X
+10381,10370,CF,"37, IV",2008-09-30 15:52:52,,,,Classificação e/ou Preterição,X
+10384,10370,Lei 8112/90,arts. 10 a 15,2008-09-30 15:52:52,,,,Condições Especiais para Prestação de Prova,X
+10377,10370,Lei 8112/90,arts. 10 a 15,2008-09-30 15:52:52,,,,Curso de Formação,X
+10380,10370,Lei 8112/90,"art. 5º, IV",2008-09-30 15:52:52,,,,Escolaridade,X
+10376,10370,Lei 8112/90,"art. 5º, IVI, art. 14",2008-09-30 15:52:52,,,,Exame de Saúde e/ou Aptidão Física,X
+10378,10370,,,2008-09-30 15:52:52,,,,Exame Psicotécnico / Psiquiátrico,X
+10374,10370,CF,"Art. 93, I; 129, § 3º",2008-09-30 15:52:52,,,,Exigência de Prática Forense,X
+10372,10370,Lei 8112/90,,2008-09-30 15:52:52,,,,Inscrição / Documentação,X
+10373,10370,Lei 8112/90,"art. 5º, V",2008-09-30 15:52:52,,,,Limite de Idade,X
+10383,10370,"CFCF, Lei 8112/90","CF, art. 37, III; Lei 8112/90, art. 12",2008-09-30 15:52:52,,,,Prazo de Validade,X
+10375,10370,CF,"37, II",2008-09-30 15:52:52,,,,Prova de Títulos,X
+10371,10370,"CF, Lei 8112/90","CF, art. 37, VIII; Lei 8112/90, art. 5º, § 2º",2008-09-30 15:52:52,2022-11-29 15:41:10,,,Reserva de Vagas para Pessoas com Deficiência,X
+10421,9985,,,2008-09-30 15:52:52,,,,Contratos Administrativos,X
+10423,10421,Lei 8.666/93,59,2008-09-30 15:52:52,,,,Anulação,X
+10430,10421,Lei 8.666/93,"art. 57, § 1º, I a II, art. 58, § 2º",2008-09-30 15:52:52,,,,Equilíbrio Financeiro,X
+10429,10421,Lei 8.666/93,arts.66 a 76,2008-09-30 15:52:52,,,,Execução Contratual,X
+10422,10421,Lei 8.666/93,"art. 78, XV",2008-09-30 15:52:52,,,,Pagamento Atrasado / Correção Monetária,X
+10428,10421,Lei 8.666/93,"arts. 80 a 83, 86 a 88.",2008-09-30 15:52:52,,,,Penalidades,X
+10426,10421,Lei 8.666/93,"art. 57, §§ 1º, 2º, 4º",2008-09-30 15:52:52,,,,Prorrogação,X
+10425,10421,Lei 8.666/93,"art. 58, II, art.78 a 79",2008-09-30 15:52:52,,,,Rescisão,X
+10424,10421,Lei 8.666/93,"art. 78, XIV, XV",2008-09-30 15:52:52,,,,Suspensão,X
+10427,10421,Lei 8.666/93,"arts. 60, 65, § 6º",2008-09-30 15:52:52,,,,Termo Aditivo,X
+10645,9985,,,2008-09-30 15:52:52,,,,Controle de Constitucionalidade,X
+10889,10645,,,2008-09-30 15:52:52,,,,Efeitos da Declaração de Inconstitucionalidade,X
+10646,10645,,,2008-09-30 15:52:52,,,,Inconstitucionalidade Material,X
+10394,9985,,,2008-09-30 15:52:52,,,,Dívida Ativa não-tributária,X
+10402,10394,Lei 10406/02,art. 286 a 298,2008-09-30 15:52:52,,,,Cessão de créditos não-tributários,X
+10395,10394,Lei 4320/64,"art. 39, §§ 3º e 4º",2008-09-30 15:52:52,,,,Multas e demais Sanções,X
+10396,10395,,,2008-09-30 15:52:52,,,,Ambiental,X
+10399,10395,,,2008-09-30 15:52:52,,,,Profissional,X
+10400,10395,,,2008-09-30 15:52:52,,,,Segurança e/ou Medicina do Trabalho,X
+10088,9985,,,2008-09-30 15:52:52,,,,Domínio Público,X
+10089,10088,,,2008-09-30 15:52:52,,,,Bens Públicos,X
+10096,10089,CPC,"art. 461, § 5º",2008-09-30 15:52:52,,,,Bloqueio de Valores de Contas Públicas,X
+11870,10089,,,2011-10-05 00:00:00,,,,Utilização de bens públicos,X
+10097,10088,,,2008-09-30 15:52:52,,,,Imóvel Funcional,X
+10098,10097,,,2008-09-30 15:52:52,,,,Alienação,X
+10099,10097,,,2008-09-30 15:52:52,,,,Ocupação,X
+10100,10097,,,2008-09-30 15:52:52,,,,Reintegração de Posse,X
+10101,10097,,,2008-09-30 15:52:52,,,,Taxa de Ocupação,X
+10409,9985,CF,37,2008-09-30 15:52:52,,,,Empregado Público / Temporário,X
+10411,10409,CF,37,2008-09-30 15:52:52,,,,Admissão / Permanência / Despedida,X
+10410,10409,Lei 8745/93 e Lei 9849/99,arts. 1º e segs.,2008-09-30 15:52:52,,,,Contrato Temporário de Mão de Obra L 8.745/1993,X
+9986,9985,,,2008-09-30 15:52:52,,,,Garantias Constitucionais,X
+11848,9986,CRFB,"23, VIII; 200, VI; 208, VII; 212, § 4º e 227",2011-10-05 00:00:00,,,,Alimentação,X
+9988,9986,,,2008-09-30 15:52:52,,,,Anistia Política,X
+11847,9986,,,2011-10-05 00:00:00,2014-02-18 10:20:19,,,Assistência Social,X
+11845,9986,,,2011-10-05 00:00:00,,,,Comunicação Social,X
+11846,9986,,,2011-10-05 00:00:00,,,,Moradia,X
+11849,9986,,,2011-10-05 00:00:00,,,,Não Discriminação,X
+11842,9986,,,2011-10-05 00:00:00,,,,Pessoa Idosa,X
+11843,9986,,,2011-10-05 00:00:00,,,,Pessoas com deficiência,X
+10587,9986,,,2008-09-30 15:52:52,,,,Proteção da Intimidade e Sigilo de Dados,X
+14202,9985,"Lei 13,709/2018",1º,2021-01-20 00:00:00,,,,Lei Geral de Proteção de Dados (LGPD),X
+14204,14202,Lei 13.709/2018,1º,2021-01-20 00:00:00,,,,Privacidade,X
+14203,14202,Lei 13.709/2018,1º,2021-01-20 00:00:00,,,,Proteção de Dados Pessoais,X
+10385,9985,L 8.666/1993,,2008-09-30 15:52:52,,,,Licitações ,X
+10393,10385,Lei 8666/93,"art. 43, VI",2008-09-30 15:52:52,,,,Adjudicação,X
+10392,10385,L 8.666/1993,"24, XXVI; 116 e segs.",2008-09-30 15:52:52,,,,Convênio,X
+10388,10385,Lei 8.666/93,21,2008-09-30 15:52:52,,,,Edital,X
+10387,10385,L 8.666/1993,art. 27 a 53,2008-09-30 15:52:52,,,,Habilitação / Registro Cadastral / Julgamento / Homologação,X
+10386,10385,Lei 8.666/93,art. 20 a 26,2008-09-30 15:52:52,2021-01-18 10:11:23,,,Modalidade / Limite,X
+10391,10385,Lei 8.666/93,109,2008-09-30 15:52:52,,,,Recursos Administrativos,X
+10389,10385,Lei 8.666/93,49,2008-09-30 15:52:52,,,,Revogação,X
+10390,10385,Lei 8.666/93,art. 86 a 88,2008-09-30 15:52:52,,,,Sanções Administrativas,X
+10324,9985,,,2008-09-30 15:52:52,,,,Militar,X
+10337,10324,,,2008-09-30 15:52:52,,,,Sistema Remuneratório e Benefícios,X
+14141,10337,Lei 8.112/1990,45 e 46,2021-01-18 00:00:00,,,,Descontos Indevidos,X
+10954,9985,,,2008-09-30 15:52:52,,,,Orçamento,X
+10958,10954,CF,"art. 165, § 8º",2008-09-30 15:52:52,,,,Crédito Suplementar,X
+10955,10954,CF,art. 165 a 169,2008-09-30 15:52:52,,,,Criação de Dotação Orçamentária,X
+10956,10954,CF,art. 168,2008-09-30 15:52:52,,,,Repasse de Duodécimos,X
+10957,10954,CF,"art. 169, § 2º",2008-09-30 15:52:52,,,,Repasse de Verbas Públicas,X
+10219,9985,,,2008-09-30 15:52:52,,,,Servidor Público Civil,X
+10254,10219,CF1988,40,2008-09-30 15:52:52,,,,Aposentadoria,X
+10256,10254,L 8.112/1990,186 II e 187,2008-09-30 15:52:52,,,,Compulsória,X
+10878,10254,CF,"art. 40, § 4º e § 5º",2008-09-30 15:52:52,,,,Especial,X
+10255,10254,L 8.112/1990,"186, I e § 1º.",2008-09-30 15:52:52,,,,Invalidez Permanente,X
+10257,10254,L 8.112/1990,186 III,2008-09-30 15:52:52,,,,Voluntária,X
+10695,10219,,,2008-09-30 15:52:52,,,,Categorias Especiais de Servidor Público,X
+10698,10695,,,2008-09-30 15:52:52,,,,Serventuários da Justiça,X
+10287,10219,Lei 8112/90,19,2008-09-30 15:52:52,,,,Jornada de Trabalho,X
+13186,10287,,,2020-11-04 00:00:00,,,,Horas Extras ,X
+13209,10287,,,2020-11-04 00:00:00,,,,Intervalo ,X
+10258,10219,,,2008-09-30 15:52:52,,,,Licenças / Afastamentos,X
+10273,10258,L 8.112/1990,84,2008-09-30 15:52:52,,,,Acompanhamento de Cônjuge ou Companheiro,X
+10272,10258,L 8.112/1990,97 II,2008-09-30 15:52:52,,,,Alistamento / Serviço Eleitoral,X
+10270,10258,L 8.112/1990,209,2008-09-30 15:52:52,,,,Amamentação,X
+10267,10258,L 8.112/1990,81 IV,2008-09-30 15:52:52,,,,Atividade Política,X
+10268,10258,L 8.112/1990,97 III a,2008-09-30 15:52:52,,,,Casamento,X
+10259,10258,L 8.112/1990,102 VII c,2008-09-30 15:52:52,,,,Dirigente Sindical,X
+10271,10258,L 8.112/1990,97 I,2008-09-30 15:52:52,,,,Doação de Sangue,X
+13144,10258,,,2020-11-04 00:00:00,2021-01-20 09:37:57,,,Doença do Próprio Empregado ,X
+10262,10258,L 8.112/1990,"81, I; 83",2008-09-30 15:52:52,,,,Doença em Pessoa da Família,X
+10274,10258,L 8.112/1990,18,2008-09-30 15:52:52,,,,Exercício em Outro Município,X
+10264,10258,L 8.112/1990,102 VIII a,2008-09-30 15:52:52,,,,Gestante / Adotante / Paternidade,X
+10265,10258,L 8.112/1990,"81, VI; 91",2008-09-30 15:52:52,,,,Interesse Particular,X
+10260,10258,L 8.112/190,"81, V; 87",2008-09-30 15:52:52,,,,Licença Capacitação (Aperfeiçoamento Profissional),X
+10275,10258,L 8.112/1990,"185, I, f; 211 a 214",2008-09-30 15:52:52,,,,Licença por Acidente em Serviço,X
+10261,10258,L 8.112/1990,81 V (revogado),2008-09-30 15:52:52,,,,Licença-Prêmio,X
+10700,10261,,,2008-09-30 15:52:52,,,,Contagem em Dobro,X
+10701,10261,,,2008-09-30 15:52:52,,,,Pagamento em Pecúnia,X
+10269,10258,L 8.112/1990,"97, III, b",2008-09-30 15:52:52,,,,Luto,X
+10266,10258,L 8.112/1990,"81, III",2008-09-30 15:52:52,,,,Serviço Militar,X
+10263,10258,L 8.112/1990,"102, VIII, b",2008-09-30 15:52:52,,,,Tratamento da Própria Saúde,X
+10250,10219,,,2008-09-30 15:52:52,,,,Pensão,X
+10252,10250,Lei 8112/90,art. 215,2008-09-30 15:52:52,,,,Concessão,X
+10251,10250,L 8.112/1990,221,2008-09-30 15:52:52,,,,Provisória,X
+10253,10250,Lei 8112/90,arts. 215 a 225,2008-09-30 15:52:52,,,,Restabelecimento,X
+13295,10250,,,2020-11-04 00:00:00,,,,Revisão ,X
+10279,10219,,,2008-09-30 15:52:52,,,,Processo Administrativo Disciplinar ou Sindicância,X
+10281,10279,Lei 8112/90,"Art. 127, I, 129",2008-09-30 15:52:52,,,,Advertência,X
+10280,10279,L 8.112/1990,33 II,2008-09-30 15:52:52,,,,Demissão ou Exoneração,X
+10283,10279,CF,"Art. 37, § 6º",2008-09-30 15:52:52,,,,Responsabilidade Civil do Servidor Público / Indenização ao Erário,X
+10282,10279,Lei 8112/90,"Art. 127, II, 130",2008-09-30 15:52:52,,,,Suspensão,X
+10313,10219,CF,"art. 37, X",2008-09-30 15:52:52,,,,"Reajustes de Remuneração, Proventos ou Pensão",X
+10946,10313,,,2008-09-30 15:52:52,,,,Correção Monetária de Diferenças Pagas em Atraso,X
+10220,10219,CF,39,2008-09-30 15:52:52,,,,Regime Estatutário,X
+10225,10220,CF; Lei 8.112/90,"CF, art. 37, XVI; Lei 8.112/90, art. 118 a 120",2008-09-30 15:52:52,,,,Acumulação de Cargos,X
+10231,10220,Lei 8.878/94,1º,2008-09-30 15:52:52,,,,Anistia Administrativa,X
+10227,10220,CF,"37, VII",2008-09-30 15:52:52,,,,Direito de Greve,X
+10234,10220,CF,41,2008-09-30 15:52:52,,,,Disponibilidade / Aproveitamento,X
+10223,10220,Lei 8.112/90,243,2008-09-30 15:52:52,,,,Enquadramento,X
+10222,10220,CF,41,2008-09-30 15:52:52,,,,Estabilidade,X
+10238,10220,CF,41,2008-09-30 15:52:52,,,,Estágio Probatório,X
+10241,10220,L 8.112/1990,"33 I,; 15 § 2º; 34",2008-09-30 15:52:52,2020-11-04 16:14:44,,,Exoneração ou Demissão,X
+10235,10220,Lei 8112/90,"arts. 20, § 3º; 37, § 1º; 93, §7º",2008-09-30 15:52:52,,,,Lotação,X
+10881,10220,Lei 8.112/90,117,2008-09-30 15:52:52,,,,Nepotismo,X
+10239,10220,CF ; Lei 8.112/90,"37, II; 9º (lei 8.112/90)",2008-09-30 15:52:52,,,,Nomeação,X
+10693,10239,,,2008-09-30 15:52:52,,,,Cargo em Comissão,X
+10240,10220,Lei 8112/90,art. 13 a 20,2008-09-30 15:52:52,,,,Posse e Exercício,X
+10236,10220,Lei 8112/90,art. 17,2008-09-30 15:52:52,,,,Promoção / Ascensão,X
+10237,10220,Lei 8.112/90,24,2008-09-30 15:52:52,,,,Readaptação,X
+10224,10220,L 8.112/1990,29,2008-09-30 15:52:52,,,,Recondução,X
+10233,10220,L 8.112/1990,37,2008-09-30 15:52:52,,,,Redistribuição,X
+10230,10220,CF; Lei 8.112/90,"CF, art. 40; Lei 8112/90, art. 183 e segs.",2008-09-30 15:52:52,,,,Regime Previdenciário,X
+10226,10220,L 8.112/1990,28,2008-09-30 15:52:52,2020-11-04 16:15:26,,,Reintegração ou Readmissão,X
+10229,10220,Lei 8.112/90,36,2008-09-30 15:52:52,,,,Remoção,X
+10232,10220,L 8.112/1990,25 a 27,2008-09-30 15:52:52,,,,Reversão,X
+10228,10220,Lei 8112/90,"arts. 8º, VI, 25, 27",2008-09-30 15:52:52,,,,Transferência,X
+10288,10219,,,2008-09-30 15:52:52,,,,Sistema Remuneratório e Benefícios,X
+10662,10288,CF,"Art. 40, § 19",2008-09-30 15:52:52,,,,Abono de Permanência,X
+10294,10288,Lei 8112/90,Art. 78,2008-09-30 15:52:52,,,,Abono Pecuniário (Art. 78 Lei 8.112/1990),X
+10638,10288,Lei 8112/90,art. 118,2008-09-30 15:52:52,,,,Acumulação de Proventos,X
+10730,10288,,,2008-09-30 15:52:52,,,,Adicional de Desempenho,X
+10293,10288,Lei 8112/90,71,2008-09-30 15:52:52,,,,Adicional de Fronteira,X
+10303,10288,Lei 8.112/90,"Art. 61, V; 73 e 74",2008-09-30 15:52:52,,,,Adicional de Horas Extras,X
+10291,10288,Lei 8.112/90,"Arts. 61, IV; 68 e 69",2008-09-30 15:52:52,,,,Adicional de Insalubridade,X
+10875,10291,Lei 8270/91,Art. 12,2008-09-30 15:52:52,,,,Base de Cálculo,X
+10292,10288,Lei 8.112/90,"Arts. 61, IV; 68 e 69",2008-09-30 15:52:52,,,,Adicional de Periculosidade,X
+10309,10288,,,2008-09-30 15:52:52,,,,Adicional de Produtividade,X
+13052,10288,,,2020-11-04 00:00:00,,,,Adicional de Qualificação ,X
+10308,10288,Lei 8.112/90,"61,VI e 75",2008-09-30 15:52:52,,,,Adicional de Serviço Noturno,X
+10302,10288,L 8.112/1990,"61 III, 67 § único",2008-09-30 15:52:52,,,,Adicional por Tempo de Serviço,X
+10893,10302,,,2008-09-30 15:52:52,,,,Base de Cálculo,X
+10244,10288,L 8.112/1990,230,2008-09-30 15:52:52,,,,Assistência à Saúde,X
+10245,10288,L 8.069/1990; D 977/1993,"54, IV; 1º segs.",2008-09-30 15:52:52,,,,Assistência Pré-escolar,X
+13079,10288,,,2020-11-04 00:00:00,,,,Auxílio Moradia ,X
+10304,10288,Lei 8112/90,"art. 61, VIII",2008-09-30 15:52:52,,,,Auxílio-Alimentação,X
+10248,10288,L 8.112/1990,"185 II b, 226 a 228",2008-09-30 15:52:52,,,,Auxílio-Funeral,X
+10246,10288,L 8.112/1990,"185, I, b; 196",2008-09-30 15:52:52,,,,Auxílio-Natalidade,X
+10247,10288,L 8.112/1990,"185 II c, 229",2008-09-30 15:52:52,,,,Auxílio-Reclusão,X
+10306,10288,Lei 8112/90,"arts. 51, III, 60",2008-09-30 15:52:52,,,,Auxílio-transporte,X
+10300,10288,Lei 7238/84,arts. 1º a 15,2008-09-30 15:52:52,,,,Data Base,X
+10296,10288,Lei 8112/90,arts. 45 e 46,2008-09-30 15:52:52,,,,Descontos Indevidos,X
+10298,10288,L 8.112/1990,51,2008-09-30 15:52:52,,,,Diárias e Outras Indenizações,X
+10301,10288,Lei 8112/90,art. 77,2008-09-30 15:52:52,,,,Férias,X
+10290,10288,Lei 10.187/01,arts. 1º a 8º,2008-09-30 15:52:52,,,,Gratificação de Incentivo,X
+10295,10288,Lei 8112/90; Lei 9624/98,"Lei 8112/90, art. 62, §§ 2º e 5º; Lei 9624/98, arts. 2º e 3º",2008-09-30 15:52:52,,,,Gratificação Incorporada / Quintos e Décimos / VPNI,X
+10310,10288,Lei 8112/90,"arts. 61, II, 63 a 66.",2008-09-30 15:52:52,,,,Gratificação Natalina/13º salário,X
+10289,10288,Lei 8112/90,Art. 61,2008-09-30 15:52:52,,,,Gratificações da Lei 8.112/1990,X
+10305,10288,,,2008-09-30 15:52:52,,,,Gratificações de Atividade,X
+10718,10288,,,2008-09-30 15:52:52,,,,Gratificações Por Atividades Específicas,X
+10323,10288,Lei 8112/90,art. 197,2008-09-30 15:52:52,,,,Inclusão de Dependente,X
+10311,10288,CF,"art. 37, XV",2008-09-30 15:52:52,,,,Irredutibilidade de Vencimentos,X
+10221,10288,CF,"Art. 37, XIII",2008-09-30 15:52:52,,,,Isonomia/Equivalência Salarial,X
+10699,10221,,,2008-09-30 15:52:52,,,,Extensão de Vantagem aos Inativos,X
+10312,10288,Lei 11.494/07; Lei 11.738/08,"Lei 11.494/07, art. 41; Lei 11.738/08, arts. 1º a 6º",2008-09-30 15:52:52,,,,Piso Salarial,X
+10299,10288,Lei 5645/1970,arts. 1º a 15,2008-09-30 15:52:52,,,,Plano de Classificação de Cargos,X
+11858,10288,,,2011-10-05 00:00:00,,,,Recebimento de bolsa de estudos,X
+10307,10288,CF,"art. 37, X",2008-09-30 15:52:52,,,,"Revisão Geral Anual (Mora do Executivo - inciso X, art. 37, CF 1988)",X
+10249,10288,L 8.112/1990,"185 I c, 197 a 201",2008-09-30 15:52:52,,,,Salário-Família,X
+10497,10288,CF,"art. 37, XI",2008-09-30 15:52:52,,,,Subsídios,X
+10705,10288,,,2008-09-30 15:52:52,,,,Subteto Salarial,X
+10297,10288,L 8.112/1990,42,2008-09-30 15:52:52,,,,Teto Salarial,X
+10276,10219,,,2008-09-30 15:52:52,,,,Tempo de Serviço,X
+10277,10276,Lei 8213/91,Arts. 55 e 57,2008-09-30 15:52:52,,,,Averbação / Contagem de Tempo Especial,X
+10278,10276,CF,"Art. 201, § 9º",2008-09-30 15:52:52,,,,Averbação / Contagem Recíproca,X
+12734,,,,,,,,DIREITO ASSISTENCIAL,X
+12754,12734,Lei 13.982/2020,2º,2020-06-22 00:00:00,,,,Auxílio Emergencial (Lei 13.982/2020),X
+899,,LICCvB,7,,,,,DIREITO CIVIL,X
+12935,899,,,2020-11-04 00:00:00,2021-01-20 09:40:40,,,Bem de Família Legal,X
+12937,899,,,2020-11-04 00:00:00,,,,Direitos da Personalidade ,X
+7947,899,Lei 10406/02,arts. 104 a 232,2008-09-30 15:52:52,,,,Fatos Jurídicos,X
+4701,7947,Lei 10406/02,arts. 104 a 184,2008-09-30 15:52:52,,,,Ato / Negócio Jurídico,X
+4703,4701,Lei 10406/02,Arts. 138 a 184,2008-09-30 15:52:52,,,,"Defeito, nulidade ou anulação",X
+4706,4701,Lei 10406/02,arts. 441 a 457,2008-09-30 15:52:52,,,,Evicção ou Vicio Redibitório,X
+5632,7947,Lei 10406/02,arts. 189 a 211,2008-09-30 15:52:52,,,,Prescrição e Decadência,X
+14205,899,Lei 13.709/2018,1º,2021-01-20 00:00:00,,,,Lei Geral de Proteção de Dados (LGPD),X
+14207,14205,Lei 13.709/2018,1º,2021-01-20 00:00:00,,,,Privacidade,X
+14206,14205,"Lei 13,709/2018",1º,2021-01-20 00:00:00,,,,Proteção de Dados Pessoais,X
+7681,899,,,2008-09-30 15:52:52,,,,Obrigações,X
+7690,7681,,,2008-09-30 15:52:52,,,,Adimplemento e Extinção,X
+7709,7690,Lei 10406/02,368 a 380,2008-09-30 15:52:52,,,,Compensação,X
+7710,7690,Lei nº 10.406/02 (Código Civil),-arts. 381 a 384,2008-09-30 15:52:52,,,,Confusão,X
+7707,7690,Lei nº 10.406/02 (Código Civil),arts. 356 a 359,2008-09-30 15:52:52,,,,Dação em Pagamento,X
+10592,7690,Lei 0820/03,arts. 1º a 7º,2008-09-30 15:52:52,,,,Desconto em folha de pagamento,X
+7706,7690,Lei nº 10.406/02 (Código Civil),arts. 352 a 355;,2008-09-30 15:52:52,,,,Imputação do Pagamento,X
+7708,7690,Lei nº 10.406/02 (Código Civil),arts. 360 a 367,2008-09-30 15:52:52,,,,Novação,X
+7703,7690,Lei nº 10.406/02 (Código Civil),arts. 304 a 388,2008-09-30 15:52:52,,,,Pagamento,X
+7705,7690,Lei nº 10.406/02 (Código Civil),arts. 346 a 351,2008-09-30 15:52:52,,,,Pagamento com Sub-rogação,X
+7704,7690,Lei nº 10.406/02 (Código Civil),arts. 334 a 345,2008-09-30 15:52:52,,,,Pagamento em Consignação,X
+7711,7690,Lei nº 10.406/02 (Código Civil),arts. 385 a 388,2008-09-30 15:52:52,,,,Remissão das Dívidas,X
+7694,7681,Lei nº 10.406/02 (Código Civil) - arts. 854 a 886;,854 a 886;,2008-09-30 15:52:52,,,,Atos Unilaterais,X
+7715,7694,Lei nº 10.406/02 (Código Civil) -,arts. 884 a 886,2008-09-30 15:52:52,,,,Enriquecimento sem Causa,X
+7714,7694,Lei nº 10.406/02 (Código Civil),art. 876 a 883,2008-09-30 15:52:52,,,,Pagamento Indevido,X
+12980,7681,,,2020-11-04 00:00:00,,,,Direito de Empresa ,X
+9580,7681,,,2008-09-30 15:52:52,,,,Espécies de Contratos,X
+9581,9580,Lei nº 10.406/02 (Código Civil) -,arts. 710 a 721;,2008-09-30 15:52:52,2020-11-18 14:57:02,,,Agência e Distribuição,X
+9602,9580,Lei nº 10.406/02 (Código Civil),- arts. 579 a 585;,2008-09-30 15:52:52,,,,Comodato,X
+9588,9580,Lei nº 10.406/02 (Código Civil),art. 722,2008-09-30 15:52:52,,,,Corretagem,X
+9589,9580,Lei nº 10.406/02 (Código Civil),- arts. 627 a 652;,2008-09-30 15:52:52,,,,Depósito,X
+9591,9580,Lei nº 10.406/02 (Código Civil),- arts. 610 a 626;,2008-09-30 15:52:52,,,,Empreitada,X
+9608,9580,Lei Federal nº 8955/94;,art. 2º,2008-09-30 15:52:52,,,,Franquia,X
+9593,9580,Lei Federal nº 8245/91;,,2008-09-30 15:52:52,,,,Locação de Imóvel,X
+9609,9580,"LEI Nº 10.406/02 (CÓDIGO CIVIL) - ,",arts. 565 a 578;,2008-09-30 15:52:52,,,,Locação de Móvel,X
+9603,9580,LEI Nº 10.406/02 (CÓDIGO CIVIL) ;,arts. 586 a 592,2008-09-30 15:52:52,,,,Mútuo,X
+9596,9580,Lei nº 10.406/02 (Código Civil),- arts. 593 a 609;,2008-09-30 15:52:52,,,,Prestação de Serviços,X
+7691,7681,,,2008-09-30 15:52:52,,,,Inadimplemento,X
+7700,7691,Lei nº 10.406/02 (Código Civil),- arts. 408 a 416;,2008-09-30 15:52:52,,,,Cláusula Penal,X
+14066,7691,,,2020-11-18 00:00:00,,,,Mora,X
+7698,7691,Lei nº 10.406/02 (Código Civil),arts. 402 a 405,2008-09-30 15:52:52,,,,Perdas e Danos,X
+10582,7691,Lei nº 10.406/02 (Código Civil),arts. 455 e 607,2008-09-30 15:52:52,,,,Rescisão / Resolução,X
+7688,7681,,,2008-09-30 15:52:52,,,,Transmissão,X
+4718,7688,Lei nº 10.406/02 (Código Civil),- arts. 286 a 298,2008-09-30 15:52:52,,,,Cessão de Crédito,X
+5754,899,Lei 10.406/02 (CCB),"Título I, Capítulo I",2008-09-30 15:52:52,,,,Pessoas naturais,X
+7949,5754,Lei 10406/02,"art. 20, parágrafo único",2008-09-30 15:52:52,,,,Direitos da Personalidade ,X
+15306,5754,Resolução CNJ n. 270/2018,1º,2024-03-15 11:26:37,,,,Nome Social,X
+10431,899,Lei nº 10.406/02 (Código Civil) -,arts. 186; e 927 à 954,2008-09-30 15:52:52,,,,Responsabilidade Civil,X
+9633,,,,,,,,DIREITO DA CRIANÇA E DO ADOLESCENTE,X
+9964,9633,,,2008-09-30 15:52:52,,,,Seção Cível,X
+9969,9964,ECA,60 e seguintes,2008-09-30 15:52:52,,,,Exploração do Trabalho Infantil,X
+864,,,,,,,,DIREITO DO TRABALHO,X
+2622,864,,,2008-09-30 15:52:52,2020-11-17 16:00:43,,,Aposentadoria e Pensão,X
+2624,2622,,,2008-09-30 15:52:52,2020-11-17 15:59:12,,,Complementação de Aposentadoria / Pensão,X
+7644,864,,,2008-09-30 15:52:52,2020-11-17 16:39:22,,,Categoria Profissional Especial,X
+5276,7644,,,2008-09-30 15:52:52,2020-11-17 16:39:34,,,Advogados,X
+5277,7644,,,2008-09-30 15:52:52,2020-11-17 16:39:50,,,Aeronautas,X
+7645,7644,,,2008-09-30 15:52:52,2020-11-17 16:39:53,,,Aeroviários,X
+5278,7644,,,2008-09-30 15:52:52,2020-11-17 16:40:00,,,Artistas,X
+5279,7644,,,2008-09-30 15:52:52,2020-11-17 16:40:09,,,Atleta Profissional,X
+5280,7644,,,2008-09-30 15:52:52,2020-11-17 16:40:14,,,Bancários,X
+5281,7644,,,2008-09-30 15:52:52,2020-11-17 16:41:35,,,Cabineiros de Elevador,X
+5288,7644,,,2008-09-30 15:52:52,2020-11-17 16:41:55,,,Digitadores / Mecanógrafos / Datilógrafos,X
+5282,7644,,,2008-09-30 15:52:52,2020-11-17 16:42:06,,,Doméstico,X
+5284,7644,,,2008-09-30 15:52:52,2020-11-17 16:42:44,,,"Engenheiro, Arquiteto e Engenheiro Agrônomo",X
+5286,7644,,,2008-09-30 15:52:52,2020-11-17 16:43:05,,,Jornalistas,X
+5287,7644,,,2008-09-30 15:52:52,2020-11-17 16:43:10,,,Marítimos,X
+5289,7644,,,2008-09-30 15:52:52,2020-11-17 16:43:16,,,Médicos,X
+5290,7644,,,2008-09-30 15:52:52,2020-11-17 16:43:21,,,Mineiros de Subsolos,X
+5291,7644,,,2008-09-30 15:52:52,2020-11-17 16:43:25,,,Músicos Profissionais,X
+5293,7644,,,2008-09-30 15:52:52,2020-11-17 16:43:44,,,Operadores Cinematográficos,X
+5292,7644,,,2008-09-30 15:52:52,2020-11-17 16:43:55,,,Operadores de Carga e Descarga (Estiva e Capatazia),X
+5299,7644,,,2008-09-30 15:52:52,2020-11-17 16:44:08,,,Petroleiros,X
+5294,7644,,,2008-09-30 15:52:52,2020-11-17 16:44:18,,,Professores,X
+5295,7644,,,2008-09-30 15:52:52,2020-11-17 16:45:01,,,Químicos,X
+5296,7644,,,2008-09-30 15:52:52,2020-11-17 16:45:09,,,Radialistas,X
+7646,7644,,,2008-09-30 15:52:52,2020-11-17 16:45:18,,,Rural,X
+5297,7644,,,2008-09-30 15:52:52,2020-11-17 16:45:38,,,Serviços de Telefonia ou Telegrafia,X
+5301,7644,,,2008-09-30 15:52:52,2020-11-17 16:45:47,,,Vigia e Vigilantes,X
+1695,864,,,2008-09-30 15:52:52,2020-11-05 16:55:58,,,Direito Coletivo do Trabalho,X
+4438,1695,,,2008-09-30 15:52:52,,,,Anulação,X
+4435,1695,,,2008-09-30 15:52:52,,,,Aplicabilidade,X
+12949,1695,,,2020-11-04 00:00:00,,,,Arbitragem e Mediação no Direito Coletivo ,X
+12964,1695,,,2020-11-04 00:00:00,,,,Condutas Antissindicais ,X
+12981,1695,,,2020-11-04 00:00:00,,,,Direito de Greve ,X
+13044,12981,,,2020-11-04 00:00:00,,,,Abusividade / Ilegalidade,X
+13406,13044,,,2020-11-04 00:00:00,,,,Dispensa / Rescisão do Contrato de Trabalho ,X
+13483,13044,,,2020-11-04 00:00:00,,,,Multa por Descumprimento de Ordem Judicial ,X
+13531,13044,,,2020-11-04 00:00:00,,,,Salário / Pagamento ,X
+13617,12981,,,2020-11-17 00:00:00,,,,Indenização Relacionada ao Exercício do Direito de Greve,X
+13618,12981,,,2020-11-17 00:00:00,,,,Interdito Proibitório,X
+13013,1695,,,2020-11-04 00:00:00,,,,Negociação Coletiva Trabalhista ,X
+13048,13013,,,2020-11-04 00:00:00,,,,Acordo e Convenção Coletivos de Trabalho ,X
+13481,13048,,,2020-11-04 00:00:00,,,,Multa Convencional ,X
+13509,13048,,,2020-11-04 00:00:00,,,,Prevalência do Acordo Coletivo sobre a Convenção Coletiva ,X
+13235,13013,,,2020-11-04 00:00:00,,,,Norma Coletiva ,X
+13345,13235,,,2020-11-04 00:00:00,,,,Anulação/Nulidade ,X
+13347,13235,,,2020-11-04 00:00:00,,,,Aplicabilidade/Cumprimento ,X
+13510,13235,,,2020-11-04 00:00:00,,,,Prevalência do Negociado Sobre o Legislado ,X
+13563,13235,,,2020-11-04 00:00:00,,,,Vigência/Ultratividade ,X
+13016,1695,,,2020-11-04 00:00:00,,,,Organização Sindical ,X
+13063,13016,,,2020-11-04 00:00:00,,,,Anulação de Constituição de Sindicato ,X
+13105,13016,,,2020-11-04 00:00:00,,,,Comprovação de Repasse de Contribuição ,X
+13128,13016,,,2020-11-04 00:00:00,,,,Criação de Sindicato - Desmembramento ,X
+13619,13016,,,2020-11-17 00:00:00,,,,Eleição de Dirigente Sindical,X
+13155,13016,,,2020-11-04 00:00:00,,,,Enquadramento Sindical ,X
+13370,13155,,,2020-11-04 00:00:00,,,,Categoria Econômica ,X
+13371,13155,,,2020-11-04 00:00:00,,,,Categoria Profissional ,X
+13372,13155,,,2020-11-04 00:00:00,,,,Categoria Profissional Diferenciada ,X
+13550,13155,,,2020-11-04 00:00:00,,,,Trabalhador Temporário ,X
+13551,13155,,,2020-11-04 00:00:00,,,,Trabalhador Terceirizado ,X
+13179,13016,,,2020-11-04 00:00:00,,,,Garantias Sindicais ,X
+13426,13179,,,2020-11-04 00:00:00,,,,Estabilidade Provisória ,X
+13456,13179,,,2020-11-04 00:00:00,,,,Inamovibilidade de Dirigente Sindical ,X
+13489,13179,,,2020-11-04 00:00:00,,,,Outras Garantias Oriundas de Normas da OIT ,X
+13276,13016,,,2020-11-04 00:00:00,,,,Receitas Sindicais ,X
+13620,13276,,,2020-11-17 00:00:00,,,,Contribuição Assistencial,X
+14116,13276,,,2020-12-04 00:00:00,,,,Contribuição Confederativa,X
+13621,13276,,,2020-11-17 00:00:00,,,,Contribuição Sindical,X
+13622,13276,,,2020-11-17 00:00:00,,,,Contribuição Sindical Rural,X
+13477,13276,,,2020-11-04 00:00:00,,,,Mensalidade Sindical ,X
+13557,13276,,,2020-11-04 00:00:00,,,,Multa por Atraso de Repasse de Contribuição ,X
+13280,13016,,,2020-11-04 00:00:00,,,,Registro de Entidade Sindical ,X
+13623,13016,,,2020-11-17 00:00:00,,,,Representação Sindical,X
+13625,13623,,,2020-11-17 00:00:00,,,,Depósito Prévio - Recurso Administrativo,X
+13624,13623,,,2020-11-17 00:00:00,,,,Unicidade Sindical,X
+13021,1695,,,2020-11-04 00:00:00,,,,Poder Normativo ,X
+13299,13021,,,2020-11-04 00:00:00,,,,Sentença Normativa ,X
+13346,13299,,,2020-11-04 00:00:00,,,,Aplicabilidade ,X
+13428,13299,,,2020-11-04 00:00:00,,,,Extensão / Prorrogação ,X
+13528,13299,,,2020-11-04 00:00:00,,,,Revisão ,X
+7639,864,,,2008-09-30 15:52:52,2020-11-17 15:24:12,,,Direito de Greve / Lockout,X
+7640,7639,,,2008-09-30 15:52:52,2020-12-04 18:29:36,,,Interdito Proibitório,X
+12936,864,,,2020-11-04 00:00:00,,,,Direito Individual do Trabalho ,X
+12948,12936,,,2020-11-04 00:00:00,,,,Anulação / Nulidade de Ato ou Negócio Jurídico ,X
+13168,12948,,,2020-11-04 00:00:00,,,,Extrajudicial ,X
+13211,12948,,,2020-11-04 00:00:00,,,,Judicial ,X
+13626,12936,,,2020-11-17 00:00:00,,,,Aposentadoria e Pensão,X
+13627,13626,,,2020-11-17 00:00:00,2020-11-17 15:49:16,,,Complementação de Aposentadoria/Pensão,X
+13628,13627,,,2020-11-17 00:00:00,,,,Abono Previsto em Norma Coletiva/Extensão aos Inativos,X
+13629,13627,,,2020-11-17 00:00:00,,,,Auxílio/Cesta Alimentação,X
+13630,13627,,,2020-11-17 00:00:00,,,,Caixa de Previdência,X
+13631,13627,,,2020-11-17 00:00:00,,,,Cheque Rancho - Integração,X
+13632,13627,,,2020-11-17 00:00:00,,,,Especial,X
+13633,13627,,,2020-11-17 00:00:00,,,,Fonte de Custeio,X
+13634,13627,,,2020-11-17 00:00:00,,,,Gratificação de Contingente e/ou Participação nos Resultados - Avanço de Nível,X
+13635,13627,,,2020-11-17 00:00:00,,,,Parcelas Que Integram a Aposentadoria,X
+13636,13627,,,2020-11-17 00:00:00,,,,Plano de Incentivo,X
+13639,13636,,,2020-11-17 00:00:00,,,,Transação,X
+13637,13627,,,2020-11-17 00:00:00,,,,Prêmio,X
+13638,13627,,,2020-11-17 00:00:00,,,,Reenquadramento,X
+13640,13626,,,2020-11-17 00:00:00,,,,Espontânea,X
+12950,12936,,,2020-11-04 00:00:00,,,,Arbitragem e Mediação no Direito Individual do Trabalho ,X
+12960,12936,,,2020-11-04 00:00:00,,,,Capacidade Civil ,X
+13641,12936,,,2020-11-17 00:00:00,,,,Categoria Profissional Especial,X
+13642,13641,,,2020-11-17 00:00:00,,,,Administradores,X
+13643,13641,,,2020-11-17 00:00:00,,,,Advogados,X
+13680,13643,,,2020-11-17 00:00:00,,,,Dedicação Exclusiva,X
+13681,13643,,,2020-11-17 00:00:00,,,,Empregados,X
+13644,13641,,,2020-11-17 00:00:00,,,,Aeronautas,X
+13645,13641,,,2020-11-17 00:00:00,,,,Aeroviários,X
+13646,13641,,,2020-11-17 00:00:00,,,,Artistas,X
+13647,13641,,,2020-11-17 00:00:00,,,,Assistentes Sociais,X
+14117,13641,,,2020-12-04 00:00:00,,,,Atleta Profissional,X
+13648,13641,,,2020-11-17 00:00:00,,,,Bancários,X
+13682,13648,,,2020-11-17 00:00:00,,,,Cargo de Confiança,X
+13683,13648,,,2020-11-17 00:00:00,,,,Divisor de Horas Extras,X
+13684,13648,,,2020-11-17 00:00:00,,,,Enquadramento,X
+13689,13684,,,2020-11-17 00:00:00,,,,Categoria Diferenciada,X
+13691,13684,,,2020-11-17 00:00:00,,,,Empresa de Processamento de Dados,X
+13690,13684,,,2020-11-17 00:00:00,,,,Financeiras/Equiparação Bancário,X
+13692,13684,,,2020-11-17 00:00:00,,,,isonomia/Diferença Salarial,X
+13685,13648,,,2020-11-17 00:00:00,,,,Gerentes/Chefia,X
+13686,13648,,,2020-11-17 00:00:00,,,,Gratificação,X
+13687,13648,,,2020-11-17 00:00:00,,,,Intervalo Intrajornada,X
+13688,13648,,,2020-11-17 00:00:00,,,,Sábado/Dia Útil,X
+13649,13641,,,2020-11-17 00:00:00,,,,Bibliotecários,X
+13650,13641,,,2020-11-17 00:00:00,,,,Biólogos,X
+13651,13641,,,2020-11-17 00:00:00,,,,Cabineiros de Elevador,X
+13652,13641,,,2020-11-17 00:00:00,,,,Contabilistas,X
+13653,13641,,,2020-11-17 00:00:00,,,,Corretores de Imóveis,X
+13654,13641,,,2020-11-17 00:00:00,,,,Corretores de Seguros,X
+13655,13641,,,2020-11-17 00:00:00,,,,Digitadores/Mecanógrafos/Datilógrafos,X
+13693,13655,,,2020-11-17 00:00:00,,,,Equiparação Salarial,X
+13656,13641,,,2020-11-17 00:00:00,,,,Domésticos,X
+13657,13641,,,2020-11-17 00:00:00,,,,Economistas,X
+13658,13641,,,2020-11-17 00:00:00,,,,Empregados Portuários,X
+13694,13658,,,2020-11-17 00:00:00,,,,Adicional de Risco,X
+13695,13658,,,2020-11-17 00:00:00,,,,Hora Noturna/Hora Extra,X
+13659,13641,,,2020-11-17 00:00:00,,,,Enfermagem/Enfermeiros,X
+13660,13641,,,2020-11-17 00:00:00,,,,"Engenheiro, Arquiteto e Engenheiro Agrônomo",X
+13696,13660,,,2020-11-17 00:00:00,,,,Piso Salarial,X
+13706,13641,,,2020-11-17 00:00:00,,,,Ferroviários,X
+13661,13641,,,2020-11-17 00:00:00,,,,Fisioterapeutas/Terapeutas Ocupacionais,X
+13662,13641,,,2020-11-17 00:00:00,,,,Jornalistas,X
+13663,13641,,,2020-11-17 00:00:00,,,,Marítimos,X
+13664,13641,,,2020-11-17 00:00:00,,,,Médicos,X
+13665,13641,,,2020-11-17 00:00:00,,,,Mineiros de Subsolos,X
+13666,13641,,,2020-11-17 00:00:00,,,,Músicos Profissionais,X
+13697,13641,,,2020-11-17 00:00:00,,,,Nutricionistas,X
+13676,13641,,,2020-11-17 00:00:00,,,,Operador de Telemarketing,X
+13698,13641,,,2020-11-17 00:00:00,,,,Operadores Cinematográficos,X
+13699,13641,,,2020-11-17 00:00:00,,,,Operadores de Carga e Descarga (Estiva e Capatazia),X
+13700,13641,,,2020-11-17 00:00:00,,,,Outras Categorias Profissionais,X
+13678,13641,,,2020-11-17 00:00:00,,,,Petroleiros,X
+13705,13678,,,2020-11-17 00:00:00,,,,Jornada,X
+13667,13641,,,2020-11-17 00:00:00,,,,Professores,X
+13701,13667,,,2020-11-17 00:00:00,,,,Atividade Extraclasse,X
+13702,13667,,,2020-11-17 00:00:00,,,,Hora Extra/Adicional,X
+13703,13667,,,2020-11-17 00:00:00,,,,Redução Carga Horária,X
+13704,13667,,,2020-11-17 00:00:00,,,,Repouso Semanal Remunerado,X
+13668,13641,,,2020-11-17 00:00:00,,,,Psicólogos,X
+13669,13641,,,2020-11-17 00:00:00,,,,Publicitários,X
+13670,13641,,,2020-11-17 00:00:00,,,,Químicos,X
+13671,13641,,,2020-11-17 00:00:00,,,,Radialistas,X
+13672,13641,,,2020-11-17 00:00:00,,,,Relações Públicas,X
+13673,13641,,,2020-11-17 00:00:00,,,,Rural,X
+13674,13641,,,2020-11-17 00:00:00,,,,Secretários,X
+13675,13641,,,2020-11-17 00:00:00,,,,Serviços de Telefonia ou Telegrafia,X
+13677,13641,,,2020-11-17 00:00:00,,,,Técnico em Radiologia,X
+13679,13641,,,2020-11-17 00:00:00,,,,Vigia e Vigilantes,X
+12961,12936,,,2020-11-04 00:00:00,,,,Comissão de Representantes dos Empregados ,X
+13074,12961,,,2020-11-04 00:00:00,,,,Atribuições e Competências ,X
+13112,12961,,,2020-11-04 00:00:00,,,,Constituição e Composição ,X
+13373,13112,,,2020-11-04 00:00:00,,,,Cessão entre Órgão / Empresa ,X
+13412,13112,,,2020-11-04 00:00:00,,,,Eleição ,X
+13425,13112,,,2020-11-04 00:00:00,,,,Estabilidade do Representante Eleito ,X
+13476,13112,,,2020-11-04 00:00:00,,,,Mandato ,X
+13707,12936,,,2020-11-17 00:00:00,,,,Contrato Individual de Trabalho,X
+13708,13707,,,2020-11-17 00:00:00,,,,Administração Pública,X
+13726,13708,,,2020-11-17 00:00:00,,,,Cessão entre Órgão/Empresa,X
+13727,13708,,,2020-11-17 00:00:00,,,,Contratação em Período Eleitoral,X
+13728,13708,,,2020-11-17 00:00:00,,,,Contrato Nulo - Efeitos,X
+13729,13708,,,2020-11-17 00:00:00,,,,Contrato Temporário,X
+13730,13708,,,2020-11-17 00:00:00,,,,Conversão de Regime Jurídico,X
+13731,13708,,,2020-11-17 00:00:00,,,,Terceirização,X
+13709,13707,,,2020-11-17 00:00:00,,,,Advertência/Suspensão,X
+13710,13707,,,2020-11-17 00:00:00,,,,Alteração Contratual ou das Condições de Trabalho,X
+13732,13710,,,2020-11-17 00:00:00,,,,Acúmulo de Função,X
+13735,13710,,,2020-11-17 00:00:00,,,,Alteração/Revogação de Regulamento da Empresa,X
+13739,13735,,,2020-11-17 00:00:00,,,,Programa de Assistência Médica - Benefícios,X
+13733,13710,,,2020-11-17 00:00:00,,,,Desvio de Função,X
+13737,13710,,,2020-11-17 00:00:00,,,,Mudança de Turno,X
+13734,13710,,,2020-11-17 00:00:00,,,,Reversão/Retorno ao Cargo Efetivo,X
+13736,13710,,,2020-11-17 00:00:00,,,,Transferência,X
+13738,13736,,,2020-11-17 00:00:00,,,,Definitiva/Provisória,X
+13711,13707,,,2020-11-17 00:00:00,2022-11-29 15:37:42,,,Contratação de Reabilitados e Pessoas com Deficiência Habilitadas,X
+13740,13711,,,2020-11-17 00:00:00,,,,Quota Preenchimento,X
+13712,13707,,,2020-11-17 00:00:00,,,,Contrato em Regime de Tempo Parcial,X
+13713,13707,,,2020-11-17 00:00:00,,,,Contrato Intermitente,X
+13715,13707,,,2020-11-17 00:00:00,,,,Contrato por Prazo Determinado,X
+13741,13715,,,2020-11-17 00:00:00,,,,Contrato de Experiência - Nulidade,X
+13742,13715,,,2020-11-17 00:00:00,,,,Contrato de Safra,X
+13743,13715,,,2020-11-17 00:00:00,,,,Contrato de Trabalho Temporário/Provisório,X
+13744,13715,,,2020-11-17 00:00:00,,,,Nulidade,X
+13716,13707,,,2020-11-17 00:00:00,,,,CTPS,X
+13745,13716,,,2020-11-17 00:00:00,,,,Anotação/Baixa/Retificação,X
+13746,13716,,,2020-11-17 00:00:00,,,,Devolução/Retenção,X
+13747,13716,,,2020-11-17 00:00:00,,,,Multa Administrativa por Ausência de Registro,X
+13717,13707,,,2020-11-17 00:00:00,,,,Enquadramento/Classificação,X
+13718,13707,,,2020-11-17 00:00:00,,,,Exame Médico Adminissional/Demissional,X
+13719,13707,,,2020-11-17 00:00:00,,,,FGTS,X
+13748,13719,,,2020-11-17 00:00:00,,,,Correção Monetária,X
+13749,13719,,,2020-11-17 00:00:00,,,,Depósito/Diferenças,X
+13750,13719,,,2020-11-17 00:00:00,,,,Levantamento/Liberação,X
+13720,13707,,,2020-11-17 00:00:00,,,,inquérito Administrativo - Validade,X
+13721,13707,,,2020-11-17 00:00:00,,,,PIS/RAIS - Cadastramento,X
+13722,13707,,,2020-11-17 00:00:00,,,,Reconhecimento de Relação de Emprego,X
+13751,13722,,,2020-11-17 00:00:00,,,,Atividades Ilícitas,X
+13752,13722,,,2020-11-17 00:00:00,,,,Cooperativa de Trabalho,X
+13756,13722,,,2020-11-17 00:00:00,,,,Outras Relações de Emprego,X
+13753,13722,,,2020-11-17 00:00:00,,,,Policial Militar e Civil,X
+13754,13722,,,2020-11-17 00:00:00,,,,Trabalho em Condições Análogas à de Escravo,X
+14654,13754,,,2021-03-30 00:00:00,,,,Condições Degradantes,X
+14658,13754,,,2021-03-30 00:00:00,,,,Decorrente de Tráfico de Pessoa,X
+14655,13754,,,2021-03-30 00:00:00,,,,Jornada Exaustiva,X
+14656,13754,,,2021-03-30 00:00:00,,,,Restrição de Locomoção,X
+14657,13754,,,2021-03-30 00:00:00,,,,Trabalho Forçado,X
+13755,13722,,,2020-11-17 00:00:00,,,,Trabalho sob Aplicativos e/ou Plataformas Digitais,X
+13723,13707,,,2020-11-17 00:00:00,,,,Reintegração de Posse - Despejo,X
+13724,13707,,,2020-11-17 00:00:00,,,,Suspensão/Interrupção do Contrato de Trabalho,X
+13757,13724,,,2020-11-17 00:00:00,,,,Licenças/Afastamentos,X
+13761,13757,,,2020-11-17 00:00:00,,,,Afastamento Mulher - Lei Maria da Penha,X
+13758,13757,,,2020-11-17 00:00:00,,,,Gestante/Adotante,X
+13759,13757,,,2020-11-17 00:00:00,,,,Licença Previdenciária,X
+13760,13757,,,2020-11-17 00:00:00,,,,Licença sem Remuneração,X
+13762,13757,,,2020-11-17 00:00:00,,,,Outras Licenças,X
+13763,13757,,,2020-11-17 00:00:00,,,,Serviço Militar,X
+13714,13707,,,2020-11-17 00:00:00,,,,Teletrabalho/Trabalho à Distância/Trabalho em Domicílio,X
+13725,13707,,,2020-11-17 00:00:00,,,,Unicidade Contratual,X
+12975,12936,,,2020-11-04 00:00:00,,,,Descontos Fiscais ,X
+13176,12975,,,2020-11-04 00:00:00,,,,Forma de Cálculo ,X
+13191,12975,,,2020-11-04 00:00:00,,,,Incidência em Indenização PDV / PDI ,X
+13215,12975,,,2020-11-04 00:00:00,,,,Juros de Mora ,X
+13290,12975,,,2020-11-04 00:00:00,,,,Responsabilidade ,X
+12976,12936,,,2020-11-04 00:00:00,,,,Descontos Previdenciários ,X
+13177,12976,,,2020-11-04 00:00:00,,,,Forma de Cálculo ,X
+13291,12976,,,2020-11-04 00:00:00,,,,Responsabilidade ,X
+12979,12936,,,2020-11-04 00:00:00,,,,Devolução / Entrega de Objetos / Documentos ,X
+13764,12936,,,2020-11-17 00:00:00,,,,Duração do Trabalho,X
+13765,13764,,,2020-11-17 00:00:00,,,,Adicional Noturno,X
+13777,13765,,,2020-11-17 00:00:00,,,,Prorrogação do Horário Noturno,X
+13766,13764,,,2020-11-17 00:00:00,,,,Alteração da Jornada,X
+13778,13766,,,2020-11-17 00:00:00,,,,Acordo Individual e/ou Coletivo de Trabalho,X
+13779,13766,,,2020-11-17 00:00:00,,,,Trabalho em Domicílio/Teletrabalho,X
+13767,13764,,,2020-11-17 00:00:00,,,,Compensação de Jornada,X
+13780,13767,,,2020-11-17 00:00:00,,,,Acordo Tácito/Expresso,X
+13781,13767,,,2020-11-17 00:00:00,,,,Banco de Horas,X
+13782,13767,,,2020-11-17 00:00:00,,,,Compensação em Atividade Insalubre,X
+13783,13767,,,2020-11-17 00:00:00,,,,Outros Sistemas de Compensação,X
+13784,13767,,,2020-11-17 00:00:00,,,,Regime 12x36,X
+13785,13767,,,2020-11-17 00:00:00,,,,Vício Formal - Pagamento do Adicional de Horas Extras,X
+13768,13764,,,2020-11-17 00:00:00,,,,Controle de Jornada,X
+13786,13768,,,2020-11-17 00:00:00,,,,Cartão de Ponto,X
+13769,13764,,,2020-11-17 00:00:00,,,,Horas Extras,X
+13787,13769,,,2020-11-17 00:00:00,,,,Adicional de Horas Extras,X
+13788,13769,,,2020-11-17 00:00:00,,,,Base de Cálculo,X
+13789,13769,,,2020-11-17 00:00:00,,,,Cargo de Confiança,X
+13790,13769,,,2020-11-17 00:00:00,,,,Comissionista,X
+13791,13769,,,2020-11-17 00:00:00,,,,Contagem de Minutos Residuais,X
+13792,13769,,,2020-11-17 00:00:00,,,,Dedução/Abatimento de Horas Extras,X
+13793,13769,,,2020-11-17 00:00:00,,,,Divisor,X
+13794,13769,,,2020-11-17 00:00:00,,,,Gorjeta,X
+13795,13769,,,2020-11-17 00:00:00,,,,Pré-contratação,X
+13796,13769,,,2020-11-17 00:00:00,,,,Reflexos,X
+13797,13769,,,2020-11-17 00:00:00,,,,Supressão/Redução de Horas Extras/Indenização,X
+13770,13764,,,2020-11-17 00:00:00,,,,Horas in Itinere,X
+13798,13770,,,2020-11-17 00:00:00,,,,Supressão/Limitação por Norma Coletiva,X
+13771,13764,,,2020-11-17 00:00:00,2024-06-10 18:28:26,,,Intervalo Interjornadas,X
+13772,13764,,,2020-11-17 00:00:00,,,,Intervalo Intrajornada,X
+13799,13772,,,2020-11-17 00:00:00,,,,Adicional de Hora Extra,X
+13800,13772,,,2020-11-17 00:00:00,2020-11-17 18:24:19,,,Intervalo 15 Minutos Mulher,X
+13801,13772,,,2020-11-17 00:00:00,,,,Jornada Contratual de 6 Horas - Prorrogação,X
+13802,13772,,,2020-11-17 00:00:00,,,,Natureza Jurídica da Parcela/Repercussão,X
+13803,13772,,,2020-11-17 00:00:00,,,,Redução/Supressão,X
+13773,13764,,,2020-11-17 00:00:00,,,,Repouso Semanal Remunerado e Feriado,X
+13804,13773,,,2020-11-17 00:00:00,,,,Cálculo/Repercussão,X
+13805,13773,,,2020-11-17 00:00:00,,,,Feriado em Dobro,X
+13806,13773,,,2020-11-17 00:00:00,,,,Trabalho aos Domingos,X
+13774,13764,,,2020-11-17 00:00:00,,,,Sobreaviso/Prontidão/Tempo à Disposição,X
+13775,13764,,,2020-11-17 00:00:00,,,,Trabalho Externo,X
+13776,13764,,,2020-11-17 00:00:00,,,,Turno Ininterrupto de Revezamento,X
+13807,13776,,,2020-11-17 00:00:00,,,,Hora Noturna Reduzida,X
+13808,13776,,,2020-11-17 00:00:00,,,,Previsão de 8 Horas - Norma Coletiva,X
+13809,12936,,,2020-11-17 00:00:00,,,,Férias,X
+13810,13809,,,2020-11-17 00:00:00,,,,Abono Pecuniário,X
+13811,13809,,,2020-11-17 00:00:00,,,,Base de Cálculo,X
+13812,13809,,,2020-11-17 00:00:00,,,,Férias Coletivas,X
+13813,13809,,,2020-11-17 00:00:00,,,,Fruição/Gozo,X
+13814,13809,,,2020-11-17 00:00:00,,,,Indenização/Dobra/Terço Constitucional,X
+13815,12936,,,2020-11-17 00:00:00,,,,Outras Relações de Trabalho,X
+13816,13815,,,2020-11-17 00:00:00,,,,Aprendizagem,X
+13819,13815,,,2020-11-17 00:00:00,,,,Cooperado,X
+13820,13815,,,2020-11-17 00:00:00,,,,Corretagem,X
+13821,13815,,,2020-11-17 00:00:00,,,,Diarista,X
+13822,13815,,,2020-11-17 00:00:00,,,,Empreitada,X
+13818,13815,,,2020-11-17 00:00:00,,,,Equipe,X
+13817,13815,,,2020-11-17 00:00:00,,,,Estágio,X
+13823,13815,,,2020-11-17 00:00:00,,,,Mãe Social,X
+13824,13815,,,2020-11-17 00:00:00,,,,Mandato,X
+13825,13815,,,2020-11-17 00:00:00,,,,Parceria,X
+13826,13815,,,2020-11-17 00:00:00,,,,Representante Comercial Autônomo,X
+13827,13815,,,2020-11-17 00:00:00,,,,Trabalhador Autônomo Não Especificado,X
+13828,13815,,,2020-11-17 00:00:00,,,,Trabalhador Avulso,X
+13829,13815,,,2020-11-17 00:00:00,,,,Trabalhador Eventual,X
+13830,13815,,,2020-11-17 00:00:00,,,,Trabalhador Voluntário,X
+13949,12936,,,2020-11-18 00:00:00,,,,Rescisão do Contrato de Trabalho,X
+13950,13949,,,2020-11-18 00:00:00,,,,Acordo Entre as Partes,X
+13971,13950,,,2020-11-18 00:00:00,,,,FGTS - Levantamento Parcial e Multa de 20%,X
+13972,13950,,,2020-11-18 00:00:00,,,,Seguro Desemprego - Impossibilidade de Acesso,X
+13973,13950,,,2020-11-18 00:00:00,,,,Verbas Rescisórias,X
+13952,13949,,,2020-11-18 00:00:00,,,,Aposentadoria,X
+13951,13949,,,2020-11-18 00:00:00,,,,Comunicação de Dispensa aos Órgãos Competentes - Ausência,X
+13953,13949,,,2020-11-18 00:00:00,,,,Culpa Recíproca,X
+13954,13949,,,2020-11-18 00:00:00,,,,Despedida/Dispensa Imotivada,X
+13974,13954,,,2020-11-18 00:00:00,,,,Nulidade,X
+13975,13954,,,2020-11-18 00:00:00,,,,Obstativa,X
+13955,13949,,,2020-11-18 00:00:00,,,,Dispensas Plúrimas,X
+13956,13949,,,2020-11-18 00:00:00,,,,Extinção do Estabelecimento/Empresa,X
+13957,13949,,,2020-11-18 00:00:00,,,,Extinção Normal do Contrato a Termo,X
+13958,13949,,,2020-11-18 00:00:00,,,,Força Maior/Factum Principis,X
+13959,13949,,,2020-11-18 00:00:00,,,,Fraude,X
+13961,13949,,,2020-11-18 00:00:00,,,,Indenização por Rescisão Antecipada do Contrato a Termo,X
+13960,13949,,,2020-11-18 00:00:00,,,,indenização por Tempo de Serviço,X
+13962,13949,,,2020-11-18 00:00:00,,,,Justa Causa/Falta Grave,X
+13963,13949,,,2020-11-18 00:00:00,,,,Morte,X
+13965,13949,,,2020-11-18 00:00:00,,,,Pedido de Demissão,X
+13964,13949,,,2020-11-18 00:00:00,,,,Plano de demissão Voluntária/Incentivada,X
+13966,13949,,,2020-11-18 00:00:00,,,,Quitação,X
+13976,13966,,,2020-11-18 00:00:00,,,,Acordo - Comissão de Conciliação Prévia,X
+13977,13966,,,2020-11-18 00:00:00,,,,Termo de Quitação Anual,X
+13978,13966,,,2020-11-18 00:00:00,,,,Termo de Rescisão Contratual,X
+13967,13949,,,2020-11-18 00:00:00,,,,Reintegração/Readmissão ou Indenização Substitutiva,X
+13979,13967,,,2020-11-18 00:00:00,,,,Anistia,X
+13980,13967,,,2020-11-18 00:00:00,,,,Contrato Suspenso,X
+13981,13967,,,2020-11-18 00:00:00,,,,Dirigente Sindical,X
+13990,13967,,,2020-11-18 00:00:00,,,,Dispensa Discriminatória,X
+13982,13967,,,2020-11-18 00:00:00,,,,Empregado Público,X
+13983,13967,,,2020-11-18 00:00:00,,,,Estabilidade Acidentária,X
+13984,13967,,,2020-11-18 00:00:00,,,,Estabilidade Decorrente de Norma Coletiva,X
+13985,13967,,,2020-11-18 00:00:00,,,,Estabilidade do Dirigente de Cooperativa,X
+13986,13967,,,2020-11-18 00:00:00,,,,Estabilidade do Integrante de CCP,X
+13987,13967,,,2020-11-18 00:00:00,,,,Estabilidade do Representante da Empresa,X
+13988,13967,,,2020-11-18 00:00:00,,,,Gestante,X
+13989,13967,,,2020-11-18 00:00:00,,,,Membro de Cipa,X
+13991,13967,,,2020-11-18 00:00:00,,,,Outras Hipóteses de Estabilidade,X
+13968,13949,,,2020-11-18 00:00:00,,,,Rescisão Indireta,X
+13969,13949,,,2020-11-18 00:00:00,,,,Seguro Desemprego,X
+13992,13969,,,2020-11-18 00:00:00,2020-11-18 13:10:04,,,Indenização,X
+13993,13969,,,2020-11-18 00:00:00,,,,Liberação/Entrega das Guias,X
+13970,13949,,,2020-11-18 00:00:00,,,,Verbas Rescisórias,X
+13994,13970,,,2020-11-18 00:00:00,,,,Aviso Prévio,X
+14002,13994,,,2020-11-18 00:00:00,,,,Contrato de Experiência,X
+14003,13994,,,2020-11-18 00:00:00,,,,Culpa Recíproca,X
+14004,13994,,,2020-11-18 00:00:00,,,,Indenizado - Efeitos,X
+14005,13994,,,2020-11-18 00:00:00,,,,Proporcional,X
+13995,13970,,,2020-11-18 00:00:00,,,,Décimo Terceiro Salário Proporcional,X
+13996,13970,,,2020-11-18 00:00:00,,,,Férias Proporcionais,X
+13997,13970,,,2020-11-18 00:00:00,,,,indenização Adicional,X
+13998,13970,,,2020-11-18 00:00:00,,,,Multa de 40% do FGTS,X
+14006,13998,,,2020-11-18 00:00:00,,,,Expurgos Inflacionários,X
+14000,13970,,,2020-11-18 00:00:00,,,,Multa do Artigo 477 da CLT,X
+13999,13970,,,2020-11-18 00:00:00,,,,Multa do Artigo 467 da CLT ,X
+14001,13970,,,2020-11-18 00:00:00,,,,Saldo de Salário,X
+14007,12936,,,2020-11-18 00:00:00,,,,Responsabilidade Civil do Empregador,X
+14008,14007,,,2020-11-18 00:00:00,,,,Indenização por Dano Estético,X
+14009,14007,,,2020-11-18 00:00:00,,,,Indenização por Dano Material,X
+14012,14009,,,2020-11-18 00:00:00,,,,Acidente de Trabalho,X
+14013,14009,,,2020-11-18 00:00:00,,,,Constituição de Capital,X
+14014,14009,,,2020-11-18 00:00:00,,,,Doença Ocupacional,X
+14015,14009,,,2020-11-18 00:00:00,,,,Pensão Vitalícia,X
+14010,14007,,,2020-11-18 00:00:00,,,,Indenização por Dano Moral,X
+14016,14010,,,2020-11-18 00:00:00,,,,Acidente de Trabalho,X
+14017,14010,,,2020-11-18 00:00:00,,,,Anotação/Retenção da CTPS,X
+14018,14010,,,2020-11-18 00:00:00,,,,Assédio Moral,X
+14019,14010,,,2020-11-18 00:00:00,,,,Assédio Sexual,X
+14020,14010,,,2020-11-18 00:00:00,,,,Atos Discriminatórios,X
+14021,14010,,,2020-11-18 00:00:00,,,,Condições Degradantes,X
+14022,14010,,,2020-11-18 00:00:00,,,,Controle de Correspondência Eletrônica,X
+14023,14010,,,2020-11-18 00:00:00,,,,Desconfiguração de Justa Causa,X
+14024,14010,,,2020-11-18 00:00:00,,,,Doença Ocupacional,X
+14025,14010,,,2020-11-18 00:00:00,,,,Fixação do Quantum,X
+14026,14010,,,2020-11-18 00:00:00,,,,Limitação de Uso do Banheiro,X
+14027,14010,,,2020-11-18 00:00:00,,,,Lista Suja,X
+14028,14010,,,2020-11-18 00:00:00,,,,Quebra de sigilo Bancário,X
+14029,14010,,,2020-11-18 00:00:00,,,,Revistas Íntimas/Pertences,X
+14030,14010,,,2020-11-18 00:00:00,,,,Valor Arbitrado,X
+14011,14007,,,2020-11-18 00:00:00,,,,Indenização por Dano Moral Coletivo,X
+14031,12936,,,2020-11-18 00:00:00,,,,Responsabilidade Civil em Outras Relações de Trabalho,X
+14032,14031,,,2020-11-18 00:00:00,,,,Indenização por Dano Material,X
+14033,14031,,,2020-11-18 00:00:00,,,,Indenização por Dano Moral,X
+14034,12936,,,2020-11-18 00:00:00,,,,Responsabilidade Solidária/Subsidiária,X
+14035,14034,,,2020-11-18 00:00:00,,,,Concessão de Serviço Público,X
+14036,14034,,,2020-11-18 00:00:00,,,,Grupo Econômico,X
+14037,14034,,,2020-11-18 00:00:00,,,,Sócio/Acionista,X
+14120,14034,,,2020-12-04 00:00:00,,,,Subempreitada,X
+14039,14034,,,2020-11-18 00:00:00,,,,Sucessão de Empregadores,X
+14041,14039,,,2020-11-18 00:00:00,,,,Bancos,X
+14040,14034,,,2020-11-18 00:00:00,,,,Terceirização/Tomador de Serviços,X
+14042,14040,,,2020-11-18 00:00:00,,,,Empreitada/Dono da Obra,X
+14043,14040,,,2020-11-18 00:00:00,,,,Ente Público,X
+14044,14040,,,2020-11-18 00:00:00,2020-11-18 14:06:34,,,Isonomia Salarial,X
+14045,14040,,,2020-11-18 00:00:00,,,,Licitude/Ilicitude,X
+13041,12936,,,2020-11-04 00:00:00,,,,Trabalho com Proteção Especial ,X
+13199,13041,,,2020-11-04 00:00:00,,,,Indígena ,X
+13226,13041,,,2020-11-04 00:00:00,,,,Menor ,X
+13134,13041,,,2020-11-04 00:00:00,2022-11-29 15:40:23,,,Pessoa com Deficiência ,X
+13831,12936,,,2020-11-17 00:00:00,,,,"Verbas Remuneratórias, Indenizatórias e Benefícios",X
+13832,13831,,,2020-11-17 00:00:00,,,,Abono,X
+13865,13832,,,2020-11-17 00:00:00,,,,Assiduidade,X
+13866,13832,,,2020-11-17 00:00:00,,,,Dedicação Integral,X
+13867,13832,,,2020-11-17 00:00:00,,,,Emergência,X
+13868,13832,,,2020-11-17 00:00:00,,,,Faltas,X
+13869,13832,,,2020-11-17 00:00:00,,,,Outros Abonos,X
+13870,13832,,,2020-11-17 00:00:00,,,,Permanência,X
+13833,13831,,,2020-11-17 00:00:00,,,,Adicional,X
+13871,13833,,,2020-11-18 00:00:00,,,,Adicional de Antiguidade,X
+13872,13833,,,2020-11-18 00:00:00,,,,Adicional de Caráter Pessoal,X
+13873,13833,,,2020-11-18 00:00:00,,,,Adicional de Confinamento,X
+13874,13833,,,2020-11-18 00:00:00,,,,Adicional de Dedicação Integral,X
+13875,13833,,,2020-11-18 00:00:00,,,,Adicional de Insalubridade,X
+13882,13875,,,2020-11-18 00:00:00,,,,Base de Cálculo,X
+14118,13875,,,2020-12-04 00:00:00,,,,Equipamento de Proteção Individual - EPI,X
+13883,13875,,,2020-11-18 00:00:00,2020-11-18 11:53:45,,,Lixo Urbano,X
+13884,13875,,,2020-11-18 00:00:00,,,,Óleos Minerais,X
+13885,13875,,,2020-11-18 00:00:00,,,,Outros Agentes Insalubres,X
+13886,13875,,,2020-11-18 00:00:00,,,,Raios Solares,X
+13876,13833,,,2020-11-18 00:00:00,,,,Adicional de Penosidade,X
+13877,13833,,,2020-11-18 00:00:00,,,,Adicional de Periculosidade,X
+13887,13877,,,2020-11-18 00:00:00,,,,Armazenamento de Líquido Inflamável,X
+13888,13877,,,2020-11-18 00:00:00,,,,Base de Cálculo,X
+13889,13877,,,2020-11-18 00:00:00,,,,Cumulação com Adicional de Insalubridade,X
+13890,13877,,,2020-11-18 00:00:00,,,,Eletricitário,X
+13891,13877,,,2020-11-18 00:00:00,,,,Hora Extra - Integração,X
+13892,13877,,,2020-11-18 00:00:00,,,,Percentual Inferior ao Legal - Norma Coletiva,X
+13893,13877,,,2020-11-18 00:00:00,,,,Radiação Ionizante ou Substância Radioativa,X
+13894,13877,,,2020-11-18 00:00:00,,,,Tempo de Exposição,X
+13878,13833,,,2020-11-18 00:00:00,,,,Adicional de Produtividade,X
+13879,13833,,,2020-11-18 00:00:00,,,,Adicional de Risco,X
+13880,13833,,,2020-11-18 00:00:00,,,,Adicional de Transferência,X
+13881,13833,,,2020-11-18 00:00:00,,,,Outros Adicionais,X
+13835,13831,,,2020-11-17 00:00:00,,,,Ajuda Combustível,X
+13834,13831,,,2020-11-17 00:00:00,,,,Ajuda de Custo,X
+13836,13831,,,2020-11-17 00:00:00,,,,Ajuda Quilometragem,X
+13837,13831,,,2020-11-17 00:00:00,,,,Auxílio Creche,X
+13863,13831,,,2020-11-17 00:00:00,,,,Auxílio/Tíquete Alimentação,X
+13838,13831,,,2020-11-17 00:00:00,,,,Cesta Básica,X
+13839,13831,,,2020-11-17 00:00:00,,,,Comissões e Percentuais,X
+13840,13831,,,2020-11-17 00:00:00,,,,Complementação de Benefício Previdenciário,X
+13841,13831,,,2020-11-17 00:00:00,,,,Complemento Temporário Variável de Ajuste ao Piso de Mercado,X
+13842,13831,,,2020-11-17 00:00:00,2020-11-17 18:56:59,,,Contribuição de Previdência Privada - Resgate,X
+13843,13831,,,2020-11-17 00:00:00,,,,Décimo Terceiro Salário,X
+13844,13831,,,2020-11-17 00:00:00,,,,Descontos Salariais - Devolução,X
+13895,13844,,,2020-11-18 00:00:00,,,,Desconto Assistencial,X
+13896,13844,,,2020-11-18 00:00:00,,,,Desconto por Dano - Norma Coletiva,X
+13897,13844,,,2020-11-18 00:00:00,,,,Desconto Sindical,X
+13898,13844,,,2020-11-18 00:00:00,,,,Frentista - Devolução de Cheque,X
+13899,13844,,,2020-11-18 00:00:00,,,,Outros Descontos Salariais,X
+13900,13844,,,2020-11-18 00:00:00,,,,Previ e Cassi/BB,X
+13901,13844,,,2020-11-18 00:00:00,,,,Seguro de Vida,X
+13845,13831,,,2020-11-17 00:00:00,,,,Diárias,X
+13902,13845,,,2020-11-18 00:00:00,,,,Integração ao Salário,X
+13846,13831,,,2020-11-17 00:00:00,,,,Gorjeta,X
+13903,13846,,,2020-11-18 00:00:00,,,,Natureza Jurídica da Parcela - Repercussão,X
+13847,13831,,,2020-11-17 00:00:00,,,,Gratificação,X
+13904,13847,,,2020-11-18 00:00:00,,,,Gratificação Ajustada,X
+13905,13847,,,2020-11-18 00:00:00,,,,Gratificação Anual,X
+13906,13847,,,2020-11-18 00:00:00,,,,Gratificação de Aposentadoria,X
+13907,13847,,,2020-11-18 00:00:00,,,,Gratificação de Caixa,X
+13908,13847,,,2020-11-18 00:00:00,,,,Gratificação de Farmácia,X
+13909,13847,,,2020-11-18 00:00:00,,,,Gratificação de Férias,X
+13910,13847,,,2020-11-18 00:00:00,,,,Gratificação de Função,X
+13911,13847,,,2020-11-18 00:00:00,,,,Gratificação por Tempo de Serviço,X
+13912,13847,,,2020-11-18 00:00:00,,,,Gratificação Semestral,X
+13913,13847,,,2020-11-18 00:00:00,,,,Incorporação,X
+13914,13847,,,2020-11-18 00:00:00,,,,Outras Gratificações,X
+13848,13831,,,2020-11-17 00:00:00,,,,Gueltas,X
+13849,13831,,,2020-11-17 00:00:00,,,,Licenças e Folgas - Conversão em Pecúnia,X
+13850,13831,,,2020-11-17 00:00:00,,,,Multa Prevista em Norma Coletiva,X
+13851,13831,,,2020-11-17 00:00:00,,,,Participação nos Lucros e Resultados - PLR,X
+13852,13831,,,2020-11-17 00:00:00,,,,PIS - Indenização,X
+13853,13831,,,2020-11-17 00:00:00,,,,Plano de Saúde,X
+13854,13831,,,2020-11-17 00:00:00,,,,Prêmio,X
+13915,13854,,,2020-11-18 00:00:00,,,,Produção,X
+13855,13831,,,2020-11-17 00:00:00,,,,Quebra de Caixa,X
+14119,13831,,,2020-12-04 00:00:00,2020-12-04 18:37:37,,,Quebra de Caixa,X
+13856,13831,,,2020-11-17 00:00:00,,,,Restituição/Indenização de Despesas,X
+13916,13856,,,2020-11-18 00:00:00,,,,Despesa com Chapa,X
+13917,13856,,,2020-11-18 00:00:00,,,,Despesa com Deslocamento,X
+13918,13856,,,2020-11-18 00:00:00,,,,Ferramentas Próprias,X
+13919,13856,,,2020-11-18 00:00:00,,,,Uniforme,X
+13857,13831,,,2020-11-17 00:00:00,,,,Retribuição por Invenção e Patente,X
+13858,13831,,,2020-11-17 00:00:00,,,,Salário/Diferença Salarial,X
+13920,13858,,,2020-11-18 00:00:00,,,,Aumento Compensatório Especial,X
+13921,13858,,,2020-11-18 00:00:00,,,,Diferença de Caixa,X
+13922,13858,,,2020-11-18 00:00:00,,,,Diferenças por Desvio de Função,X
+13923,13858,,,2020-11-18 00:00:00,,,,Função de Confiança - Incorporação,X
+13924,13858,,,2020-11-18 00:00:00,,,,Integração em Verbas Rescisórias,X
+13925,13858,,,2020-11-18 00:00:00,,,,Licença Prêmio,X
+13926,13858,,,2020-11-18 00:00:00,,,,Mínimo,X
+13927,13858,,,2020-11-18 00:00:00,,,,Período de Afastamento - Reintegração,X
+13928,13858,,,2020-11-18 00:00:00,,,,Piso Salarial da Categoria/Salário Mínimo Profissional,X
+13929,13858,,,2020-11-18 00:00:00,,,,Plano de Cargos e Salários,X
+13930,13858,,,2020-11-18 00:00:00,,,,Promoção,X
+13931,13858,,,2020-11-18 00:00:00,,,,Reajuste Salarial,X
+13932,13858,,,2020-11-18 00:00:00,,,,Salário Base - Obediência ao Salário Mínimo,X
+13933,13858,,,2020-11-18 00:00:00,,,,Salário Complessivo,X
+13934,13858,,,2020-11-18 00:00:00,,,,Salário Família,X
+13935,13858,,,2020-11-18 00:00:00,,,,Salário in Natura,X
+13936,13858,,,2020-11-18 00:00:00,,,,Salário Maternidade,X
+13937,13858,,,2020-11-18 00:00:00,,,,Salário Paternidade,X
+13938,13858,,,2020-11-18 00:00:00,,,,Salário por Acúmulo de Cargo/Função,X
+13939,13858,,,2020-11-18 00:00:00,,,,Salário por Equiparação/Isonomia,X
+13947,13939,,,2020-11-18 00:00:00,,,,Multa pela Ilicitude da Discriminação Salarial,X
+13946,13939,,,2020-11-18 00:00:00,,,,Quadro de Carreira,X
+13940,13858,,,2020-11-18 00:00:00,,,,Salário por Fora - Integração,X
+13941,13858,,,2020-11-18 00:00:00,,,,Salário por Safra,X
+13942,13858,,,2020-11-18 00:00:00,,,,Salário Substituição,X
+13943,13858,,,2020-11-18 00:00:00,,,,Salário Suplementar,X
+13944,13858,,,2020-11-18 00:00:00,2020-11-18 12:20:57,,,Salário Vencido/Retido,X
+13945,13858,,,2020-11-18 00:00:00,,,,Teto Salarial - Limitação,X
+13859,13831,,,2020-11-17 00:00:00,,,,Seguro de Vida,X
+13860,13831,,,2020-11-17 00:00:00,,,,Sexta Parte,X
+13861,13831,,,2020-11-17 00:00:00,,,,Supressão/Redução de Horas Extras Habituais - Indenização,X
+13862,13831,,,2020-11-17 00:00:00,,,,Tarefa,X
+13864,13831,,,2020-11-17 00:00:00,,,,Vale Transporte,X
+1697,864,,,2008-09-30 15:52:52,2020-11-17 15:42:03,,,Direito Sindical e Questões Análogas,X
+1691,1697,,,2008-09-30 15:52:52,2020-11-17 15:41:15,,,Contribuição Confederativa,X
+1703,1697,,,2008-09-30 15:52:52,2020-11-17 15:41:19,,,Eleição,X
+1705,1697,,,2008-09-30 15:52:52,2020-11-17 15:41:25,,,Registro de Entidade Sindical,X
+1690,1697,,,2008-09-30 15:52:52,2020-11-17 15:41:30,,,Contribuição Assistencial,X
+1773,1697,,,2008-09-30 15:52:52,2020-11-17 15:41:37,,,Contribuição Sindical,X
+10564,1697,,,2008-09-30 15:52:52,2020-11-17 15:41:42,,,Contribuição Sindical Rural,X
+4452,1697,,,2008-09-30 15:52:52,2020-11-17 15:41:47,,,Representação Sindical,X
+2662,864,,,2008-09-30 15:52:52,2020-11-17 18:39:41,,,Férias,X
+2663,2662,CLT,143,2008-09-30 15:52:52,2020-11-17 18:39:45,,,Abono Pecuniário,X
+2019,2662,CLT,137,2008-09-30 15:52:52,2020-11-17 18:39:59,,,Fruição / Gozo ,X
+2021,2662,,,2008-09-30 15:52:52,2020-11-17 18:40:08,,,Indenização / Terço Constitucional,X
+7628,864,,,2008-09-30 15:52:52,2020-11-17 18:48:39,,,Outras Relações de Trabalho,X
+2557,7628,,,2008-09-30 15:52:52,2020-11-17 18:48:43,,,Aprendizagem,X
+2558,7628,,,2008-09-30 15:52:52,2020-11-17 18:48:47,,,Cooperado,X
+7629,7628,,,2008-09-30 15:52:52,2020-11-17 18:49:02,,,Empreitada,X
+2559,7628,,,2008-09-30 15:52:52,2020-11-17 18:49:10,,,Estágio,X
+7631,7628,,,2008-09-30 15:52:52,2020-11-17 18:49:15,,,Honorários Profissionais,X
+7630,7628,,,2008-09-30 15:52:52,2020-11-17 18:49:32,,,Representante Comercial Autônomo,X
+7633,7628,,,2008-09-30 15:52:52,2020-11-17 18:49:43,,,Trabalhador Avulso,X
+7632,7628,,,2008-09-30 15:52:52,2020-11-17 18:49:46,,,Trabalhador Eventual,X
+10568,864,,,2008-09-30 15:52:52,2020-11-18 14:24:47,,,Prescrição,X
+10571,10568,,,2008-09-30 15:52:52,2020-11-18 14:24:55,,,Acidente de Trabalho,X
+10570,10568,,,2008-09-30 15:52:52,2020-11-18 14:25:36,,,FGTS,X
+12942,864,,,2020-11-04 00:00:00,,,,Prescrição e Decadência no Direito do Trabalho ,X
+12969,12942,,,2020-11-04 00:00:00,,,,Decadência ,X
+14046,12942,,,2020-11-18 00:00:00,,,,Prescrição,X
+14047,14046,,,2020-11-18 00:00:00,,,,Ação Meramente Declaratória,X
+14048,14046,,,2020-11-18 00:00:00,,,,Acidente de trabalho,X
+14049,14046,,,2020-11-18 00:00:00,,,,Alteração Contratual,X
+14051,14046,,,2020-11-18 00:00:00,,,,Comissões - Alteração ou Supressão,X
+14050,14046,,,2020-11-18 00:00:00,,,,Complementação de Aposentadoria/Pensão,X
+14052,14046,,,2020-11-18 00:00:00,,,,Contagem do Prazo,X
+14053,14046,,,2020-11-18 00:00:00,,,,Contribuições Previdenciárias,X
+14054,14046,,,2020-11-18 00:00:00,,,,Desvio de Função e Reenquadramento,X
+14055,14046,,,2020-11-18 00:00:00,,,,Expurgos Inflacionários,X
+14056,14046,,,2020-11-18 00:00:00,2020-11-18 14:15:50,,,FGTS,X
+14057,14046,,,2020-11-18 00:00:00,,,,Intercorrente,X
+14058,14046,,,2020-11-18 00:00:00,,,,Interrupção,X
+14060,14058,,,2020-11-18 00:00:00,,,,Ação Ajuizada pelo Sindicato como Substituto Processual,X
+14061,14058,,,2020-11-18 00:00:00,,,,Ação Trabalhista Arquivada,X
+14062,14058,,,2020-11-18 00:00:00,,,,Ato Inequívoco que Importe no Reconhecimento do Direito,X
+14063,14058,,,2020-11-18 00:00:00,,,,Ato Judicial que Constitua em Mora o Devedor,X
+14064,14058,,,2020-11-18 00:00:00,,,,Protesto Judicial,X
+14059,14046,,,2020-11-18 00:00:00,,,,Regime Jurídico - Mudança,X
+12945,864,,,2020-11-04 00:00:00,2023-03-31 17:08:29,,,"Questões de Alta Complexidade, Grande Impacto e Repercussão ",X
+12953,12945,,,2020-11-04 00:00:00,2023-03-31 17:07:34,,,Auditores Fiscais em Unaí ,X
+12956,12945,,,2020-11-04 00:00:00,2023-03-31 17:07:38,,,Barragem em Brumadinho e Mariana ,X
+12997,12945,,,2020-11-04 00:00:00,2023-03-31 17:07:42,,,Incêndio Boate Kiss ,X
+14653,864,,,2021-03-30 00:00:00,2021-05-28 13:13:31,,,Redução à Condição Análoga à de Escravo,X
+2620,864,,,2008-09-30 15:52:52,2020-11-18 13:17:33,,,Rescisão do Contrato de Trabalho,X
+1849,2620,,,2008-09-30 15:52:52,2020-11-18 13:18:21,,,Culpa Recíproca,X
+1904,2620,,,2008-09-30 15:52:52,2020-11-18 13:18:25,,,Despedida / Dispensa Imotivada,X
+8824,2620,,,2008-09-30 15:52:52,2020-11-18 13:19:09,,,Indenização do artigo 478 da CLT,X
+1907,2620,CLT,482,2008-09-30 15:52:52,2020-11-18 13:19:21,,,Justa Causa / Falta Grave,X
+2243,2620,,,2008-09-30 15:52:52,2020-11-18 13:19:38,,,Plano de Demissão Voluntária,X
+2656,2620,,,2008-09-30 15:52:52,2020-11-18 13:20:10,,,Reintegração / Readmissão ou Indenização Substitutiva,X
+1965,2656,,,2008-09-30 15:52:52,2020-11-18 13:20:17,,,Empregado Público,X
+1978,2656,,,2008-09-30 15:52:52,2020-11-18 13:20:21,,,Gestante,X
+1981,2656,,,2008-09-30 15:52:52,2020-11-18 13:20:25,,,Membro da Cipa,X
+1966,2656,,,2008-09-30 15:52:52,2020-11-18 13:20:32,,,Portador de HIV,X
+2657,2656,,,2008-09-30 15:52:52,2020-11-18 13:20:44,,,Anistia,X
+1976,2656,,,2008-09-30 15:52:52,2020-11-18 13:20:48,,,Contrato Suspenso,X
+1929,2656,,,2008-09-30 15:52:52,2020-11-18 13:20:51,,,Dirigente Sindical,X
+2661,2656,Lei 8.213/91,118,2008-09-30 15:52:52,2020-11-18 13:20:56,,,Estabilidade Acidentária,X
+1977,2656,,,2008-09-30 15:52:52,2020-11-18 13:21:01,,,Estabilidade decorrente de Norma Coletiva,X
+2435,2620,,,2008-09-30 15:52:52,2020-11-18 13:21:26,,,Rescisão Indireta,X
+2478,2620,,,2008-09-30 15:52:52,2020-11-18 13:21:35,,,Seguro Desemprego,X
+2479,2478,,,2008-09-30 15:52:52,2020-11-18 13:21:39,,,Indenização,X
+2480,2478,,,2008-09-30 15:52:52,2020-11-18 13:21:42,,,Liberação das Guias,X
+2546,2620,,,2008-09-30 15:52:52,2020-11-18 13:21:51,,,Verbas Rescisórias,X
+2641,2546,,,2008-09-30 15:52:52,2020-11-18 13:21:56,,,AVISO PRÉVIO,X
+8820,2546,,,2008-09-30 15:52:52,2020-11-18 13:22:24,,,Décimo Terceiro Salário Proporcional,X
+8821,2546,,,2008-09-30 15:52:52,2020-11-18 13:22:28,,,Férias Proporcionais ,X
+8822,2546,,,2008-09-30 15:52:52,2020-11-18 13:22:33,,,Indenização Adicional,X
+1998,2546,,,2008-09-30 15:52:52,2020-11-18 13:22:45,,,Multa de 40% do FGTS,X
+2210,2546,,,2008-09-30 15:52:52,2020-11-18 13:22:52,,,Multa do Artigo 467 da CLT,X
+2212,2546,,,2008-09-30 15:52:52,2020-11-18 13:22:55,,,Multa do Artigo 477 da CLT,X
+8823,2546,,,2008-09-30 15:52:52,2020-11-18 13:23:04,,,Saldo de Salário,X
+2567,864,,,2008-09-30 15:52:52,2020-11-18 13:41:16,,,Responsabilidade Civil do Empregador,X
+8808,2567,,,2008-09-30 15:52:52,2020-11-18 13:41:27,,,Indenização por Dano Material,X
+8809,8808,CF; Lei 10406/02,"CF, Art. 7º, XXVIII; Lei 10406/02, arts. 186, 932; Lei 8213/91, art. 19.",2008-09-30 15:52:52,2020-11-18 13:41:31,,,Acidente de Trabalho,X
+1855,2567,,,2008-09-30 15:52:52,2020-11-18 13:42:00,,,Indenizaçao por Dano Moral,X
+2569,1855,CF; Lei 10406/02,"CF, Art. 7º, XXVIII; Lei 10406/02, arts. 186, 932; Lei 8213/91, art. 19.",2008-09-30 15:52:52,2020-11-18 13:42:03,,,Acidente de Trabalho,X
+1723,1855,,,2008-09-30 15:52:52,2020-11-18 13:42:12,,,Assédio Moral,X
+1724,1855,,,2008-09-30 15:52:52,2020-11-18 13:42:17,,,Assédio Sexual,X
+9051,1855,,,2008-09-30 15:52:52,2020-11-18 13:42:37,,,Desconfiguração de Justa Causa,X
+1937,864,,,2008-09-30 15:52:52,2020-11-18 14:07:05,,,Responsabilidade Solidária / Subsidiária,X
+5356,1937,CLT,"Art. 2º, § 2º",2008-09-30 15:52:52,2020-11-18 14:07:12,,,Grupo Econômico,X
+8807,1937,,,2008-09-30 15:52:52,2020-11-18 14:07:17,,,Sócio / Acionista,X
+8806,1937,CLT,455,2008-09-30 15:52:52,2020-11-18 14:07:24,,,Subempreitada,X
+8805,1937,CLT,artigo 10 e 448,2008-09-30 15:52:52,2020-11-18 14:07:27,,,Sucessão de Empregadores,X
+2704,1937,Súmula 331 do TST,,2008-09-30 15:52:52,2020-11-18 14:07:41,,,Terceirização / Tomador de Serviços,X
+2135,864,,,2008-09-30 15:52:52,2020-11-17 18:35:23,,,Sentença Normativa,X
+7649,2135,,,2008-09-30 15:52:52,2020-11-17 18:35:27,,,Aplicabilidade,X
+4437,2135,,,2008-09-30 15:52:52,2020-11-17 18:35:34,,,Revisão,X
+2581,864,,,2008-09-30 15:52:52,2020-11-18 12:29:53,,,"Verbas Remuneratórias, Indenizatórias e Benefícios",X
+2583,2581,,,2008-09-30 15:52:52,2020-11-18 12:30:03,,,Abono,X
+2594,2581,,,2008-09-30 15:52:52,2020-11-18 12:30:42,,,Adicional ,X
+2604,2594,,,2008-09-30 15:52:52,2020-11-18 12:31:19,,,Adicional de Transferência,X
+1681,2594,,,2008-09-30 15:52:52,2020-11-18 12:32:47,,,Periculosidade,X
+2606,2581,,,2008-09-30 15:52:52,2020-11-18 12:33:59,,,Ajuda de Custo,X
+2506,2581,,,2008-09-30 15:52:52,2020-11-18 12:34:08,,,Auxílio / Tíquete Alimentação,X
+1767,2581,,,2008-09-30 15:52:52,2020-11-18 12:34:15,,,Cesta Básica,X
+1783,2581,,,2008-09-30 15:52:52,2020-11-18 12:34:24,,,Comissões e Percentuais,X
+1789,2581,,,2008-09-30 15:52:52,2020-11-18 12:35:15,,,Complemento Temporário Variável de Ajuste ao Piso de Mercado,X
+2349,2581,,,2008-09-30 15:52:52,2020-11-18 12:35:22,,,Contribuição de Previdência Privada - Resgate,X
+2666,2581,,,2008-09-30 15:52:52,2020-11-18 12:35:35,,,Décimo Terceiro Salário,X
+1888,2581,,,2008-09-30 15:52:52,2020-11-18 12:35:43,,,Descontos Salariais - Devolução,X
+1920,2581,,,2008-09-30 15:52:52,2020-11-18 12:36:37,,,Diárias,X
+2450,2581,,,2008-09-30 15:52:52,2020-11-18 12:36:48,,,Gorjeta,X
+2055,2581,,,2008-09-30 15:52:52,,,,Gratificação,X
+8818,2055,,,2008-09-30 15:52:52,2020-11-18 12:37:26,,,Gratificação de Função,X
+8817,2055,,,2008-09-30 15:52:52,2020-11-18 12:37:30,,,Gratificação por Tempo de Serviço,X
+8813,2581,,,2008-09-30 15:52:52,2020-11-18 12:38:01,,,Licenças e Folgas - Conversão em Pecúnia,X
+2215,2581,,,2008-09-30 15:52:52,2020-11-18 12:38:07,,,Multa Prevista em Norma Coletiva,X
+2273,2581,,,2008-09-30 15:52:52,2020-11-18 12:38:17,,,PIS - Indenização,X
+2364,2581,,,2008-09-30 15:52:52,2020-11-18 12:38:20,,,Plano de Saúde,X
+2331,2581,,,2008-09-30 15:52:52,2020-11-18 12:38:28,,,Prêmio,X
+4442,2581,,,2008-09-30 15:52:52,2020-11-18 12:38:49,,,Restituição / Indenização de Despesa,X
+2458,2581,,,2008-09-30 15:52:52,2020-11-18 12:39:25,,,Salário / Diferença Salarial,X
+5269,2458,,,2008-09-30 15:52:52,2020-11-18 12:40:03,,,Mínimo,X
+2275,2458,,,2008-09-30 15:52:52,2020-11-18 12:40:17,,,Piso Salarial da Categoria / Salário Mínimo Profissional,X
+2449,2458,,,2008-09-30 15:52:52,2020-11-18 12:40:31,,,Reajuste Salarial,X
+2461,2458,,,2008-09-30 15:52:52,2020-11-18 12:40:47,,,Salário Família,X
+1721,2458,CLT,458,2008-09-30 15:52:52,2020-11-18 12:40:56,,,Salário In Natura,X
+8812,2458,,,2008-09-30 15:52:52,2020-11-18 12:40:59,,,Salário Maternidade,X
+2463,2458,,,2008-09-30 15:52:52,2020-11-18 12:41:06,,,Salário Paternidade,X
+8810,2458,,,2008-09-30 15:52:52,2020-11-18 12:41:11,,,Salário por Acúmulo de Cargo / Função,X
+2697,2458,CLT,461,2008-09-30 15:52:52,2020-11-18 12:41:16,,,Salário por Equiparação / Isonomia,X
+2466,2458,,,2008-09-30 15:52:52,2020-11-18 12:41:20,,,Salário Por Fora - Integração,X
+2468,2458,,,2008-09-30 15:52:52,2020-11-18 12:41:25,,,Salário Por Safra,X
+8816,2458,,,2008-09-30 15:52:52,2020-11-18 12:41:29,,,Salário Substituição,X
+2452,2458,,,2008-09-30 15:52:52,2020-11-18 12:41:40,,,Salário Vencido / Retido,X
+2477,2581,,,2008-09-30 15:52:52,2020-11-18 12:41:48,,,Seguro de Vida,X
+2117,2581,Sum. 291/TST,,2008-09-30 15:52:52,2020-11-18 12:42:01,,,Supressão de Horas Extras Habituais - Indenização,X
+2493,2581,,,2008-09-30 15:52:52,2020-11-18 12:42:05,,,Tarefa ,X
+2540,2581,,,2008-09-30 15:52:52,2020-11-18 12:42:09,,,Vale Transporte,X
+11428,,,,,,,,DIREITO ELEITORAL,X
+11583,11428,,,2010-04-20 00:00:00,,,,Eleições,X
+15236,11583,Constituição Federal,14,2023-06-16 18:16:43,,,,Assédio Eleitoral,X
+6191,,,,,,,,DIREITO INTERNACIONAL,X
+15104,6191,Resolução CNJ n. 364; Recomendação CNJ n. 123,"1º e 2º, IV (Resolução 364); 1º (Recomendação 123)",2022-06-10 00:00:00,,,,Corte Interamericana de Direitos Humanos,X
+15106,15104,Resolução CNJ n. 364; Recomendação CNJ n. 123,"1º e 2º, IV (Res. 364); 1º (Rec. 123)",2022-06-10 00:00:00,,,,Medidas Provisórias da Corte Interamericana de Direitos Humanos,X
+15105,15104,Resolução CNJ n. 364; Recomendação CNJ n. 123,"1º e 2º, IV (Res. 364); 1º (Rec. 123)",2022-06-10 00:00:00,,,,Sentenças da Corte Interamericana de Direitos Humanos,X
+15116,15105,Resolução CNJ n. 364; Recomendação CNJ n. 123,"1º e 2º, IV (Res. 364); 1º (Rec. 123)",2022-06-10 00:00:00,,,,Caso dos(as) Empregados(as) da Fábrica de Fogos de Santo Antônio de Jesus e seus Familiares vs. Brasil,X
+15118,15105,Resolução CNJ n. 364; Recomendação CNJ n. 123,"1º e 2º, IV (Res. 364); 1º (Rec. 123)",2022-06-10 00:00:00,,,,Caso Neusa dos Santos Nascimento e Outra vs. Brasil,X
+15112,15105,Resolução CNJ n. 364; Recomendação CNJ n. 123,"1º e 2º, IV (Res. 364); 1º (Rec. 123)",2022-06-10 00:00:00,,,,Caso Trabalhadores da Fazenda Brasil Verde vs. Brasil,X
+6197,6191,CF1988; L 6.815/1980,"22, XIII, 109, X;",2008-09-30 15:52:52,,,,Estrangeiro,X
+6201,6197,Declaração Sociolaboral do MERCOSUL,4º,2008-09-30 15:52:52,,,,Trabalhador Migrante ou Fronteiriço do MERCOSUL,X
+12938,6191,,,2020-11-04 00:00:00,,,,Imunidade de Jurisdição e de Execução - Pessoas Jurídicas de Direito Internacional ,X
+9565,6191,LICCvB (DL 4.657/1942),art. 9,2008-09-30 15:52:52,,,,Laudo Arbitral Internacional,X
+12939,6191,,,2020-11-04 00:00:00,,,,Lei do Pavilhão - Trabalho a Bordo de Navio de Cruzeiros Marítimos ,X
+6213,6191,Constituição Federal,"109, III",2008-09-30 15:52:52,,,,Normas do Mercosul,X
+6218,6191,LICCvB (DL 4.657/1942),11,2008-09-30 15:52:52,,,,Pessoa Jurídica Estrangeira,X
+6202,6191,CF1988,"art. 109, V-A e § 5º",2008-09-30 15:52:52,,,,Proteção Internacional a Direitos Humanos,X
+6215,6191,LICCvB (DL 4.657/1942); CPC,10; 89,2008-09-30 15:52:52,,,,Sucessão de Bens de Estrangeiro,X
+6212,6191,Constituição Federal,"109, III",2008-09-30 15:52:52,2020-12-04 18:43:23,,,Tratados e Convenções Internacionais,X
+8826,,,,,,,,DIREITO PROCESSUAL CIVIL E DO TRABALHO,X
+8842,8826,,,2008-09-30 15:52:52,,,,Partes e Procuradores,X
+8843,8842,CPC,98 a 102,2008-09-30 15:52:52,,,,Assistência Judiciária Gratuita,X
+9493,8842,CPC,70 a 76,2008-09-30 15:52:52,,,,Capacidade Processual,X
+9258,8842,CPC,95,2008-09-30 15:52:52,,,,Honorários Periciais,X
+12998,8842,CPC 2015,70 a 76,2020-11-04 00:00:00,,,,Incidente de Desconsideração da Personalidade Jurídica ,X
+8859,8842,CPC,119 a 138,2008-09-30 15:52:52,,,,Intervenção de Terceiros ,X
+13091,8859,,,2020-11-04 00:00:00,,,,Chamamento ao Processo ,X
+13135,8859,,,2020-11-04 00:00:00,,,,Denunciação da Lide ,X
+13234,8859,,,2020-11-04 00:00:00,,,,Nomeação à Autoria ,X
+13239,8859,,,2020-11-04 00:00:00,,,,Oposição ,X
+8866,8842,CPC,113 a 118,2008-09-30 15:52:52,2018-11-19 15:58:49,,,Litisconsórcio ,X
+8868,8842,CPC,104 e 105,2008-09-30 15:52:52,2018-11-19 16:02:07,,,Procuração ,X
+13068,8868,,,2020-11-04 00:00:00,,,,Assinatura Eletrônica / Digital ,X
+13162,8868,,,2020-11-04 00:00:00,,,,Estatuto Social da Empresa ,X
+13267,8868,,,2020-11-04 00:00:00,,,,Procurador de Entes Públicos / Autárquicos / Fundacionais ,X
+13307,8868,,,2020-11-04 00:00:00,,,,Tácito ,X
+8873,8842,CPC,75,2008-09-30 15:52:52,,,,Representação em Juízo,X
+13157,8873,,,2020-11-04 00:00:00,,,,Entes Públicos ,X
+13259,8873,,,2020-11-04 00:00:00,,,,Preposto ,X
+9494,8842,CPC,41 a 43,2008-09-30 15:52:52,2020-12-04 18:54:10,,,Substituição da Parte,X
+8867,8842,CPC,108 a 112,2008-09-30 15:52:52,2020-12-04 18:55:25,,,Substituição Processual,X
+8874,8842,,,2008-09-30 15:52:52,,,,Sucumbência ,X
+10658,8874,CPC,82 a 84 e 86 a 94,2008-09-30 15:52:52,,,,Custas,X
+10655,8874,CPC,"85, §§ 1º, 2º, 6º e 8º a 19; 86; 87 e 90 a 92",2008-09-30 15:52:52,,,,Honorários Advocatícios,X
+13350,10655,,,2020-11-04 00:00:00,,,,Assistenciais ,X
+13385,10655,,,2020-11-04 00:00:00,,,,Contratuais ,X
+13537,10655,,,2020-11-04 00:00:00,,,,Sucumbenciais ,X
+13541,10655,,,2020-11-04 00:00:00,,,,Suspensão da Cobrança - Devedor Beneficiário de Assistência Judiciária Gratuita ,X
+10656,8874,CPC,85 a 87; 90 a 92,2008-09-30 15:52:52,,,,Honorários Advocatícios em Execução Contra a Fazenda Pública,X
+13184,8874,,,2020-11-04 00:00:00,,,,Honorários na Justiça do Trabalho ,X
+13185,8874,,,2020-11-04 00:00:00,,,,Honorários Periciais ,X
+12933,8826,,,2020-11-04 00:00:00,,,,Ação Rescisória ,X
+12996,12933,,,2020-11-04 00:00:00,,,,Impossibilidade Jurídica do Pedido ,X
+13001,12933,,,2020-11-04 00:00:00,,,,"Invalidação de Confissão, Desistência ou Transação ",X
+13050,13001,,,2020-11-04 00:00:00,,,,Acordo Homologado/Efeitos ,X
+13266,13001,,,2020-11-04 00:00:00,,,,Processo Fraudulento ,X
+13322,13001,,,2020-11-04 00:00:00,,,,Vício de Consentimento ,X
+13015,12933,,,2020-11-04 00:00:00,,,,Ofensa à Coisa Julgada ,X
+13300,13015,,,2020-11-04 00:00:00,,,,Sentença Normativa - Modificação ,X
+13025,12933,,,2020-11-04 00:00:00,,,,Pressuposto Processual ,X
+13269,13025,,,2020-11-04 00:00:00,,,,Prova do Trânsito em Julgado da Decisão Rescindenda ,X
+13287,13025,,,2020-11-04 00:00:00,,,,Representação Processual ,X
+13468,13287,,,2020-11-04 00:00:00,,,,Jus Postulandi ,X
+12934,8826,,,2020-11-04 00:00:00,,,,Acordo Extrajudicial ,X
+12994,12934,,,2020-11-04 00:00:00,,,,Homologação Judicial - Requisitos ,X
+13040,12934,,,2020-11-04 00:00:00,,,,Sentença de Recusa da Homologação ,X
+8893,8826,,,2008-09-30 15:52:52,,,,Atos Processuais,X
+8928,8893,CPC,218 a 235,2008-09-30 15:52:52,,,,Prazo,X
+13114,8928,,,2020-11-04 00:00:00,,,,Contagem - Dias Úteis ,X
+13268,8928,,,2020-11-04 00:00:00,,,,Prorrogação ,X
+13305,8928,,,2020-11-04 00:00:00,,,,Suspensão / Interrupção ,X
+10938,8893,CPC,238 a 259,2008-09-30 15:52:52,,,,Citação,X
+10939,8893,CPC,269 a 275,2008-09-30 15:52:52,,,,Intimação / Notificação,X
+8919,8893,CPC,276 a 283,2008-09-30 15:52:52,,,,Nulidade,X
+13089,8919,,,2020-11-04 00:00:00,,,,Cerceamento de Defesa ,X
+13212,8919,,,2020-11-04 00:00:00,,,,Julgamento Extra / Ultra / Citra Petita ,X
+13233,8919,,,2020-11-04 00:00:00,,,,Negativa de Prestação Jurisdicional ,X
+12412,8919,CPC,"803, II, parágrafo único",2018-11-20 00:00:00,2022-06-09 15:41:10,,,Nulidade - Ausência de Citação ,X
+12401,8919,CPC,"11, caput",2018-11-20 00:00:00,,,,Nulidade - Ausência de Fundamentação de Decisão,X
+12405,8919,CPC,"272, §§ 2º e 5º",2018-11-20 00:00:00,,,,Nulidade - Ausência de Identificação de Advogado ou de Sociedade de Advogados,X
+12406,8919,CPC,279,2018-11-20 00:00:00,,,,Nulidade - Ausência de Intimação do Ministério Público,X
+12404,8919,CPC,"272, § 2º",2018-11-20 00:00:00,,,,Nulidade - Ausência de Nome das Partes,X
+12400,8919,CPC,"11, caput",2018-11-20 00:00:00,,,,Nulidade - Ausência de publicidade de decisão,X
+12407,8919,CPC,280,2018-11-20 00:00:00,,,,Nulidade - Citação Sem Observância das Prescrições Legais,X
+12413,8919,CPC,"803, III, parágrafo único",2018-11-20 00:00:00,,,,Nulidade - Execução Instaurada Antes de Condição ou Termo,X
+12402,8919,CPC,"146, § 7º",2018-11-20 00:00:00,,,,Nulidade - Impedimento,X
+12408,8919,CPC,280,2018-11-20 00:00:00,2018-11-20 13:10:10,,,Nulidade - Intimação Sem Observância das Prescrições Legais,X
+12410,8919,CPC,280,2018-11-20 00:00:00,,,,Nulidade - Intimação Sem Observância das Prescrições Legais,X
+12403,8919,CPC,"146, § 7º",2018-11-20 00:00:00,,,,Nulidade - Suspeição,X
+12411,8919,CPC,"803, I, parágrafo único",2018-11-20 00:00:00,,,,"Nulidade - Título Extrajudicial Não Correspondente a Obrigação Certa, Líquida e Exigível ",X
+13289,8919,,,2020-11-04 00:00:00,2021-03-24 15:05:30,,,Reserva de Plenário ,X
+13321,8919,,,2020-11-04 00:00:00,2021-03-24 15:05:34,,,Vício de Citação ,X
+8934,8893,CPC,291 a 293,2008-09-30 15:52:52,,,,Valor da Causa,X
+13066,8934,,,2020-11-04 00:00:00,,,,Arbitramento / Majoração ,X
+8938,8826,,,2008-09-30 15:52:52,,,,"Formação, Suspensão e Extinção do Processo",X
+8939,8938,CPC,313 a 315,2008-09-30 15:52:52,,,,Suspensão do Processo,X
+13170,8939,,,2020-11-04 00:00:00,,,,Falência ,X
+13277,8939,,,2020-11-04 00:00:00,,,,Recuperação Judicial ,X
+13310,8939,,,2020-11-04 00:00:00,,,,Temas repetitivos / Repercussão Geral ,X
+12951,8938,,,2020-11-04 00:00:00,,,,Arquivamento ,X
+12963,8938,,,2020-11-04 00:00:00,,,,Condições da Ação ,X
+13051,12963,,,2020-11-04 00:00:00,,,,Adequação da Ação / Procedimento ,X
+13206,12963,,,2020-11-04 00:00:00,,,,Interesse Processual ,X
+14067,12963,,,2020-11-18 00:00:00,,,,Legitimidade Ativa e Passiva,X
+12978,8938,,,2020-11-04 00:00:00,,,,Desistência da Ação ,X
+8942,8938,CPC,267,2008-09-30 15:52:52,,,,Extinção do Processo Sem Resolução de Mérito,X
+10735,8942,CPC,"330, III e 485, I e VI, §§ 3º e 7º",2008-09-30 15:52:52,2018-11-20 15:01:38,,,Ausência de Interesse Processual,X
+10737,8942,CPC,"485, IV, §§ 3º e 7º",2008-09-30 15:52:52,2018-11-20 14:53:16,,,Ausência de Pressupostos de Constituição e Desenvolvimento ,X
+13201,8942,,,2020-11-04 00:00:00,,,,Inépcia da Inicial ,X
+10736,8942,,,2008-09-30 15:52:52,2018-11-20 15:01:12,,,Legitimidade para a Causa,X
+12414,10736,CPC,"485, VI, § 3§ 3º e 7º",2018-11-20 00:00:00,,,,Ausência de Legitimidade para a Causa,X
+13248,8942,,,2020-11-04 00:00:00,,,,Pedidos Ilíquidos - Rito Ordinário ,X
+13252,8942,,,2020-11-04 00:00:00,,,,Perempção ,X
+8941,8938,CPC,329,2008-09-30 15:52:52,,,,Modificação ou Alteração do Pedido,X
+13026,8938,,,2020-11-04 00:00:00,,,,Pressupostos Processuais ,X
+13065,13026,,,2020-11-04 00:00:00,,,,Arbitragem ,X
+13094,13026,,,2020-11-04 00:00:00,,,,Coisa Julgada ,X
+13221,13026,,,2020-11-04 00:00:00,,,,Litispendência ,X
+8828,8826,,,2008-09-30 15:52:52,,,,Jurisdição e Competência,X
+8829,8828,CPC,Arts. 86 a 124,2008-09-30 15:52:52,,,,Competência ,X
+10652,8829,Constituição Federal,14,2008-09-30 15:52:52,,,,Competência da Justiça do Trabalho,X
+13359,10652,,,2020-11-04 00:00:00,,,,Auxílio-Alimentação Após a Aposentadoria - Benefício Assegurado em Regulamento da Empresa ,X
+13378,10652,,,2020-11-04 00:00:00,,,,Complementação de Aposentadoria / Pensão ,X
+13386,10652,,,2020-11-04 00:00:00,,,,Contribuições Previdenciárias ,X
+13390,10652,,,2020-11-04 00:00:00,,,,Dano Moral / Material ,X
+13398,10652,,,2020-11-04 00:00:00,,,,Descontos Fiscais ,X
+13415,10652,,,2020-11-04 00:00:00,,,,Empregados de Cartórios Extrajudiciais ,X
+13451,10652,,,2020-11-04 00:00:00,,,,Guias do Seguro Desemprego ,X
+13452,10652,,,2020-11-04 00:00:00,,,,Honorários Advocatícios ,X
+13461,10652,,,2020-11-04 00:00:00,,,,Interdito Proibitório ,X
+13471,10652,,,2020-11-04 00:00:00,,,,Levantamento do FGTS ,X
+13525,10652,,,2020-11-04 00:00:00,,,,Relação de Trabalho ,X
+10654,8829,Constituição Federal e Código Eleitoral,"102, 105, 108, 109, 114, 124 e 125, §§ 4º e 5º (CF); 22, 29, 35 (Código Eleitoral)",2008-09-30 15:52:52,,,,Competência da Justiça Estadual,X
+10653,8829,Constituição Federal,108 e 109,2008-09-30 15:52:52,,,,Competência da Justiça Federal,X
+13099,8829,,,2020-11-04 00:00:00,,,,Competência Funcional ,X
+13462,13099,,,2020-11-04 00:00:00,,,,Interdito Proibitório ,X
+13506,13099,,,2020-11-04 00:00:00,,,,Precatório ,X
+10901,8829,Constituição Federal e Constituições Estaduais,"102, I, ""b"", ""c"" e ""d""; 105, I, ""a""; 108, I, ""a""; 125, § 1º (CF)",2008-09-30 15:52:52,,,,Competência por Prerrogativa de Função,X
+13100,8829,,,2020-11-04 00:00:00,,,,Competência Territorial ,X
+13343,13100,,,2020-11-04 00:00:00,,,,Agente / Viajante Comercial ,X
+13427,13100,,,2020-11-04 00:00:00,,,,Exercício das Atividades Fora do Lugar da Celebração do Contrato ,X
+13549,13100,,,2020-11-04 00:00:00,,,,Trabalhador Brasileiro no Exterior ,X
+13109,8829,,,2020-11-04 00:00:00,,,,Conexão ,X
+13263,8829,,,2020-11-04 00:00:00,,,,Prevenção ,X
+12965,8828,,,2020-11-04 00:00:00,,,,Conflito de Competência ,X
+14068,8828,,,2020-11-18 00:00:00,,,,Exceção de Incompetência Territorial,X
+8838,8828,Decreto legislativo nº 4/1948,Artigo único,2008-09-30 15:52:52,,,,Imunidade de Jurisdição,X
+13161,8838,,,2020-11-04 00:00:00,,,,Estado Estrangeiro ,X
+13241,8838,,,2020-11-04 00:00:00,,,,Organismo Internacional ,X
+9148,8826,,,2008-09-30 15:52:52,,,,Liquidação / Cumprimento / Execução,X
+9520,9148,CPC,"774 e 903, § 6º",2008-09-30 15:52:52,,,,Ato Atentatório à Dignidade da Justiça,X
+14069,9148,,,2020-11-18 00:00:00,,,,Ausência de Impugnação da Conta de Liquidação/Preclusão,X
+9519,9148,CPC,794 e 795,2008-09-30 15:52:52,,,,Benefício de Ordem,X
+9517,9148,CPC,"525, § 1º, VII",2008-09-30 15:52:52,,,,Causas Supervenientes à Sentença,X
+9418,9148,CPC,"797, parágrafo único",2008-09-30 15:52:52,,,,Concurso de Credores,X
+10880,9148,CPC,"520 a 522; 527; 537, § 3º; 1.012, §§ 1º e 2º",2008-09-30 15:52:52,2018-11-21 16:51:22,,,Cumprimento Provisório de Sentença,X
+13265,10880,,,2020-11-04 00:00:00,,,,Processo do Trabalho ,X
+13470,13265,,,2020-11-04 00:00:00,,,,Levantamento do Depósito Recursal ,X
+12974,9148,,,2020-11-04 00:00:00,,,,Desconsideração da Personalidade Jurídica ,X
+9518,9148,CPC,525 a 920,2008-09-30 15:52:52,,,,Efeito Suspensivo / Impugnação / Embargos à Execução,X
+12987,9148,,,2020-11-04 00:00:00,,,,Execução de Ofício ,X
+13121,12987,,,2020-11-04 00:00:00,,,,Contribuições Previdenciárias ,X
+13245,12987,,,2020-11-04 00:00:00,,,,Partes Sem Advogados ,X
+12988,9148,,,2020-11-04 00:00:00,,,,Execução de Título Extrajudicial ,X
+13313,12988,,,2020-11-04 00:00:00,,,,Termo de Conciliação Prévia ,X
+12989,9148,,,2020-11-04 00:00:00,,,,Execução Fiscal ,X
+9419,9148,CF,"114, VIII",2008-09-30 15:52:52,,,,Execução Previdenciária,X
+12991,9148,,,2020-11-04 00:00:00,,,,Execução Provisória ,X
+9180,9148,CPC,876 a 903,2008-09-30 15:52:52,,,,Expropriação de Bens,X
+13053,9180,,,2020-11-04 00:00:00,,,,Adjudicação ,X
+13067,9180,,,2020-11-04 00:00:00,,,,Arrematação ,X
+9414,9148,CPC,924 e 925,2008-09-30 15:52:52,,,,Extinção da Execução,X
+10683,9148,CPC,"525, § 11",2008-09-30 15:52:52,2018-11-21 15:37:24,,,Fato Superveniente ao Término do Prazo para Impugnação,X
+9450,9148,CPC,"792; 828, § 4º; 855, § 3º",2008-09-30 15:52:52,,,,Fraude à Execução,X
+12993,9148,,,2020-11-04 00:00:00,,,,Hipoteca Judiciária ,X
+9453,9148,DL 48.295/1968 (Convenção de Viena),"22º, 3",2008-09-30 15:52:52,,,,Imunidade de Execução,X
+9178,9148,CPC,"525, §1º, III; 535, III, § 5º; 803,I; 917, I",2008-09-30 15:52:52,2018-11-21 17:59:07,,,Inexequibilidade do Título / Inexigibilidade da Obrigação,X
+12999,9148,,,2020-11-04 00:00:00,,,,Inscrição no Banco Nacional de Devedores Trabalhistas - BNDT ,X
+9160,9148,CPC,"520, IV; 526, caput e § 1º; 537, § 3º; 904 a 906; 908; 916, caput e § 2º",2008-09-30 15:52:52,,,,Levantamento de Valor,X
+10686,9148,CPC,"567. 806, § 1º; 814",2008-09-30 15:52:52,,,,Multa Cominatória / Astreintes,X
+13062,10686,,,2020-11-04 00:00:00,,,,Anotação na CTPS ,X
+13093,10686,,,2020-11-04 00:00:00,,,,Cláusula Penal ,X
+9166,9148,CPC,"523, caput e § 1º; 526, § 2º; 702, §§ 10 e 11; 895, caput e § 4º; 915, § 5º, II",2008-09-30 15:52:52,,,,Multa de 10%,X
+13014,9148,,,2020-11-04 00:00:00,,,,Obrigação de Dar ,X
+10670,9148,,,2008-09-30 15:52:52,,,,Obrigação de Entregar,X
+10677,10670,CPC,"536, caput e §§ 1º e 2º; 538, caput; 625; 806, caput e § 2º",2008-09-30 15:52:52,,,,Busca e Apreensão,X
+10676,10670,CPC,"538, caput; 625; 806, caput e § 2º; 877, § 1º, I; 879, § 2º, I; 901, § 1º; 903, §§ 1º a 3º",2008-09-30 15:52:52,,,,Imissão na Posse,X
+10671,9148,CPC,536 e 537,2008-09-30 15:52:52,,,,Obrigação de Fazer / Não Fazer,X
+9163,9148,CPC,831 a 875,2008-09-30 15:52:52,2018-11-21 14:58:21,,,Penhora / Depósito/ Avaliação ,X
+13080,9163,,,2020-11-04 00:00:00,,,,Avaliação / Reavaliação ,X
+13140,9163,,,2020-11-04 00:00:00,,,,Dispensa de Penhora - Entidades Filantrópicas e Seus Diretores ,X
+13164,9163,,,2020-11-04 00:00:00,,,,Excesso de Penhora ,X
+13189,9163,,,2020-11-04 00:00:00,,,,Impenhorabilidade ,X
+13363,13189,,,2020-11-04 00:00:00,,,,Bem de Família ,X
+13364,13189,,,2020-11-04 00:00:00,,,,Bem Público ,X
+13458,13189,,,2020-11-04 00:00:00,,,,Instrumentos de Trabalho ,X
+13526,13189,,,2020-11-04 00:00:00,,,,Remuneração / Proventos / Pensões e Outros Rendimentos ,X
+13240,9163,,,2020-11-04 00:00:00,,,,Ordem de Preferência ,X
+13249,9163,,,2020-11-04 00:00:00,,,,Penhora no Rosto dos Autos ,X
+13250,9163,,,2020-11-04 00:00:00,,,,Penhora Online / BACEN JUD ,X
+13278,9163,,,2020-11-04 00:00:00,,,,Reforço de Penhora ,X
+13297,9163,,,2020-11-04 00:00:00,,,,Seguro-Garantia Judicial ,X
+13303,9163,,,2020-11-04 00:00:00,,,,Substituição de Penhora ,X
+10672,9148,,,2008-09-30 15:52:52,,,,Precatório,X
+13097,10672,,,2020-11-04 00:00:00,,,,Compensação de Reajustes Concedidos ,X
+10680,10672,Constituição Federal,"100, § 8º",2008-09-30 15:52:52,,,,Crédito Complementar,X
+10679,10672,Constituição Federal,"100, §§ 2º e 8º",2008-09-30 15:52:52,,,,Fracionamento,X
+11923,10672,Constituição Federal,"100 caput e §§ 1º, 2º e 6º",2012-06-06 00:00:00,,,,Fraude / Quebra de ordem cronológica,X
+13216,10672,,,2020-11-04 00:00:00,,,,Juros de Mora ,X
+10885,10672,Constituição Federal e ADCT,"100, § 20 (CF); 78 (ADCT)",2008-09-30 15:52:52,,,,Liquidação Parcelada,X
+10869,10672,CPC,"513, caput; 523, caput",2008-09-30 15:52:52,,,,Parcela Incontroversa,X
+13253,10672,,,2020-11-04 00:00:00,,,,Período de Graça ,X
+10678,10672,ADCT,"97, § 13; 103, caput",2008-09-30 15:52:52,,,,Sequestro de Verbas Públicas,X
+13024,9148,,,2020-11-04 00:00:00,,,,Preclusão / Coisa Julgada ,X
+10573,9148,,,2008-09-30 15:52:52,,,,Prisão Civil,X
+10861,10573,,,2008-09-30 15:52:52,2020-12-04 18:48:39,,,Alienação Fiduciária,X
+10860,10573,,,2008-09-30 15:52:52,2020-12-04 18:49:25,,,Depositário Infiel,X
+13031,9148,,,2020-11-04 00:00:00,,,,Protesto de Crédito Trabalhista ,X
+9189,9148,CPC,826,2008-09-30 15:52:52,,,,Remição,X
+10673,9148,Constituição Federal,"100, §§ 3º e 4º",2008-09-30 15:52:52,,,,Requisição de Pequeno Valor - RPV,X
+13285,10673,,,2020-11-04 00:00:00,,,,Renúncia Parcial ,X
+9484,9148,CPC,"790, I",2008-09-30 15:52:52,,,,Sucessão,X
+9149,9148,,,2008-09-30 15:52:52,,,,Valor da Execução / Cálculo / Atualização,X
+10685,9149,Código Civil e Lei n. 6.899/1981,389 (CC); 1º (Lei 6.889/1981),2008-09-30 15:52:52,,,,Correção Monetária,X
+13542,10685,,,2020-11-04 00:00:00,,,,Taxa Referencial - TR x IPCA-E ,X
+13543,10685,,,2020-11-04 00:00:00,,,,Taxa SELIC ,X
+13129,9149,,,2020-11-04 00:00:00,,,,Custas / Emolumentos ,X
+13190,9149,,,2020-11-04 00:00:00,,,,Imposto de Renda ,X
+10684,9149,Código Civil,"389, 406 e 407",2008-09-30 15:52:52,,,,Juros,X
+14070,10684,,,2020-11-18 00:00:00,,,,Fazenda Pública,X
+10687,9149,Código Civil e Lei n. 9.065/1995,406 (CC); 13 (Lei 9.065/1995),2008-09-30 15:52:52,,,,Taxa SELIC,X
+12940,8826,,,2020-11-04 00:00:00,,,,Mandado de Segurança ,X
+12955,12940,,,2020-11-04 00:00:00,,,,Autenticação ,X
+12958,12940,,,2020-11-04 00:00:00,,,,Cabimento ,X
+13133,12958,,,2020-11-04 00:00:00,,,,Decisão Judicial ,X
+14122,12958,,,2020-12-04 00:00:00,,,,Tutela Provisória de Urgência,X
+12962,12940,,,2020-11-04 00:00:00,,,,Competência ,X
+12973,12940,,,2020-11-04 00:00:00,,,,Depósito Prévio de Multa Administrativa ,X
+13004,12940,,,2020-11-04 00:00:00,,,,Legitimidade - Autoridade Coatora ,X
+13017,12940,,,2020-11-04 00:00:00,,,,Pedido de Liminar ,X
+13019,12940,,,2020-11-04 00:00:00,,,,Penhora de Salário / Proventos ,X
+13023,12940,,,2020-11-04 00:00:00,,,,Prazo Decadencial ,X
+13032,12940,,,2020-11-04 00:00:00,,,,Prova Pré-constituída ,X
+13035,12940,,,2020-11-04 00:00:00,,,,Reiteração ,X
+13042,12940,,,2020-11-04 00:00:00,,,,Transcendência ,X
+8875,8826,CPC,176 a 181,2008-09-30 15:52:52,,,,Ministério Público,X
+13000,8875,,,2020-11-04 00:00:00,,,,Intimação ,X
+13003,8875,,,2020-11-04 00:00:00,,,,Legitimidade ,X
+13022,8875,,,2020-11-04 00:00:00,,,,Prazo / Contagem do Prazo ,X
+14121,8826,,,2020-12-04 00:00:00,,,,Moratórios Comuns,X
+11781,8826,,,2010-09-17 00:00:00,2022-03-23 15:01:16,,,Objetos de cartas precatórias cíveis/de ordem,X
+11786,11781,CPC,"914, § 2º; 915, §§ 2º e 4º",2010-09-17 00:00:00,,,,Atos executórios,X
+13045,11786,,,2020-11-04 00:00:00,,,,Ação Anulatória ,X
+13150,11786,,,2020-11-04 00:00:00,,,,Embargos de Terceiro ,X
+11783,11781,CPC,232,2010-09-17 00:00:00,,,,Citação,X
+11785,11781,CPC,261,2010-09-17 00:00:00,,,,Diligências,X
+11782,11781,CPC,232,2010-09-17 00:00:00,,,,Intimação,X
+11784,11781,CPC,"453, II",2010-09-17 00:00:00,,,,Oitiva,X
+8883,8826,,,2008-09-30 15:52:52,,,,Órgãos Judiciários e Auxiliares da Justiça,X
+8884,8883,,,2008-09-30 15:52:52,,,,Do Juiz,X
+10660,8884,CPC,144,2008-09-30 15:52:52,,,,Impedimento,X
+12415,8884,CPC,139 a 143,2018-11-23 00:00:00,,,,"Poderes, Deveres e Responsabilidades do Juiz",X
+10659,8884,CPC,145,2008-09-30 15:52:52,,,,Suspeição,X
+8888,8883,CPC,149 a 175,2008-09-30 15:52:52,,,,Dos Auxiliares da Justiça,X
+13188,8888,,,2020-11-04 00:00:00,,,,Impedimento ,X
+13304,8888,,,2020-11-04 00:00:00,,,,Suspeição ,X
+12941,8826,,,2020-11-04 00:00:00,,,,Penalidades Processuais ,X
+12952,12941,,,2020-11-04 00:00:00,,,,Ato Atentatório à Dignidade da Justiça ,X
+12954,12941,,,2020-11-04 00:00:00,,,,Ausência Injustificada de Testemunha ,X
+12977,12941,,,2020-11-04 00:00:00,,,,Descumprimento de Obrigações de Auxiliares da Justiça ,X
+14072,12941,,,2020-11-19 00:00:00,,,,Litigância de Má Fé,X
+13008,12941,,,2020-11-04 00:00:00,,,,Multa do Art. 475-J do CPC ,X
+13009,12941,,,2020-11-04 00:00:00,,,,Multa por Agravo Inadmissível ou Infundado ,X
+13010,12941,,,2020-11-04 00:00:00,,,,Multa por Descumprimento de Ordem Judicial ,X
+13011,12941,,,2020-11-04 00:00:00,,,,Multa por ED Protelatórios ,X
+13012,12941,,,2020-11-04 00:00:00,,,,Multa por Improbidade Testemunhal ,X
+12943,8826,,,2020-11-04 00:00:00,,,,Processo Coletivo ,X
+12946,12943,,,2020-11-04 00:00:00,,,,Ação Civil Pública ,X
+13070,12946,,,2020-11-04 00:00:00,,,,Astreintes ,X
+13088,12946,,,2020-11-04 00:00:00,,,,Cabimento / Interesse Processual ,X
+13101,12946,,,2020-11-04 00:00:00,,,,Competência Territorial ,X
+13219,12946,,,2020-11-04 00:00:00,,,,Legitimidade Ativa ,X
+13312,12946,,,2020-11-04 00:00:00,,,,Termo de Ajustamento de Conduta - TAC ,X
+13319,12946,,,2020-11-04 00:00:00,,,,Tutela Inibitória (Obrigação de Fazer e Não Fazer) ,X
+12755,12943,,,2020-07-14 00:00:00,,,,Direito Coletivo,X
+12757,12755,CDC,"81,parágrafo único, II; 110 e 111",2020-07-14 00:00:00,,,,Interesses ou Direitos Coletivos em Sentido Estrito,X
+12756,12755,CDC,"81, parágrafo único, I; 110 e 111",2020-07-14 00:00:00,,,,Interesses ou Direitos Difusos,X
+12758,12755,CDC,"81, parágrafo único, III; 110 e 111",2020-07-14 00:00:00,,,,Interesses ou Direitos Individuais Homogêneos,X
+13007,12943,,,2020-11-04 00:00:00,,,,Mandado de Segurança Coletivo ,X
+13076,13007,,,2020-11-04 00:00:00,,,,Autenticação ,X
+13077,13007,,,2020-11-04 00:00:00,,,,Autoridade Coatora ,X
+13087,13007,,,2020-11-04 00:00:00,,,,Cabimento ,X
+13098,13007,,,2020-11-04 00:00:00,,,,Competência ,X
+13151,13007,,,2020-11-04 00:00:00,,,,Emenda a Inicial ,X
+13218,13007,,,2020-11-04 00:00:00,,,,Legitimidade ,X
+13258,13007,,,2020-11-04 00:00:00,,,,Prazo Decadencial ,X
+13271,13007,,,2020-11-04 00:00:00,,,,Prova Pré-constituída ,X
+8960,8826,,,2008-09-30 15:52:52,,,,Processo e Procedimento,X
+8961,8960,CPC,273 e 461,2008-09-30 15:52:52,2020-11-19 13:20:52,,,Antecipação de Tutela / Tutela Específica,X
+13085,8961,,,2020-11-04 00:00:00,,,,Bloqueio / Desbloqueio de Valores ,X
+13149,8961,,,2020-11-04 00:00:00,,,,Efeito Suspensivo a Recurso ,X
+13180,8961,,,2020-11-04 00:00:00,,,,Greve ,X
+13603,8961,,,2020-11-04 00:00:00,,,,Perda de Eficácia ,X
+13605,8961,,,2020-11-04 00:00:00,,,,Plano de Saúde ,X
+13609,8961,,,2020-11-04 00:00:00,,,,Reintegração de Empregado ,X
+13611,8961,,,2020-11-04 00:00:00,,,,Restabelecimento de Pagamento de Vantagem Remuneratória ,X
+13306,8961,,,2020-11-04 00:00:00,,,,Suspensão da Execução ,X
+13348,13306,,,2020-11-04 00:00:00,,,,"Artigo 896, § 1° - A, CLT ",X
+13399,13306,,,2020-11-04 00:00:00,,,,Desfundamentação ,X
+8986,8960,CPC,283,2008-09-30 15:52:52,,,,Erro de Procedimento,X
+13020,8960,,,2020-11-04 00:00:00,,,,Peticionamento Eletrônico ,X
+13600,13020,,,2020-11-04 00:00:00,,,,E-Doc ,X
+14073,13020,,,2020-11-19 00:00:00,,,,Fac-Símilie/E-mail,X
+13288,13020,,,2020-11-04 00:00:00,,,,Regularidade de Apresentação de Peças ,X
+13029,8960,,,2020-11-04 00:00:00,,,,Processo Judicial Eletrônico - PJe ,X
+13132,13029,,,2020-11-04 00:00:00,,,,Classificação e Organização de Documentos no Sistema ,X
+13318,13029,,,2020-11-04 00:00:00,,,,Conversão dos Autos Físicos em Eletrônicos - Responsabilidade ,X
+13607,13029,,,2020-11-04 00:00:00,,,,Indisponibilidade do Sistema - Devolução de Prazo ,X
+13210,13029,,,2020-11-04 00:00:00,,,,Intimação Via DEJT - Validade ,X
+13615,13029,,,2020-11-04 00:00:00,,,,Uso de Sistema de Peticionamento Diverso - Petição Juridicamente Inexistente ,X
+8990,8960,,,2008-09-30 15:52:52,,,,Provas,X
+13614,8990,,,2020-11-04 00:00:00,,,,Alteração da Ordem de Produção ,X
+10940,8990,CPC,385 a 388 e 442 a 463,2008-09-30 15:52:52,2011-02-01 11:30:20,,,Depoimento,X
+13540,10940,,,2020-11-04 00:00:00,,,,Suspeição ,X
+13613,8990,,,2020-11-04 00:00:00,,,,Documental ,X
+13606,8990,,,2020-11-04 00:00:00,,,,Juntada na Fase Recursal (Fato Novo) ,X
+13237,8990,,,2020-11-04 00:00:00,,,,Ônus da Prova ,X
+13407,13237,,,2020-11-04 00:00:00,,,,Distribuição Dinâmica - Inversão ,X
+13420,13237,,,2020-11-04 00:00:00,,,,Equiparação Salarial ,X
+13432,13237,,,2020-11-04 00:00:00,,,,Férias / Gozo / Fruição ,X
+13434,13237,,,2020-11-04 00:00:00,,,,FGTS ,X
+14074,13237,,,2020-11-19 00:00:00,,,,Hora Extra/Intervalo,X
+13555,13237,,,2020-11-04 00:00:00,,,,Trabalho Externo ,X
+13559,13237,,,2020-11-04 00:00:00,,,,Vale Transporte ,X
+13608,8990,,,2020-11-04 00:00:00,,,,Prova Ilícita ,X
+12419,8990,CPC,369 a 384; 389 a 441 e 463 a 484,2018-11-23 00:00:00,,,,Provas em geral,X
+13294,8990,,,2020-11-04 00:00:00,,,,Repetição da Prova ,X
+9024,8960,CPC,344 a 346,2008-09-30 15:52:52,,,,Revelia ,X
+13251,9024,,,2020-11-04 00:00:00,,,,Atraso na Audiência ,X
+13256,9024,,,2020-11-04 00:00:00,,,,Confissão ,X
+13282,9024,,,2020-11-04 00:00:00,,,,Pessoa Jurídica de Direito Público ,X
+13039,8960,,,2020-11-04 00:00:00,,,,Ritos ,X
+9026,8960,CPC,489 a 495,2008-09-30 15:52:52,,,,Vícios Formais da Sentença,X
+12944,8826,,,2020-11-04 00:00:00,,,,Processo e Procedimento da Corregedoria ,X
+13018,12944,,,2020-11-04 00:00:00,,,,Pedido de Providências ,X
+13081,13018,,,2020-11-04 00:00:00,,,,BACEN JUD / Frustração da Ordem Judicial de Bloqueio ,X
+13469,13081,,,2020-11-04 00:00:00,,,,Justificada Ausência de Numerário ,X
+9045,8826,,,2008-09-30 15:52:52,2009-05-29 12:07:39,,,Recurso,X
+9098,9045,"Constituição Federal, CPC, CPP, CLT, Código Eleitoral, CPPM e Lei n. 9.099/1995","102, II e III; 105, II e III (CF); 994; 1.009; 1.015; 1.021, caput; 1.022; 1.027; 1.030, I, III, V e §§ 1º e 2º; 1.035, caput e §§ 1º a 3º, 6º e 7º; 1.036, §§ 2º e 3º; 1.037, §§ 9º e 13; 1.042, caput ; 1.043 (CPC); 581; 593 , I a III; 619; 639 (CPP)",2008-09-30 15:52:52,,,,Cabimento,X
+14081,9098,,,2020-11-19 00:00:00,,,,Decisão Interlocutória,X
+13292,9098,,,2020-11-04 00:00:00,,,,Pressupostos Extrínsecos ,X
+14075,13292,,,2020-11-19 00:00:00,,,,Preparo,X
+14076,14075,,,2020-11-19 00:00:00,,,,Custas,X
+14077,14075,,,2020-11-19 00:00:00,,,,Depósito,X
+13524,13292,,,2020-11-04 00:00:00,,,,Regularidade de Representação ,X
+13544,13292,,,2020-11-04 00:00:00,,,,Tempestividade ,X
+14078,9098,,,2020-11-19 00:00:00,,,,Pressupostos Intrínsecos,X
+14080,14078,,,2020-11-19 00:00:00,,,,"Artigo 896, § 1º - A, CLT",X
+14079,14078,,,2020-11-19 00:00:00,,,,Desfundamentação,X
+14082,9098,,,2020-11-19 00:00:00,2024-06-10 18:30:05,,,Transcendência,X
+9047,9045,"CPC, CPP, CLT, Código Eleitoral, CPPM, Lei n. 9.099/1955","987, caput e § 1º; 1.012; 1.019, I; 1.026, caput; 1.029, § 5º (CPC); 584, caput; 597; 598, caput; 637; 646 (CPP); 893, § 2º; 896, § 1º ; 899, caput (CLT); 257, caput e § 2º (Código Eleitoral); 65, § 2º, 106, §§1º e 2º;194,par. único e outros (CPPM)",2008-09-30 15:52:52,,,,Efeitos,X
+9060,9045,CPC,Arts. 506 a 508,2008-09-30 15:52:52,2018-11-27 16:40:47,,,Prazo,X
+10669,9060,CPC,"1.017, § 2º, II",2008-09-30 15:52:52,,,,Protocolo Integrado / Descentralizado,X
+12420,9060,"CPC, Lei n. 9.099/1995, CPP, CLT, Código Eleitoral e CPPM","1.003;1.023,caput;1.026,caput;1.044,§1º(CPC);42,caput;49,50,82,§1º;83,§§1ºe2º(L.9.099/1995);575;586;593,caput;598;619;640(CPP);894,capute§4º;895,caput;896,§12;897,caput;897-A,capute§3º(CLT);258;259;275,§1º;276,caput;279,caput;281,caput;282(C.Eleit.)",2018-11-27 00:00:00,,,,Tempestividade,X
+13028,9045,,,2020-11-04 00:00:00,,,,Processo de Alçada ,X
+13601,13028,,,2020-11-04 00:00:00,,,,Fase de Execução ,X
+13264,13028,,,2020-11-04 00:00:00,,,,Procedimento Sumaríssimo ,X
+10666,9045,CPC,"997, caput",2008-09-30 15:52:52,,,,Regularidade Formal,X
+13036,9045,,,2020-11-04 00:00:00,,,,Remessa Necessária ,X
+12152,8826,Código de Processo Civil,304,2017-05-05 00:00:00,2018-11-23 16:13:49,,,Revisão de Tutela Antecipada,X
+9192,8826,,,2008-09-30 15:52:52,2018-11-23 14:53:16,,,Tutela Provisória,X
+9532,9192,CPC,"83; 300, § 1º; 337, XII; 520, IV; 521; 525, §§ 6º e 10; 559; 641, § 2º; 678, parágrafo único; 704, IV; 708, § 3º; 840, III; 917, § 6º",2008-09-30 15:52:52,2018-11-22 17:15:31,,,Caução,X
+9524,9192,CPC,302,2008-09-30 15:52:52,,,,Indenização do Prejuízo,X
+9196,9192,CPC,"300, § 2º",2008-09-30 15:52:52,,,,Liminar ,X
+12418,9192,CPC,"304,§§ 2º a 6º",2018-11-23 00:00:00,2018-11-23 16:11:12,,,Revisão de Tutela Antecipada Antecedente,X
+12417,9192,CPC,294 a 299 e 311,2018-11-23 00:00:00,,,,Tutela de Evidência,X
+12416,9192,CPC,"294 a 304, § 1º e 305 a 310",2018-11-23 00:00:00,2018-11-23 16:03:29,,,Tutela de Urgência,X
+12467,,Portaria Conjunta CNJ e CNMP nº 1/2019,"2º, I a V",,,,,"QUESTÕES DE ALTA COMPLEXIDADE, GRANDE IMPACTO E REPERCUSSÃO",X
+12468,12467,Portaria Conjunta CNJ e CNMP nº 1/2019,"2º, I a V",2019-03-06 00:00:00,2023-03-31 17:12:50,,,Barragem em Brumadinho,X
+12470,12467,Portaria Conjunta CNJ e CNMP nº 1/2019,"2º, I a V",2019-03-06 00:00:00,2023-03-31 17:14:01,,,Barragem em Mariana,X
+12612,12467,Portaria Conjunta CNJ e CNMP nº 1/2019,"2º, I a V",2020-03-18 00:00:00,,,,COVID-19,X
+15365,12467,"Decreto Legislativo 36/2024, de 7/5/2024 e Portaria Conjunta CNJ e CNMP nº 1/2019","1° (DL 36/2024); 2º, I a V (Portaria 1/2019)",2024-05-09 14:19:38,,,,Enchentes no Rio Grande do Sul em 2024,X
+14679,12467,Portaria Conjunta CNJ e CNMP nº 1/2019,2º,2021-05-18 00:00:00,2022-06-10 16:17:03,,,Explosão da Fábrica de Fogos de Santo Antônio de Jesus/BA,X
+12469,12467,Portaria CNJ e CNMP nº 1/2019,"2º, I a V",2019-03-06 00:00:00,2023-03-31 17:11:13,,,Incêndio Boate Kiss,X
+12620,12467,Portaria Conjunta CNJ e CNMP nº 1/2019,,2020-03-26 00:00:00,,,,Migrantes e Refugiados,X
+14125,12467,Lei 13.709/2018,1º,2021-01-18 00:00:00,2021-01-20 09:15:45,,,Proteção de Dados Pessoais (LGPD),X

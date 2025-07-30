@@ -1,0 +1,83 @@
+Código,Cód. Pai,nome,JFJE
+385,,EXECUÇÃO PENAL E DE MEDIDAS ALTERNATIVAS ,X
+386,385,Execução da Pena,X
+14696,385,Execução de Medidas Alternativas nos Juizados Especiais,X
+12727,385,Execução de Pena de Multa,X
+406,385,Incidentes,X
+11957,406,Remição de Pena,X
+12728,385,Transferência Entre Estabelecimentos Penais,X
+1198,,PROCEDIMENTOS ADMINISTRATIVOS ,X
+12248,1198,Pedido de Cooperação Judiciária,X
+11099,,PROCEDIMENTOS PRÉ-PROCESSUAIS DE RESOLUÇÃO CONSENSUAL DE CONFLITOS ,X
+12136,11099,Pedido de Mediação Pré-Processual,X
+11875,11099,Reclamação Pré-processual,X
+2,,PROCESSO CÍVEL E DO TRABALHO ,X
+214,2,Outros Procedimentos,X
+237,214,Atos e expedientes,X
+241,237,Petição Cível,X
+257,214,Cartas,X
+261,257,Carta Precatória Cível,X
+215,214,Incidentes,X
+14991,215,Classificação de Crédito Público,X
+224,215,Exceções,X
+1230,224,Exceção de Impedimento,X
+1232,224,Exceção de Incompetência,X
+1231,224,Exceção de Suspeição,X
+12119,215,Incidente de Desconsideração de Personalidade Jurídica,X
+12080,215,Incidente de Impedimento Cível,X
+12081,215,Incidente de Suspeição Cível,X
+175,2,Processo Cautelar,X
+190,175,Justificação,X
+1106,2,Processo de Conhecimento,X
+1107,1106,Procedimento de Conhecimento,X
+436,1107,Procedimento do Juizado Especial Cível,X
+26,1107,Procedimentos Especiais,X
+27,26,Procedimentos Especiais de Jurisdição Contenciosa,X
+46,27,Restauração de Autos Cível,X
+62,26,"Procedimentos Regidos por Outros Códigos, Leis Esparsas e Regimentos",X
+69,62,Alimentos - Lei Especial Nº 5.478/68,X
+155,1106,Procedimento de Cumprimento de Sentença/Decisão,X
+156,155,Cumprimento de sentença,X
+15430,155,Cumprimento de Sentença - Reclamação Pré-processual,X
+12078,155,Cumprimento de Sentença contra a Fazenda Pública,X
+15215,155,Cumprimento de Sentença contra a Fazenda Pública Mediante Execução Invertida,X
+158,2,Processo de Execução,X
+159,158,Execução de Título Extrajudicial,X
+12154,159,Execução de Título Extrajudicial,X
+12079,159,Execução de Título Extrajudicial contra a Fazenda Pública,X
+1111,158,Execução de Título Judicial,X
+197,2,Recursos,X
+207,197,Embargos,X
+1689,207,Embargos de Declaração Cível,X
+12133,2,Tutela Provisória de Urgência e Tutela Provisória de Evidência,X
+12135,12133,Tutela Antecipada Antecedente,X
+12134,12133,Tutela Cautelar Antecedente,X
+268,,PROCESSO CRIMINAL ,X
+334,268,Cartas,X
+355,334,Carta Precatória Criminal,X
+308,268,Medidas Cautelares,X
+11955,308,Cautelar Inominada Criminal,X
+310,308,Pedido de Quebra de Sigilo de Dados e/ou Telefônico,X
+303,268,Medidas Garantidoras,X
+307,303,Habeas Corpus Criminal,X
+1727,268,Petição Criminal,X
+281,268,Procedimento Comum,X
+10944,281,Ação Penal - Procedimento Sumaríssimo,X
+277,268,Procedimentos Investigatórios,X
+12121,277,Comunicado de Mandado de Prisão,X
+1733,277,Procedimento Investigatório Criminal (PIC-MP) ,X
+278,277,Termo Circunstanciado,X
+284,268,Processo Especial,X
+292,284,Processo Especial de Leis Esparsas,X
+293,292,Crimes Ambientais,X
+14701,292,Habeas Data Criminal,X
+299,292,Procedimento do Juizado Especial Criminal - Sumariíssimo,X
+302,292,Procedimento Especial dos Crimes de Abuso de Autoridade,X
+285,284,Processo Especial do Código de Processo Penal,X
+288,285,"Crimes de Calúnia, Injúria e Difamação de Competência do Juiz Singular",X
+291,285,Restauração de Autos Criminal,X
+316,268,Questões e Processos Incidentes,X
+14123,316,Destinação de Bens Apreendidos,X
+331,316,Incidentes,X
+14678,331,Acordo de Não Persecução Penal,X
+1719,331,Avaliação para atestar dependência de drogas,X

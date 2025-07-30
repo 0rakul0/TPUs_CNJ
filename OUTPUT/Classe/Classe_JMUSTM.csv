@@ -1,0 +1,138 @@
+Código,Cód. Pai,nome,JMUSTM
+385,,EXECUÇÃO PENAL E DE MEDIDAS ALTERNATIVAS ,X
+386,385,Execução da Pena,X
+12729,385,Execução de Medidas Alternativas no Juízo Comum,X
+12727,385,Execução de Pena de Multa,X
+1714,385,Execução Provisória,X
+406,385,Incidentes,X
+409,406,Anistia,X
+411,406,Comutação de Pena,X
+407,406,Conversão de Pena,X
+408,406,Excesso ou Desvio,X
+410,406,Indulto,X
+1283,406,Superveniência de doença mental,X
+1288,406,Transferência entre estabelecimentos penais,X
+1284,406,Unificação de penas,X
+12728,385,Transferência Entre Estabelecimentos Penais,X
+1198,,PROCEDIMENTOS ADMINISTRATIVOS ,X
+1680,1198,Consulta Administrativa,X
+1303,1198,Correição Extraordinária,X
+1307,1198,Correição Ordinária,X
+12248,1198,Pedido de Cooperação Judiciária,X
+1199,1198,Pedido de Providências,X
+1298,1198,Processo Administrativo,X
+1264,1198,Processo Administrativo Disciplinar em face de Magistrado,X
+1262,1198,Processo Administrativo Disciplinar em face de Servidor,X
+256,1198,Representação por Excesso de Prazo,X
+1308,1198,Sindicância,X
+2,,PROCESSO CÍVEL E DO TRABALHO ,X
+214,2,Outros Procedimentos,X
+215,214,Incidentes,X
+12085,215,Incidente de Resolução de Demandas Repetitivas,X
+1106,2,Processo de Conhecimento,X
+1107,1106,Procedimento de Conhecimento,X
+26,1107,Procedimentos Especiais,X
+62,26,"Procedimentos Regidos por Outros Códigos, Leis Esparsas e Regimentos",X
+110,62,Habeas Data Cível,X
+11555,62,Suspensão de Liminar e de Sentença,X
+11556,62,Suspensão de Segurança Cível,X
+197,2,Recursos,X
+200,197,Agravos,X
+1208,200,Agravo Interno Cível,X
+12133,2,Tutela Provisória de Urgência e Tutela Provisória de Evidência,X
+12135,12133,Tutela Antecipada Antecedente,X
+12134,12133,Tutela Cautelar Antecedente,X
+268,,PROCESSO CRIMINAL ,X
+334,268,Cartas,X
+335,334,Carta de Ordem Criminal,X
+308,268,Medidas Cautelares,X
+11955,308,Cautelar Inominada Criminal,X
+311,308,Medidas Investigatórias Sobre Organizações Criminosas,X
+1268,308,Medidas Protetivas de Urgência (Lei Maria da Penha) - Criminal,X
+309,308,Pedido de Busca e Apreensão Criminal,X
+312,308,Pedido de Prisão,X
+313,312,Pedido de Prisão Preventiva,X
+314,312,Pedido de Prisão Temporária,X
+310,308,Pedido de Quebra de Sigilo de Dados e/ou Telefônico,X
+303,268,Medidas Garantidoras,X
+307,303,Habeas Corpus Criminal,X
+304,303,Liberdade,X
+305,304,Liberdade Provisória com ou sem fiança,X
+306,304,Relaxamento de Prisão,X
+269,268,Medidas Preparatórias,X
+274,269,Interpelações,X
+275,274,Notificação para Explicações,X
+1727,268,Petição Criminal,X
+277,268,Procedimentos Investigatórios,X
+280,277,Auto de Prisão em Flagrante,X
+12121,277,Comunicado de Mandado de Prisão,X
+279,277,Inquérito Policial,X
+1731,277,Investigação contra magistrado,X
+1733,277,Procedimento Investigatório Criminal (PIC-MP) ,X
+271,277,Representação Criminal,X
+272,271,Representação Criminal/Notícia de Crime,X
+278,277,Termo Circunstanciado,X
+284,268,Processo Especial,X
+292,284,Processo Especial de Leis Esparsas,X
+293,292,Crimes Ambientais,X
+14701,292,Habeas Data Criminal,X
+1710,292,Mandado de Segurança Criminal,X
+12122,292,Reclamação Criminal,X
+285,284,Processo Especial do Código de Processo Penal,X
+291,285,Restauração de Autos Criminal,X
+12394,285,Revisão Criminal,X
+316,268,Questões e Processos Incidentes,X
+1717,316,Alienação de Bens do Acusado,X
+14123,316,Destinação de Bens Apreendidos,X
+327,316,Embargos de Terceiro Criminal,X
+1715,316,Embargos do Acusado,X
+317,316,Exceções,X
+324,317,Exceção da Verdade,X
+322,317,Exceção de Coisa Julgada,X
+323,317,Exceção de Impedimento,X
+319,317,Exceção de Incompetência de Juízo,X
+320,317,Exceção de Litispendência,X
+318,317,Exceção de Suspeição,X
+331,316,Incidentes,X
+14678,331,Acordo de Não Persecução Penal,X
+325,331,Conflito de Jurisdição,X
+432,331,Desaforamento de Julgamento,X
+11788,331,Exibição de Documento ou Coisa Criminal,X
+12077,331,Homologação em Acordo de Colaboração Premiada,X
+332,331,Incidente de Falsidade,X
+333,331,Insanidade Mental do Acusado,X
+1291,331,Reabilitação,X
+328,316,Medidas Assecuratórias,X
+330,328,Arresto / Hipoteca Legal,X
+329,328,Seqüestro,X
+326,316,Restituição de Coisas Apreendidas,X
+412,268,Recursos,X
+1712,412,Agravo de Instrumento em Recurso Extraordinário,X
+1729,412,Agravo Interno Criminal,X
+417,412,Apelação Criminal,X
+419,412,Correição Parcial Criminal,X
+420,412,Embargos de Declaração Criminal,X
+421,412,Embargos Infringentes e de Nulidade,X
+424,412,Recurso de Medida Cautelar Criminal,X
+426,412,Recurso em Sentido Estrito,X
+11398,412,Recurso em sentido estrito/Recurso ex officio,X
+427,412,Remessa Necessária Criminal,X
+428,412,Revisão Criminal,X
+11028,,PROCESSO MILITAR ,X
+11029,11028,PROCEDIMENTOS ESPECIAIS PREVISTOS EM LEIS ESPARSAS,X
+11034,11029,Conselho de Justificação ,X
+11035,11029,Representação p/ Declaração de Indignidade/Incompatibilidade ,X
+11030,11028,PROCESSO CRIMINAL,X
+11037,11030,Ação Penal Militar - Procedimento Ordinário,X
+11031,11030,Procedimento Especial,X
+11042,11031,Correição Parcial Militar,X
+11043,11031,Deserção,X
+11045,11043,Deserção de Oficial,X
+11032,11030,Procedimentos Investigatórios,X
+11041,11032,Inquérito Policial Militar,X
+11033,11030,Recursos,X
+11038,11033,Embargos em Ação Penal Militar,X
+11039,11033,Reclamação Militar,X
+11040,11033,Recurso Inominado Militar,X
+15423,11028,Revisão Judicial - Conselho de Justificação,X
+15321,11028,Revisão Judicial - RDII,X

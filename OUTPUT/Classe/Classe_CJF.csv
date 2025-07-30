@@ -1,0 +1,30 @@
+Código,Cód. Pai,nome,CJF
+1198,, ,X
+88,1198,Correição Parcial ou Reclamação Correicional,X
+15243,1198,Monitoramento de Auditorias e Obras,X
+12248,1198,Pedido de Cooperação Judiciária,X
+1199,1198,Pedido de Providências,X
+1298,1198,Processo Administrativo,X
+2,,PROCESSO CÍVEL E DO TRABALHO ,X
+214,2,Outros Procedimentos,X
+215,214,Incidentes,X
+224,215,Exceções,X
+1230,224,Exceção de Impedimento,X
+1231,224,Exceção de Suspeição,X
+12080,215,Incidente de Impedimento Cível,X
+12081,215,Incidente de Suspeição Cível,X
+457,215,Pedido de Uniformização de Interpretação de Lei Cível,X
+1106,2,Processo de Conhecimento,X
+1107,1106,Procedimento de Conhecimento,X
+26,1107,Procedimentos Especiais,X
+27,26,Procedimentos Especiais de Jurisdição Contenciosa,X
+46,27,Restauração de Autos Cível,X
+197,2,Recursos,X
+10942,197,Correição Parcial Cível,X
+12133,2,Tutela Provisória de Urgência e Tutela Provisória de Evidência,X
+12135,12133,Tutela Antecipada Antecedente,X
+12134,12133,Tutela Cautelar Antecedente,X
+268,,PROCESSO CRIMINAL ,X
+316,268,Questões e Processos Incidentes,X
+331,316,Incidentes,X
+433,331,Incidente de Uniformização de Jurisprudência,X
